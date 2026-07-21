@@ -39,8 +39,8 @@
         }
       },
       {
-        "name": "Telefe",
-        "url": "EQWRB/Ua0wao0XDo4N5xZpe7r5sIr68H2HKKmmq57cFS+1M5IC7LOALxaKlAaXiUNBMu+fRPftC1ZAbApI7N9P85ek0udT5T302zAGp5VrXl67un44NoT6ZGfAeR4EbN6Kzduk9Ssk9cL7F2fWYmiOxNJ49AXiHMlVYg9QWZjuKGbUjJgIeK3yL/TnTRs/7N+tQCMIZ/cn7GLusY1AG8RjdiwHqIBabZoUYuWib8X1LzMS21dh6dnQhVNVbIMTXq8+bQutgqoqqjUWn1n7J/kTifahdSGpjICZTUqL/ub5QWLbvjM3/rvIBw4WwlXnrH6ANI1tB/GKFYqUS7ebjGQuCBlBwqQw07uY6b1efdLfgTGRepvlRHmUgiCjae4aae3f0ANKdt9puiA9452nF3DmDnrnwci+z+r1XU7ffXvYAkWlBIPkeZcdWD+KFqPbNf+ga0/TCOC972Ej4AAetECwU7LlMqGed1ECcW9Wi1ceeaf+bLh6Tcl6KNXnoYGEqVjIjsHuICQG412oQ7b7A4NcmL5tKlDEVFrRo6bMR3r1X30UxEgTSgP2VoQqaMmcO7+5SG5UotcbJse91s3laXrmCg7jW+vOQ9MKMF7JM4j0ZMrL90y5sEouvcMF2JOpbNFJLJ7ezKIdtSmK4asko9/E/f4KpdlDkphVqm75lz3In1SCdHveYPWJfI26cbYI2XmbeacdQnyvUHVrA990o8hGQTvaTSyo76K2i8HrrbI5o1kUDmi+J7a9APwXDcTbKow45f2Zee8LAQO7TQn5uFGQ==",
+        "name": "Teelefe",
+        "url": "https://edge-mix02-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg0NzcwNDI2Iiwic2lwIjoiMTkwLjEwMy4xNzcuMTYyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1BBUkFWSVNJT05fQzQvc2FfaGxzX2Z1bGxfZV85NUFFRkFCRjYwNkY2NzM2OEQ2MkE0ODYvIiwic2Vzc2lvbl9jZG5faWQiOiJjY2E1YmRiYmVhNmRlNjdkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjI3MSIsInNvdXJjZXMiOls3Myw4NSwxNDQsMjEwLDg2LDg4XX0=.lR3NGK8XEh18yDSb0jcO1x50BjYE7MqJOKb3Zw3JltU_pxvS0adQ04gt4X33CFQJmQsQSk-kHjF1d59qaWJOnw==/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1qhCyNCqHLOLf0pDZXESv+E",
@@ -69,18 +69,6 @@
         "headers": {
           "Origin": "xXbfzaV86SziUpzMaGuP41XCwsc3AguKXRdIwiQM7U5p45ALkHccw+E8WuN7aDnp",
           "Referer": "xXbfzaV86SziUpzMaGuP41XCwsc3AguKXRdIwiQM7U4DvJtiTpcNN58QFvknHsht",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
-        "name": "Teelefe",
-        "url": "https://edge-mix02-cen.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg0NzcwNDI2Iiwic2lwIjoiMTkwLjEwMy4xNzcuMTYyIiwicGF0aCI6Ii9saXZlL2M0ZWRzL1BBUkFWSVNJT05fQzQvc2FfaGxzX2Z1bGxfZV85NUFFRkFCRjYwNkY2NzM2OEQ2MkE0ODYvIiwic2Vzc2lvbl9jZG5faWQiOiJjY2E1YmRiYmVhNmRlNjdkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNSIsImF1ZCI6IjI3MSIsInNvdXJjZXMiOls3Myw4NSwxNDQsMjEwLDg2LDg4XX0=.lR3NGK8XEh18yDSb0jcO1x50BjYE7MqJOKb3Zw3JltU_pxvS0adQ04gt4X33CFQJmQsQSk-kHjF1d59qaWJOnw==/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
-        "type": "CLEARKEY",
-        "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
-        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1qhCyNCqHLOLf0pDZXESv+E",
-        "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
         }
       },
