@@ -851,23 +851,6 @@
     ]
   },
   {
-    "name": "⚽ EVENTOS MLS EN VIVO (Solo cuando hay transmisiones Exclusivas)",
-    "samples": [
-      {
-        "name": "🟢Torque vs Nacional",
-        "uri": "HQQyhg39PbLDu6zWKFu7Y+q7Z207F6Kicu5yONdl0TDkbMO8oFivYUnK0MdV+gqvwn1fo1BRFaei2+59xWAwW2njkAuQdxzD4Txa43toOek=",
-        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLJN6RVfirMva3ciSwndjZFHztiwb2qicckyMA_RmmxMarFbajK7_6XWVhMUf4OVe8XpFQNVF7_dW5mEpfwSBFytgqnx7-ms3LtV4f2fcpoJ_Wa4QsLPhdK6Z83dPDaaaumUm90kNPwgEaZoaAmSg77VKYpohxCHM90XITgEhFGUNh3DXfpuTKF8Nzmjk/s1600/Torque%20X%20Nacional.png",
-        "drm_data": "GBYVFEwfRGwBP+DAAbaZLRFkQgkxWwHqGWjDgWFTLVYjdy8t2RSrNm/ebRpWV0dZJYEloL8tIs05i46IqUMGBnXq/l4CgkMa7Zct4snLaQvWcjD0wo5SgfwlGwk1KhpNjXnqpO7jWIJdxTMnf0lx7P9qSAQZ8N7wKQSbihE7bhIVIoC1CCecUCy99kRPCfXyLDGuBFg1Sdx54PN02W1V+gCjtgKa/EqeFIhXQqmvxtBS53UfGyJYBA+3DnMITPPVrk/UxivxJs7a9EGad0YnBA=="
-      },
-      {
-        "name": "🟢NYC vs Inter Miami",
-        "uri": "gvuZ39gDgv25mT0cbuHVGtkRZ+8H5aAMvGuRklX7KFGmBiMcYPVcCQA6zeSjwf5k",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/MLS_crest_logo_RGB_-_Inter_Miami_CF.svg/960px-MLS_crest_logo_RGB_-_Inter_Miami_CF.svg.png",
-        "drm_data": "GBYVFEwfRGwBP+DAAbaZLRFkQgkxWwHqGWjDgWFTLVYjdy8t2RSrNm/ebRpWV0dZJYEloL8tIs05i46IqUMGBnXq/l4CgkMa7Zct4snLaQvWcjD0wo5SgfwlGwk1KhpNjXnqpO7jWIJdxTMnf0lx7P9qSAQZ8N7wKQSbihE7bhIVIoC1CCecUCy99kRPCfXyLDGuBFg1Sdx54PN02W1V+gCjtgKa/EqeFIhXQqmvxtBS53UfGyJYBA+3DnMITPPVrk/UxivxJs7a9EGad0YnBA=="
-      }
-    ]
-  },
-  {
     "name": "⚽ EVENTOS FLOW",
     "samples": [
       {
@@ -936,6 +919,13 @@
         "icono": "https://i.ibb.co/Ldybrz35/castigo.jpg",
         "drm_scheme": "clearkey",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1qy/T923hV8gYVNV6sGUKK5"
+      },
+      {
+        "name": "🟢TIGO 🇵🇾",
+        "uri": "8pw1uiBCFTp89+D1BzMYTp2/eXwyfEoRuoXGXzq8GfBb6LLOiil1Z0T7ajHPodn0",
+        "icono": "https://i.ibb.co/Ldybrz35/castigo.jpg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1pnJWhp5TaKMj+vBpiODwZn"
       },
       {
         "name": "🟢TIGO 🇵🇾",
