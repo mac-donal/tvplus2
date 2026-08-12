@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA📡",
+    "name": "🇦🇷 CANALES DE ARGENTINA2📡",
     "samples": [
       {
         "name": "LUZU TV",
@@ -361,6 +361,48 @@
         }
       },
       {
+        "name": "CANAL 12 CORDOBA",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJ/yef5lJ+Adlm/ePZDCsxHXAblwMCaG5rhkv9uaCGUQurlIqxezW5+eG9oEBl0vz+bVXpGm/jL4UqWeRExTBdf",
+        "icono": "https://i.ibb.co/60sFBfY/og-image.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCQt7GwctWNziBhQZRw2AHkw3hlUY6NLEXw7a+MqP2S5Gs5rxs95n9nQjwn1O7T/BW5zcqVP8kIlPhkKkiPB3fZ5l9z0f9NfDbhcwEQRRyMJSA==",
+        "headers": {
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "Telefe Cordoba",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJ/yef5lJ+Adlm/ePZDCsxH0OYC4d6S/ZSWCt03pWp66gyBaQXWwKQoXhNupfOHVppiUbYNG9yWsKQZR5r4xIGy",
+        "type": "CLEARKEY",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCju5rg0ZA5QLXIXk231TFMWYIlyReHkqSM4pCNz6LOJAPu7nUdLFg9_k4jBuEwyWVxE&usqp=CAU",
+        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCQaxY/zGpzH8Jl5dQ7uiRKROPh67y2WGycPL+njypPtmwGYiHUbNYlzKHsam9VZUZ276oWDYSHE7F2N03hrJttC6K3Tin4tY4hDbvcK6AaRcQ==",
+        "headers": {
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "Canal 10 Cordoba",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK+EtTF/XB9yPozJSmHBnqGVZWZ8Fr/7NRBkGPFYy5iJ3Te6K6JSLojbG/eTCQiqdAob+7rFBu+oNkpr0ErNKkT",
+        "type": "CLEARKEY",
+        "icono": "https://i.imgur.com/87WCHtd.png",
+        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCQvAkENaVlZxDKCpyyixPw3Hst/uv8wFlCUeOvQwwXfcEaVf4OgR9aSx3Q2PGh+CWQZLdk3kYkJCnVZ+qW54CenT9UiS/n45O4B8q8UGhJ7qw==",
+        "headers": {
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "Canal 10 cordoba opc 2 ",
+        "url": "ilOZEuHGYrlxc4gD7mvcvcbIST1xsL8MhDizsot7ttb3dFTJAGL97ozQLpfIUFjK42C7bS+Iqck2C2qj7Arz8raNOOa898NTUdhvkey4Tiw=",
+        "type": "HLS",
+        "icono": "https://i.imgur.com/87WCHtd.png"
+      },
+      {
         "name": "9 Santa Cruz",
         "url": "M7YiOVFd8/MYQpGbRQULNirQyzWh8LC1A1/+5jxagqFzpnJN8KA4QGcBkAh0oePmwDPBbjguiIK7IYCeoT+ZEQZX9++UmFY39mStCmoUCMciE98oXZdic35SrWuDNoQX",
         "type": "HLS",
@@ -571,41 +613,11 @@
         }
       },
       {
-        "name": "Canal 10 Cordoba",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK+EtTF/XB9yPozJSmHBnqGVZWZ8Fr/7NRBkGPFYy5iJ3Te6K6JSLojbG/eTCQiqdAob+7rFBu+oNkpr0ErNKkT",
-        "type": "CLEARKEY",
-        "icono": "https://i.imgur.com/87WCHtd.png",
-        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCQvAkENaVlZxDKCpyyixPw3Hst/uv8wFlCUeOvQwwXfcEaVf4OgR9aSx3Q2PGh+CWQZLdk3kYkJCnVZ+qW54CenT9UiS/n45O4B8q8UGhJ7qw==",
-        "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
-        "name": "Canal 10 cordoba opc 2 ",
-        "url": "ilOZEuHGYrlxc4gD7mvcvcbIST1xsL8MhDizsot7ttb3dFTJAGL97ozQLpfIUFjK42C7bS+Iqck2C2qj7Arz8raNOOa898NTUdhvkey4Tiw=",
-        "type": "HLS",
-        "icono": "https://i.imgur.com/87WCHtd.png"
-      },
-      {
         "name": "Canal 10 Tucuman",
         "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLzXrTCtRa8dImOV+rdKK0D6mDVcUlENc9Lmmq+ufzj7w4MRt05y7B2G/Oc0hRkgKAHMsD5czMpcKsdUoSwQquD",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/vvknBFv/canal10-tucuman.png",
         "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCTQopQtYiAHcv7vEg/pM3oZPvdasbHvxp27zEJG18zdhaVL/YVmK7jzuO2NarOpi6l50o7djvfQY7/U4oX2FDSuI+oKAMNupAMzfFMiQTBHXg==",
-        "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
-        "name": "CANAL 12 CORDOBA",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJ/yef5lJ+Adlm/ePZDCsxHXAblwMCaG5rhkv9uaCGUQurlIqxezW5+eG9oEBl0vz+bVXpGm/jL4UqWeRExTBdf",
-        "icono": "https://i.ibb.co/60sFBfY/og-image.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCQt7GwctWNziBhQZRw2AHkw3hlUY6NLEXw7a+MqP2S5Gs5rxs95n9nQjwn1O7T/BW5zcqVP8kIlPhkKkiPB3fZ5l9z0f9NfDbhcwEQRRyMJSA==",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
@@ -774,18 +786,6 @@
         "type": "CLEARKEY",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png",
         "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCSTfYGB0t2P1srHJHk43y8R9RA9jiWmfvZgkmv3oI9GD7nVz3LiloPWowrQWXvqFul0PdKh9vgI5RRAyNNjpGsexLAWCXmLEvuzyrSrRzVd0g==",
-        "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
-        "name": "Telefe Cordoba",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJ/yef5lJ+Adlm/ePZDCsxH0OYC4d6S/ZSWCt03pWp66gyBaQXWwKQoXhNupfOHVppiUbYNG9yWsKQZR5r4xIGy",
-        "type": "CLEARKEY",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSCju5rg0ZA5QLXIXk231TFMWYIlyReHkqSM4pCNz6LOJAPu7nUdLFg9_k4jBuEwyWVxE&usqp=CAU",
-        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCQaxY/zGpzH8Jl5dQ7uiRKROPh67y2WGycPL+njypPtmwGYiHUbNYlzKHsam9VZUZ276oWDYSHE7F2N03hrJttC6K3Tin4tY4hDbvcK6AaRcQ==",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
