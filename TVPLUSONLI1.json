@@ -996,10 +996,10 @@
       },
       {
         "name": "HBO 2",
-        "uri": "KusJ5ShfomSLrFIJxHev/jQ+bnMYdDpEDDyI1a/3bmhS+1M5IC7LOALxaKlAaXiUNBMu+fRPftC1ZAbApI7N9P85ek0udT5T302zAGp5VrXwdIWXpjWk2d4yzz9qHemUF5BB3eVdicKqXr4KYIU+LPA3PIPo9bLTm4W5Rudqlty7xtaMnQhs110gawy+jN2NOG5XO/UjhhvhE0dW9w2quGpxvN/DYZdF5KeuGiE2giM2+VXmt7uvnopfANOPsZw1EllbI2l13awz1r7rvds8pNpKpxXpDyUEF3qgCNWvfp6QYUUSLlwz49LzTgOSpK4ZSAt7jIRJNgQhTG6gYo/5OrPmTtfk6n58wwA3vJQb7/2GRnIqm0n5WkNiF0BZMK0Mq8gQ8ri6pzj3rYGuYdlfc4U9ZhHGLXTQYeTEjji8QoeNh8ZUn6kS6zhLZknj1hQlWUNdnJ8yRRgvzrfaAe5aeAo1GUWOpkWpLRTrMla5SAkM08yDIuCRLj18W7r6yJznUb5X8NN+LAint49IXtVPQwUQzw32PSPtUPYL4vQpghraX9w1in7xxhpYl7Iaz1QusI2jdP/QjNVelAuEPvdTNM2mZv30uOxe+LseATnNFeqDCIR0IahrmgC7IhbqNAOTcCydGdzELJSt7viT6OJY9sMBvwWmId3eUCZGMQ09pkot2RNFvbME7tscFaN1l221QFfI9rPbvhGiaOHGMeZyegHrLSQxboZ+uRqxoZ516arPa/q9vx7BntYRJQJSZzTBWV3M35IwO4yEO2xEt95Ylwhu0JpL9CgPtpK4XqhxTlDPe+Gh9/lcsFALLQ4yXkzmy6kRnYqQJnVVBGEs/O/tJw==",
+        "uri": "bkpTO/EOiKMKX9/7196HSC696c5lmX60TcsVho/OjsGyqG2lGoDvoxAV8AokKcL3OER4DpqMbd4aSDThQSjem5zyF2M4XsKQWW1FfIkK4UE=",
         "icono": "https://i.ibb.co/KsX2ZS9/ar-hbo-2-m.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGiEckPCMkjbu2gA78KPjufnUMhte+LGpmxacqun3TIXS",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "bc0ZWdM4AZ5HB4TTSJvcoohq2zRQqwVdU69MRiZaucHULLup/QfBCrqF33klHEUKrDxoCCp6Ge6ydPtoxK1cxhds3XC3uhVBErqXa3wtn6Z7AkYHbPVB6WtbNkSablx4dJtnKzAFbAdFlGWiSsgVC4IaF6r9rL6N6q1p1cMSC1hne47I8ohwTcVUurO+up92WY/gIkPq1g7jrlDl5glnUBtK1ZHqiz07UKaUP4eM0G48j9eRuSKqEMeaKJzSqio4778Tf8MdsmYViTWxH+KYd5wtd7jcDAwHYhuRkkE9noKQk1/4km3XQImq2Vi1yCvFdTYSiYWWvl1/i1APh3+cRvARyVmHbBPBOokNyMN3p2JktyiQM6UeM+S7M7D7g1pid1YIR+UsvvzBbLTcBE0F2v7Vbv27qdqKxiKSOYHcJWYb3lhzOiG/vOnuy+Z2uYvWcw2/k1Sfz6JU4BqbDu6oAxaUwXfbAEDecbNYXcInCNolsX4190q+lutAkdAPGpsIKncj/qrp0ceOS7jDBFWB6b+JxBaTuEqOEQai7RcEKlpzpUUDVsfGDo2qCMAijRaV/1G0ClT0vUa8r/05RZywP//xNivA0fVe09k1aLUBb+mLS2kAMH2Fwmwgdu6pmvPqQ6lQnV94avNDiR9y0KhsADcyHLnwA41zqAuZ5353ywqOrTZQQwpVUkOlJ9skiBRc5Ye+x3Dt1I9MNCq9AYrg19WXcVK8K5C1vKwVyubE6Uh+N6w/U3xvI4TeVuXbasvnzdtXSGfQ9OANciW9WCbBkw2rVtaM9dr/llacZcQzhh8IFVYgeuBlIxnrdJqrt65mrNUvy1dDJvixCJFt3UglaQ==",
         "drm_data": "KshJHsOmq9Me91adf024yUqekm4h8N0cjWTW8qgldpGmN+ih9Qgbc/nk5xdSIWR4OQ+vx+UcVIl0KSM+9U4s1kBVVRGt4T36BbTZDnmwxnl3i88Ry67jcYp+3RpjE4abqZtO3MA/IVd3Y40DWuSBdWpHUzRtB/xoh1UF7JoqFS7ebJvmKsO5/4lH2FeTBdY/AEHOM7S08VOXQpoUp8MJZQ9aBX+O6r+FJc1gHNEIq6sHsOHZxmP9+jdM9xB0MRVr0KvZjh17NAltwNOgSp+Ghnho3AOLko7V61NsgP+YJT/pR8n8EpgWIpGEjaGoWQtZ"
       },
       {
