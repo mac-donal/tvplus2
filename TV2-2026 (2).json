@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA1📡",
+    "name": "🇦🇷 CANALES DE ARGENTINA12📡",
     "samples": [
       {
         "name": "LUZU TV",
@@ -3631,7 +3631,7 @@
         "name": "Telefuturo",
         "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJmNC6DR0bMOVXgefo5wN60pvrAffv1Fe3bhaOwpBy5FLciSFFRS2TaN0Ecui3bvV3gOtIvAsrm9T+HUwSiYPM0",
         "type": "CLEARKEY",
-        "drm_license_uri": "7Km0DiR3RofENkp/OU8zjFYDAvuaNFxstTe6JeehaVZDbvCADC1Nb35xFk491Y+eO4IvRs67bj848v/flcSoLQ==",
+        "drm_license_uri": "https://mrghnngupolsgatcmevw.supabase.co/functions/v1/PerFlow_TelefuturoPY",
         "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
