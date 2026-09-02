@@ -994,15 +994,15 @@
       },
       {
         "name": "DSPORTS URUGUAY",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJSwHtgVdd4gMC+w4lK/0cwod6iJLt2BUpH/m0mnzpp7iHffe9jq711xxeDQbVFNRe4zpKYNJLcx2CDGFcnpgo3bJ/I00ekSVxO2WsbeNa8lU0IQow0OPgbX6LISSvTtPw=",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/Dsports_UY/SA_Live_dash_enc/Dsports_UY.mpd",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/0xSPs29/DSports.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCQ2CxIsuqJ2xXWAbNXURPTqwGO4AlacvP+22W5VDsFBqWf8rhTg4Zc4M/lfAO/OwpxQA7wyYp6G+gNA8Mu9hhUSaCMMrwF1e3HrLYBzYcmoDg==",
+        "drm_license_uri": "https://magisvideo.com/KEYFLOW/SPORT.UY.json",
         "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
         }
       },
       {
