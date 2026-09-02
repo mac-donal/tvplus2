@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA2📡",
+    "name": "🇦🇷 CANALES DE ARGENTINA3📡",
     "samples": [
       {
         "name": "LUZU TV",
@@ -28,7 +28,7 @@
       },
       {
         "name": "MIX TV",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc/MixTV.mpd",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_C/MixTV.mpd",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/Fk9KgMvc/mix-tv.png",
         "drm_license_uri": "https://results.femon.net/?keyid=0e1327b5b1f4dfe767aec622c9ef64ce&key=60c64a922af0121bf73261c825e33f18",
