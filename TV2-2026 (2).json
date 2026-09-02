@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA📡",
+    "name": "🇦🇷 CANALES DE ARGENTINA1📡",
     "samples": [
       {
         "name": "LUZU TV",
@@ -1936,9 +1936,9 @@
     "samples": [
       {
         "name": "HBO",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKlHigqUtgdc57lA0QuB/VVt5p8LV1uOuzDb7jD0M0sbmPqPEfkUZJ0avKsiCDnA3E=",
+        "url": "http://147.78.1.28/xview/hbo_west_hd.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "7Km0DiR3RofENkp/OU8zjFYDAvuaNFxstTe6JeehaVZDhgS65+wuezeImrrqBSg+",
+        "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?key%5B%5D=8cdb36741f8a5e44076eebd33ac9d42d&keyid%5B%5D=55d247f1e7c045c8b81b913a3d338de6",
         "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
