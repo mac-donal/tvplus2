@@ -3725,9 +3725,9 @@
       },
       {
         "name": "La Tele",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKQtnwfcljsyI+52LYF0z+mFXMY9C1GjFITOoUdEcrPZCnQc5PMXoxNxxqMXzbDpgcVFPBBll2FYdw+7EuRPd8P",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "7Km0DiR3RofENkp/OU8zjFYDAvuaNFxstTe6JeehaVb8jys15caf2oWWLKjo80a9",
+        "drm_license_uri": "https://results.femon.net/?keyid=51bcbf1f1f83f30e91a1f1b6ff9155ee&key=c1fb35c39a7353bf9493799086d887ac",
         "icono": "https://i.ibb.co/rKdXmGXj/tele.png",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
