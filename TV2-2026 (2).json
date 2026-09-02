@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA3📡",
+    "name": "🇦🇷 CANALES DE ARGENTINA33📡",
     "samples": [
       {
         "name": "LUZU TV",
@@ -28,10 +28,10 @@
       },
       {
         "name": "MIX TV",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIZ6OOECC0MbUtJngdTvXN9PnuoXPapQmGbMzcf+K9d3U1sVK8DrOOmQuAOt8nBtEPBzWmualXeQ1rQpP+n411V",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/Fk9KgMvc/mix-tv.png",
-        "drm_license_uri": "https://results.femon.net/?keyid=0e1327b5b1f4dfe767aec622c9ef64ce&key=60c64a922af0121bf73261c825e33f18",
+        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCTd3ktikOSBOgEKRL4jpdHGgcDRK1J7PNdRBWIJWpbuoGMekcaR4MvcKonaMguikTTKm3cwk0q+TRpC73kcLdP7om+BeGcSreiV3/1UTTD2Hw==",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
@@ -40,10 +40,10 @@
       },
       {
         "name": "Telefe",
-        "url": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIZ6OOECC0MbUtJngdTvXN9PnuoXPapQmGbMzcf+K9d3U1sVK8DrOOmQuAOt8nBtEPBzWmualXeQ1rQpP+n411V",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
-        "drm_license_uri": "https://results.femon.net/?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
+        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCRxLItCe8HX8XAPVQAfk8ARmoYk3cKvbCx0qoIRtxSr8PzRur/jc7R6sPHyDyzu696k5euIdcW6+NS7OaybmUek6c9+ULkFdcAF0Aj0H7lgyQ==",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
@@ -994,15 +994,28 @@
       },
       {
         "name": "DSPORTS URUGUAY",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/Dsports_UY/SA_Live_dash_enc/Dsports_UY.mpd",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLhK9JYFUy+FO3fZptilrBkRSjcnnBut9GHlJG2kI58coGefXodLI5pYUpTDoaeRimozWrUnM5SS6IsUZajFnAb",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/0xSPs29/DSports.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://magisvideo.com/KEYFLOW/SPORT.UY.json",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGpm0rjP9B+7I9Boh76vv89A7uML+DAMVscDbx/ehMX8S",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "dtv": 1,
+        "name": "DSPORTS URUGUAY 2",
+        "url": "S3dxHnW+daMdXEt1FucLtJgnfXhHsXrTv54Y8p+SOb6404Aox/TUF0kyoa8v+SOgzbTqBvBi65p02hj8EEUGNnBW3GAK7h3so9o0L1JoY0w=",
+        "type": "CLEARKEY",
+        "icono": "https://i.ibb.co/0xSPs29/DSports.png",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGlBhw7O+ELbw4TGDj2zo0GteIIuv6C6fM1wvDdBlj0HLsfE+dmQ66wDfJ8AHQ8oZUA==",
+        "headers": {
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ==",
+          "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
+          "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw="
         }
       },
       {
@@ -1176,7 +1189,7 @@
         "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIW7c8B26HWtij6f1QtNAQwx2Z3Q5zoy6wLRE4bfFkEwb8OK7jFQDm2ydDjcGIiI+a8yN0lwzwlrDkIzM40cuPa",
         "type": "CLEARKEY",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/0/00/TNT_Sports_Logo_%282017%29.png/revision/latest?cb=20180622191406&path-prefix=es",
-        "drm_license_uri": "https://results.femon.net/?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
+        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCSfcyg/eN1HMm1KvmnAl+TUvuEbW7G9/e1g1T6CFzWnFwTYV4g1CnysZ0OZ4joE8FP0WqgkLid9+CXeNr/iFLxdHl1AH1gFQ+3TS58K/Uxekw==",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
@@ -1188,7 +1201,7 @@
         "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJ3saV3TPVI5/62bYasmVXbg8+yd4Sxm4uSmVlt7LAJ5LeafC1dbjrsw2+4w9DNLG6Jwhb2IcD33jhL9S5eZJlfUf97Nd0BdTQ5C32p6o2UaA==",
         "type": "CLEARKEY",
         "icono": "https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png",
-        "drm_license_uri": "https://results.femon.net/?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
+        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCQTNFNnaJR5g61AXPRK5A3ptTE5+515F/O8qV6RDw3hLuL5gEgc0wNlP/6x4Xh/rNAKytldRsboZYW0n4DeeZ9L27c33ebqtHRjacn6rSKTEQ==",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
