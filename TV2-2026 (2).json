@@ -5051,16 +5051,15 @@
         "webview": true
       },
       {
-        "name": "DSPORTS URUGUAY",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJSwHtgVdd4gMC+w4lK/0cwH6GhXiwxsYo7PVPVHynWtBFyGdi7ph1MG6TH8mCyNlPsHVbsjeipbSdpJcz4VwevaeOQC5B3HMPhPFrje2g56Q==",
+        "name": "SNT",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/SNT_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/SNT_C4.mpd",
         "type": "CLEARKEY",
-        "icono": "https://i.ibb.co/0xSPs29/DSports.png",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCQ2CxIsuqJ2xXWAbNXURPTqwGO4AlacvP+22W5VDsFBqWf8rhTg4Zc4M/lfAO/OwpxQA7wyYp6G+gNA8Mu9hhUSaCMMrwF1e3HrLYBzYcmoDg==",
+        "drm_license_uri": "https://elcieloexiste.com/keyflow/SNT.json",
+        "icono": "https://i.ibb.co/vCYX0M52/snt-canal-9-paraguay-logo-9-C6-C5-CBA57-seeklogo-com.png",
         "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
         }
       },
       {
