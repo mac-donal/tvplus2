@@ -1210,7 +1210,7 @@
       },
       {
         "name": "FOX Sports",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIYBVFmQl2oSVaclARVvU72qFg1SDWXWnezHyZkilPJ2Vo4ZeffaLUqA3S4Agk8awiMJsskEhpTV72EG6tsMNNB",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports.mpd",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/VpmSTrq8/Logo-Fox-Sports-Argentina-2023-copy-1350x900.png",
         "drm_license_uri": "7Km0DiR3RofENkp/OU8zjFYDAvuaNFxstTe6JeehaVYFT8IMkHHsfaAVB1minvxbO4IvRs67bj848v/flcSoLQ==",
@@ -1222,7 +1222,7 @@
       },
       {
         "name": "FOX Sports 2",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIYBVFmQl2oSVaclARVvU72eKqfQUlHPI7niWQyYV3hN66dGz2147hlhZHDHeizO0XQPoACQcWeudJ+raG9XpoC",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports2HD.mpd",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/xqZR62PS/FOX-Sports-2-AR.png",
         "drm_license_uri": "7Km0DiR3RofENkp/OU8zjFYDAvuaNFxstTe6JeehaVaC9sy+KuQ4EOHA8dDJnitLO4IvRs67bj848v/flcSoLQ==",
@@ -1234,7 +1234,7 @@
       },
       {
         "name": "FOX Sports 3",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIYBVFmQl2oSVaclARVvU72309xw6xvbhaJx3Bglhpbe66dGz2147hlhZHDHeizO0Vjjl4F9DsyX35+z/meTxUx",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports3HD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FoxSports3HD.mpd",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/HT66ns5/FOX-Sports-3-AR.png",
         "drm_license_uri": "7Km0DiR3RofENkp/OU8zjFYDAvuaNFxstTe6JeehaVao0XNcyzwYxcY8bwJMpEhTO4IvRs67bj848v/flcSoLQ==",
