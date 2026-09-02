@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA1234📡",
+    "name": "🇦🇷 CANALES DE ARGENTINA1📡",
     "samples": [
       {
         "name": "LUZU TV",
@@ -3665,9 +3665,9 @@
       },
       {
         "name": "C9N",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJ+dX1c0m6EQcY9T5xsiz/ENax8BtIxs644Ae7NEnLoU9ZaCfQ6OHuZJKWKyfsI6hjkUuA4t2bIkxFrwVytIQd2",
+        "url": "https://chromecast.cvattv.com.ar/live/c5eds/C9N_C4/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/C9N_C4.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "7Km0DiR3RofENkp/OU8zjFYDAvuaNFxstTe6JeehaVbZZbYt8OCn7RS7v2Llxczh",
+        "drm_license_uri": "https://results.femon.net/?keyid=646700eeb14cadfa0543a20cf413d37e&key=4fc037c462023764624d8446442cbbca",
         "icono": "https://i.ibb.co/Z6y9wbMT/330x330-logo-grande-C9-N.png",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
