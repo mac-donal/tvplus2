@@ -5051,11 +5051,12 @@
         "webview": true
       },
       {
-        "name": "TNT Sports",
-        "url": "yGBXMypFCtveMDl1PWD7gJtZHGL8yotwCwWl7h0qbCLEnGzs5s0tjm3qrHHlWRHip8JSBi7NKEYnuQ8QsqguU9iC6ry24/cRs//8K4AlDD5DoepZXocD+bGaiWwUa10L",
+        "name": "DSPORTS URUGUAY",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJSwHtgVdd4gMC+w4lK/0cwod6iJLt2BUpH/m0mnzpp7iHffe9jq711xxeDQbVFNRe4zpKYNJLcx2CDGFcnpgo3bJ/I00ekSVxO2WsbeNa8lU0IQow0OPgbX6LISSvTtPw=",
         "type": "CLEARKEY",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/0/00/TNT_Sports_Logo_%282017%29.png/revision/latest?cb=20180622191406&path-prefix=es",
-        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCTnEy/P0GvBSdLQJK0glikU5GRx+Z5pMuojqJz6hVhHjRUSViYYL+NUxRdF67pTvlW4W/W9OpUrFyCYCIczRtr6CBvAZj1b+T5xgu/dLZnypg==",
+        "icono": "https://i.ibb.co/0xSPs29/DSports.png",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCQ2CxIsuqJ2xXWAbNXURPTqwGO4AlacvP+22W5VDsFBqWf8rhTg4Zc4M/lfAO/OwpxQA7wyYp6G+gNA8Mu9hhUSaCMMrwF1e3HrLYBzYcmoDg==",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
