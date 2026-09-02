@@ -1282,7 +1282,7 @@
       },
       {
         "name": "ESPN 3",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLiXRhB6As37Tr551IbxBSZXDYDxSBX0xq8HzM5ugYYVcNm+y+mXcTJwBdGBYoUqlA=",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPN3.mpd",
         "type": "CLEARKEY",
         "icono": "https://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png",
         "drm_license_uri": "7Km0DiR3RofENkp/OU8zjFYDAvuaNFxstTe6JeehaVbmYGorpIdO9YddbmQ46/3G",
@@ -1294,7 +1294,7 @@
       },
       {
         "name": "ESPN 4",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLiXRhB6As37Tr551IbxBSZtemFwy4+KUXOhcVuzmtweZLiZiHGrs4TEWGApQBM6mA=",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/ESPNHD.mpd",
         "type": "CLEARKEY",
         "icono": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png",
         "drm_license_uri": "7Km0DiR3RofENkp/OU8zjFYDAvuaNFxstTe6JeehaVbJgmOhZtN240Fm8dDhL+nQ",
