@@ -3697,7 +3697,7 @@
         "name": "Unicanal",
         "url": "https://chromecast.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_Live_dash_enc/UNICANAL_C4.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=41ca5477db3048dbf731fc12604c7504&key=6c7e8e96a86333cbfb4771cbfe9f6b4b",
+        "drm_license_uri": "https://results.femon.net/?keyid=7d798b4e58cfda51da8b2a01989e7f93&key=16c5c9d859b544dfe10119d67df15d66",
         "icono": "https://i.ibb.co/nNH8Zv8m/unicanal1.png",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
