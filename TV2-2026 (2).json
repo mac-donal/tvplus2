@@ -28,10 +28,10 @@
       },
       {
         "name": "MIX TV",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKJ2r6n718G3axu/wYcoE2Ug2QEbnibndq1vfz7MXDXmxK8L/FV1W3M24+5vkLFUak=",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc/MixTV.mpd",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/Fk9KgMvc/mix-tv.png",
-        "drm_license_uri": "7Km0DiR3RofENkp/OU8zjFYDAvuaNFxstTe6JeehaVYOi9qaXEvKQ2mSP5LNgnCl",
+        "drm_license_uri": "https://results.femon.net/?keyid=0e1327b5b1f4dfe767aec622c9ef64ce&key=60c64a922af0121bf73261c825e33f18",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
