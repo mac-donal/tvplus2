@@ -3713,9 +3713,9 @@
       },
       {
         "name": "Paravision",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLJb8Ger+6oIAsKjaA+G/PPniMvxmgd7FKl2Jz51B897wvFxwRELzHUwBVKzCGYOlEvBXFSTtePC4hpig5DvJoc",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "7Km0DiR3RofENkp/OU8zjFYDAvuaNFxstTe6JeehaVa9W+Hpn1XiLc3H+U+8m64fO4IvRs67bj848v/flcSoLQ==",
+        "drm_license_uri": "https://results.femon.net/?keyid=4fdbca11ea240ddc493071e4430fb2e6&key=6de8a4ca5944b557aebb32e1ba5f069a",
         "icono": "https://i.ibb.co/qMvpYJqT/R.png",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
