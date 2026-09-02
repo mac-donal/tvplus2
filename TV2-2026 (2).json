@@ -3647,7 +3647,7 @@
       },
       {
         "name": "RPC",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://results.femon.net/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144",
         "icono": "https://i.ibb.co/CKmtNhM5/Logo-de-RPC-2016.png",
