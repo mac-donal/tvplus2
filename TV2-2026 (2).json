@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA1234📡",
+    "name": "🇦🇷 CANALES DE ARGENTINA1📡",
     "samples": [
       {
         "name": "LUZU TV",
@@ -3647,9 +3647,9 @@
       },
       {
         "name": "RPC",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmILJY3plgsj/sbBcCCa1B16Nax8BtIxs644Ae7NEnLoU4NWgRALzTXXl6Kx1xIWQr8=",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/RPC_C4/sa_live_dash/RPC_C4.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "7Km0DiR3RofENkp/OU8zjFYDAvuaNFxstTe6JeehaVYKnYUCzFwy1whxidsfJ2Z8",
+        "drm_license_uri": "https://results.femon.net/?keyid=a5a9d75cde4024c3f0479f32b229eebc&key=3f5c379be6ee9c568bf81ca73f3e9144",
         "icono": "https://i.ibb.co/CKmtNhM5/Logo-de-RPC-2016.png",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
