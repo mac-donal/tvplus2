@@ -40,10 +40,10 @@
       },
       {
         "name": "Telefe",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIZ6OOECC0MbUtJngdTvXN9PnuoXPapQmGbMzcf+K9d3U1sVK8DrOOmQuAOt8nBtEPBzWmualXeQ1rQpP+n411V",
+        "url": "https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/spF87Ccr/Telefe-nuevo-logo.png",
-        "drm_license_uri": "https://results.femon.net/?keyid=cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
+        "drm_license_uri": "https://results.femon.net/?keyid=3cec1b1ea9799dda5596e64f37e5ed20&key=c69f3afde2085dcaaaddbf55246a0323",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
