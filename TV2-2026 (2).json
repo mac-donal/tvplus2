@@ -2697,25 +2697,13 @@
     "samples": [
       {
         "name": "Cartoon Network",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKQHZJGN6meWuNEUVFouOftWCulyxVXzQxVqcyINWjSaQHkJ7OXval3lP+iE2TtqrR/9kC584iuMXdwLMqA49ho",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKQHZJGN6meWuNEUVFouOftTWmeDXV31keVP1krU+LcZwjpBY5Cv9J3G6v9rwzMRAOLk+zQ/xBlkInGEdVVztcFf9qfzqaX8yCLikyDMtT+XrYgSo59cGgzQiAHVewzPnw=",
         "type": "CLEARKEY",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsoUm1hGRAO/igp22AdZccP0yVjaYv3gqJ9a/Z8NwbhOsfE+dmQ66wDfJ8AHQ8oZUA==",
         "icono": "https://sm.ign.com/ign_latam/screenshot/default/latest-23_4w5v.jpg",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
-        "name": "Cartoon Network",
-        "url": "8HAAYiDbDCntsWxy4d3m5EDkxuBTHr02uH9Z6jFrUQzMhW5rJy9oGf/c75N7EAfRslSuTVB26qXT9EXrZEAEkkoPqMuMw9AMf+17+JZP49Z91JDGExepavOP18n7EFgz",
-        "type": "CLEARKEY",
-        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCTCPV5h0Vy2vVsHL9ZzN9sf9AbbsGFwtoUg5I/6LdfOHT61Wjb3h9c66ZBx8Anw0dAizQ5yIDuJLosDI5gGXN8lPb/nJCsTAIVSw5Wzapr8Fw==",
-        "icono": "https://sm.ign.com/ign_latam/screenshot/default/latest-23_4w5v.jpg",
-        "headers": {
-          "Origin": "xXbfzaV86SziUpzMaGuP41XCwsc3AguKXRdIwiQM7U5p45ALkHccw+E8WuN7aDnp",
-          "Referer": "xXbfzaV86SziUpzMaGuP41XCwsc3AguKXRdIwiQM7U4DvJtiTpcNN58QFvknHsht",
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
         }
       },
