@@ -1935,10 +1935,10 @@
     "name": "💎📺 PACK HBO UNIVERSAL🎥🎬✨",
     "samples": [
       {
-        "name": "HBO",
-        "url": "3DcHKZDojM7LQhnhvvo402qqi3+qdpRvAOFKt41Ojyvk8YtjJ4KRvnkGICPUk6BI",
+        "name": "HBO 1",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "mMO6kxQwFdt1i0bAIoHMD1UIEiNFRa0Q9CkmAz4VSQKFSB6zile/kl1zwDXGgbqK6i1y+/CMvO6oNI7Zeav64UMCO5xEnGFDJFcWh3V4uTr7/ZnbY/Hx1jk7mHa9MQv6v7dHw4J2KXltTjXorERwN8iGvehmlGj5qDQBP8g4z5NEV7kq+IyUM3FkQysLsdliaeOQC5B3HMPhPFrje2g56Q==",
+        "drm_license_uri": "https://magisvideo.com/KEYFLOW/HBO1.json",
         "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
