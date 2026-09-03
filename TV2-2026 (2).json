@@ -5039,15 +5039,15 @@
         "webview": true
       },
       {
-        "name": "SNT",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJhyuF/fitifa+L7Z6a8zofMfgwKOXwc9sOsNEz06S/4Rcd1zL55Vj5jW1Ahq8aZnRfwlAhMdDIwW6YBLGpPYBVvYSKGL5PLpoVmJxMhg9NIg==",
+        "name": "hbo",
+        "url": "http://edge7262.telecentro.net.ar/bpk-token/2ad@nj0xzu3mj5gtg1apvhd0iuptjdks4ngnnzjevlaa/HBO/HBO.isml/manifest.mpd?bkm-query",
         "type": "CLEARKEY",
-        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGpm0rjP9B+7I9Boh76vv89Df17fkGVlqT+REL8B8Rzym",
-        "icono": "https://i.ibb.co/vCYX0M52/snt-canal-9-paraguay-logo-9-C6-C5-CBA57-seeklogo-com.png",
+        "icono": "https://i.ibb.co/Fk9KgMvc/mix-tv.png",
+        "drm_license_uri": "https://magisvideo.com/KEYFLOW/KEY.mix.json",
         "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
+          "Origin": "https://www.telecentroplay.com.ar",
+          "Referer": "https://www.telecentroplay.com.ar/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 "
         }
       },
       {
