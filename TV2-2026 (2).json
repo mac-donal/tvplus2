@@ -1936,9 +1936,9 @@
     "samples": [
       {
         "name": "HBO 1",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKlHigqUtgdc57lA0QuB/VVt5p8LV1uOuzDb7jD0M0sbmPqPEfkUZJ0avKsiCDnA3E=",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://magisvideo.com/KEYFLOW/HBO1.json",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGiEckPCMkjbu2gA78KPjufn3trrXVR03VZ4FZHAfgjLS",
         "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
@@ -3924,7 +3924,7 @@
         "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK+EtTF/XB9yPozJSmHBnqGj9ZB7WUN9LENqGPtt6vmdihe7no/4jYxkMXmte5AsSyhH3kT4d44778JZmAtXFBb",
         "type": "CLEARKEY",
         "icono": "https://culturaenlinea.uy/files/space/611/file/4366/saeta_logo-4f77019a48242f0169d5077ec1fe3ebb.jpg",
-        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCT879XqnApC1ajhEnSdnjA1GRccFhE0oINhL/oPgLA6W/5oNt9tm/tYlJ7hLcnsSFnk513Nacme9BfuXAZQkq8l+rjGgvNjMEj8CqkIkO9jhjoI8TDWnUgm3WjamPfrrw8s9BEM7ctjX4VmkUYjMbCTyWDQ1437hfBkTrKuk+ng6s5iteASPqhMl+P4PqJvKMs=",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsoUm1hGRAO/igp22AdZccOi2inEfIgj3I3NnQGUk3gA",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
@@ -3936,7 +3936,7 @@
         "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK+EtTF/XB9yPozJSmHBnqGK1sKH0AxruIEu8L0a/OL8jMETHQIkaCKq5ejDKI+Ddkx4EN9Bvktv4Ce+OAtJbQ4",
         "type": "CLEARKEY",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Teledoce_logo_2004.png",
-        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCR8kG8T2YuJsn46KZj7aUCVTZY5uLO1Syt1wfeoqCZShJCgAA8F+NCsuRdc1akFhssfgVa+WU2YY20UWUkUDl1JpK/oFco1gDXVMKEjBydluQ==",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1oZcmRhXuOpsvOefe+myA/t",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
@@ -3948,7 +3948,7 @@
         "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK+EtTF/XB9yPozJSmHBnqGZFqNwcC4kxfZP7icyCydkvj9l2fia3cLd1emmiEAoqQx4EN9Bvktv4Ce+OAtJbQ4",
         "type": "CLEARKEY",
         "icono": "https://i.ytimg.com/vi/t6pDdMZUoPg/hqdefault.jpg",
-        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCSdi9ba/TPPoyG4zX0cnlePfl0C059pP0v9QdpsiciILQDDR+HwrSUMdZ20OMn/zOUzqDkiPnW9zbcup9qKoMYorubalzRDhqWjKfh/adRb5Q==",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsoUm1hGRAO/igp22AdZccMIe7ghuViuxwdNI5NimgK3",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
@@ -3957,7 +3957,7 @@
       },
       {
         "name": "CANAL 5",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKJ+Dq0SNU5sLCvh2FLjW4yGW7pnt9zM1wdBWVrP1o0x2zdLpn5gY88aaU04PKl0d2Zx9yyVndsywZHTjOqyc4T",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKJ+Dq0SNU5sLCvh2FLjW4yNr8kEmVSDxVx9NsExCy/5QjpBY5Cv9J3G6v9rwzMRAOLk+zQ/xBlkInGEdVVztcFM30hk0P8I7eeLO/z94QCATvIoDfdUFqzK132qkylvVc=",
         "type": "CLEARKEY",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Canal_5_Uruguay.png",
         "drm_scheme": "clearkey",
@@ -3970,7 +3970,7 @@
       },
       {
         "name": "TV CIUDAD",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK/5xDexcKUa7LQO0/tnra5yPmSAC3j4ASFNTJ7XuaE1DlS3suh5xh9TVnyAgGfrTXeNA8TnNFNuqGaBfA0ZEPT",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK/5xDexcKUa7LQO0/tnra5fVJihFX/YF7/fHdXFKig3Z8gBhQ/KRiYlft8wqVzAFmTpQrn5y8wsO3pkaz5uV5WOoxzxequZ6apcHbi4xLFsg==",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/B2NJddr0/tv-ciudad-1606-w360.webp",
         "drm_scheme": "clearkey",
@@ -5040,14 +5040,14 @@
       },
       {
         "name": "hbo",
-        "url": "http://edge7262.telecentro.net.ar/bpk-token/2ad@nj0xzu3mj5gtg1apvhd0iuptjdks4ngnnzjevlaa/HBO/HBO.isml/manifest.mpd?bkm-query",
+        "url": "fZMCVfWpfJiH2cvQB2V4UCIcNe2Slqj8B5EzQAHO2w/ynVyN52bi1TP/e0X0e8q4pxi+IJM2G3Nl9xmAYYKguBj5yXcujD0/IMiPf+HrqMSwb155zZHgc6HhIdPQqs/+9M0OGdxGeGQQe6iwVKutLIVqslE74c06nSLdadee104=",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/Fk9KgMvc/mix-tv.png",
-        "drm_license_uri": "https://magisvideo.com/KEYFLOW/KEY.mix.json",
+        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGqEunnx1DNZBR/WR/gHcHItiEnlMVbxPlGzXoF4yUbY6",
         "headers": {
-          "Origin": "https://www.telecentroplay.com.ar",
-          "Referer": "https://www.telecentroplay.com.ar/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36 "
+          "Origin": "duDO8o25MIVryE4UXw71KHmvwXNArbi5K8kNZT2jbUSAhiFI5OA7QmIXqxL7dxIo",
+          "Referer": "duDO8o25MIVryE4UXw71KHmvwXNArbi5K8kNZT2jbUTMJqCAZaOaHYailMo7pQTn",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpseoshd6RCb6x+UJH3/zoMMWnjkAuQdxzD4Txa43toOek="
         }
       },
       {
