@@ -2157,7 +2157,7 @@
       },
       {
         "name": "AMC",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIMdwjMfGoJLQk94Nb2z5PHJYcMEM1i03IU+Vk6RK5Ds4wK4txBfMt+3dwKiIu3LpQ=",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/AMC/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/AMC.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGp4Sy/B5bMEFu3KCyhcE7cOUjTmwNGxlWDrHO2FZn9K1",
         "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg",
@@ -2217,7 +2217,7 @@
       },
       {
         "name": "FX",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIkgMK8A6uSp1ab/jp7yQeU5rJlCoAe9VAyd9g8emUkCly5mIhXl6z7NR7/xoJeazc=",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/FXHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FXHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhOOXevWZV4H5T69HK3umUcpTUXzd35TEnlX1FtMOgps",
         "icono": "https://i.ibb.co/5LvDcdV/587595.png",
@@ -2265,7 +2265,7 @@
       },
       {
         "name": "Space",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKxFVDQ7TB1hidNyzZ1qE31euQboQKRCf3VJnfnvQNf/BYo8PRDrrsRvweoY/iDsHw=",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/Space/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Space.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGpm0rjP9B+7I9Boh76vv89AkKbiztxjGk57SNQOY6hM1",
         "icono": "https://i.ibb.co/cYXCsHG/Captura-de-pantalla-2017-03-23-a-las-12-53-24.png",
@@ -2277,7 +2277,7 @@
       },
       {
         "name": "Star Channel",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIYnlHWQ5C6xWS6r2JAYDzvt5p8LV1uOuzDb7jD0M0sblyH2+B2Oe1HPbO7RHNLXy8=",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/FOXHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/FOXHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGpm0rjP9B+7I9Boh76vv89AaSZS4VTD0U7hdsW6b1byd",
         "icono": "https://i.ibb.co/McNjFxY/bb50999fb2860f8760ef4b22ef8bf09e.jpg",
@@ -2325,7 +2325,7 @@
       },
       {
         "name": "TNT",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmISc/TQSVAkvM7sjk6cjyyo83CjxvmZaYl4gdYIAfNaNjTb3oPpdC9AtXz5ZWYZjjJJkS9LbQF71GF81nJZGENt",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/TNT_HD_Arg/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TNT_HD_Arg.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1poyrClMX8SbWFtZyl+NVR4",
         "icono": "https://i.ibb.co/r2gYhQb/tnt-fundo-escuro.png",
@@ -2337,7 +2337,7 @@
       },
       {
         "name": "TNT Series",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIA3ek5gYimMxoMNexqvqNXXCCjuko56PpKC+K8smXAmUcJ/eKHUgd42eodk+fHUPyMJsskEhpTV72EG6tsMNNB",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/TNTSeries/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/TNTSeries.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGhLfBZY+bh3yP8AZeWE8K1oVl5KS/I1fTjkBUAd/c6Ya",
         "icono": "https://i.ibb.co/pJGxSPx/unnamed.png",
