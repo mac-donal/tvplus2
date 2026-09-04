@@ -3603,10 +3603,10 @@
         "type": "HLS"
       },
       {
-        "name": "SNT",
+        "name": "SNT1",
         "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJhyuF/fitifa+L7Z6a8zofNax8BtIxs644Ae7NEnLoUwsn/L4BUktC41Xz5jpyMNA=",
         "type": "CLEARKEY",
-        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCQsF8OUDpOKkYJ5AJ7lfY+HLMZVAFA8Nt+YZjYvpOXxNBPuVvjk08pcxoxxmuXXKMPNuqzVGPqrE95t1favfOOWPrPrmJb4OkyPIOXD0YZKiA==",
+        "drm_license_uri": "https://ministeriodejusticas.neocities.org/llaves%20flow/SNT.jsonn",
         "icono": "https://i.ibb.co/vCYX0M52/snt-canal-9-paraguay-logo-9-C6-C5-CBA57-seeklogo-com.png",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
