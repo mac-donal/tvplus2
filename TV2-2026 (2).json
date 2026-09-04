@@ -2598,10 +2598,10 @@
       },
       {
         "name": "AMC",
-        "url": "VyKlA4zeg3i8B0DYgpIlXD4F1j7hk259lJN2dUly87B1JEEEXAh4OLMpKBQSHntnpYcb9Hvog9ueF1ia3LUNmA==",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd",
         "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg",
         "type": "CLEARKEY",
-        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGp4Sy/B5bMEFu3KCyhcE7cNyFNl4zsNd/FGL15IG5EtQ",
+        "drm_license_uri": "https://results.femon.net/?keyid=744c3636d57a651ab444cf9fe5f95b33&key=1fa6a86fd80b6d1425dde74482b5dc9c",
         "headers": {
           "Origin": "xXbfzaV86SziUpzMaGuP41XCwsc3AguKXRdIwiQM7U5p45ALkHccw+E8WuN7aDnp",
           "Referer": "xXbfzaV86SziUpzMaGuP41XCwsc3AguKXRdIwiQM7U4DvJtiTpcNN58QFvknHsht",
