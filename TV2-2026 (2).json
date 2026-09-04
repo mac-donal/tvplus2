@@ -2181,9 +2181,9 @@
       },
       {
         "name": "CineCanal",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJNmOYkjUyZm064QwcOm1jXJBlm6SlKoem982Hlrv28Hf2ofDmIh/UCMHxkFo9eHeoOC7zj6xPR3TGJj8Iwk9TQ",
+        "url": "https://chromecast.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGsoUm1hGRAO/igp22AdZccO/V0u1eZyMtgwdhvdioLZa",
+        "drm_license_uri": "https://results.femon.net/?keyid=213cf85cb5f9fe569757004a77e05948&key=6003e92dd0d9f548329015c9e15dd578",
         "icono": "https://i.ibb.co/cvghCHq/cinecanal.png",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
