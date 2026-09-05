@@ -554,14 +554,14 @@
       },
       {
         "name": "Canal 10 Cordoba",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK+EtTF/XB9yPozJSmHBnqG8Sh3YmaLwf3Ns6Jm73+bPwjpBY5Cv9J3G6v9rwzMRAOLk+zQ/xBlkInGEdVVztcFPMhXzNfJYBkFce9+OJPQkv9fdiVP07Zqo2e39IUIBhI=",
+        "url": "http://chromecast.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA_HD.mpd",
         "type": "CLEARKEY",
         "icono": "https://i.imgur.com/87WCHtd.png",
-        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCQvAkENaVlZxDKCpyyixPw3Hst/uv8wFlCUeOvQwwXfcEaVf4OgR9aSx3Q2PGh+CWQZLdk3kYkJCnVZ+qW54CenT9UiS/n45O4B8q8UGhJ7qw==",
+        "drm_license_uri": "https://results.femon.net/?keyid=34083f13e35dec77a43b2ebf75291ecd&key=1223833f1d85a9cb20061aa09653ee35",
         "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
         }
       },
       {
