@@ -565,12 +565,6 @@
         }
       },
       {
-        "name": "Canal 10 cordoba opc 2 ",
-        "url": "ilOZEuHGYrlxc4gD7mvcvcbIST1xsL8MhDizsot7ttb3dFTJAGL97ozQLpfIUFjK42C7bS+Iqck2C2qj7Arz8raNOOa898NTUdhvkey4Tiw=",
-        "type": "HLS",
-        "icono": "https://i.imgur.com/87WCHtd.png"
-      },
-      {
         "name": "Canal 10 Tucuman",
         "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLzXrTCtRa8dImOV+rdKK0D6mDVcUlENc9Lmmq+ufzj7w4MRt05y7B2G/Oc0hRkgKAHMsD5czMpcKsdUoSwQquD",
         "type": "CLEARKEY",
@@ -740,14 +734,14 @@
       },
       {
         "name": "Canal 11 Formosa",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK+EtTF/XB9yPozJSmHBnqG3ZCerVJtxHzudMz74Al42RtMgEqPn+xKtmLNTABgGmfH+y2v57+24H8HuvMxZdqKWBz4O7fbYZhxf4qk1S8u4NZz7rCTt5wcn3x1RBfVcH8=",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/Somos_Formosa/SA_Live_dash_enc_C/Somos_Formosa.mpd",
         "type": "CLEARKEY",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/7/7c/Canal_11_Formosa_%28ID_1980%29.jpg",
-        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCRri7wMr7/L2va+qJOsjw+QIHFsqa7oqPxqlZnBmtp//sDomiapDerMKAiXeJzFmgJOOfph/x5VsX3U6B33MnTTT/FmGjBc/r98tpTd/wKIOw==",
+        "drm_license_uri": "https://results.femon.net/?keyid=ceeb1cfa7ecbc8b22ff9f186287aa4a1&key=8367cc3655b9fb82d6473f27b3ef9907",
         "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxKh9VHPcAbfKCIH3E3lV/4RuTxUde2JTGmiJaDQJGByAQ=="
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
         }
       },
       {
