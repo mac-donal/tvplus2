@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA21📡",
+    "name": "🇦🇷 CANALES DE ARGENTINA📡",
     "samples": [
       {
         "name": "LUZU TV",
@@ -557,7 +557,7 @@
         "url": "http://chromecast.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA_HD.mpd",
         "type": "CLEARKEY",
         "icono": "https://i.imgur.com/87WCHtd.png",
-        "drm_license_uri": "https://results.femon.net/?keyid=a953290192fd5db5bf7936a88ecc6877&key=6d85fcc70989d0dbe8d70dd70a4629c0",
+        "drm_license_uri": "https://results.femon.net/?keyid=34083f13e35dec77a43b2ebf75291ecd&key=1223833f1d85a9cb20061aa09653ee35",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
