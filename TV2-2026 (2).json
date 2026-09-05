@@ -722,14 +722,14 @@
       },
       {
         "name": "Canal 7 Jujuy",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmIjMWgOa4MXZYPRZXC1wLFekpEI9WK38X0gkiHs99gPjLTKvt4n06YvPrtsuJej3afS8frIc8A4lLQ6VLGNTrojvafiAZf/x+cyGPH3SwRzzA==",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/CH_7_Jujuy/CH_7_Jujuy/SA_Live_dash_enc/CH_7_Jujuy.mpd",
         "type": "CLEARKEY",
         "icono": "https://yt3.googleusercontent.com/xZrqesLXW4us9gpx6W2mn_FMe23YSOyFjzptmZzMUCZKQz512n2fqkNoU04Hz0Ik0PIIzVEcV8g=s900-c-k-c0x00ffffff-no-rj",
-        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCTYpRYM3ll1poJ5fKM8YOBfNlLA5oq142lov2spv5KIhWAeQMktFlugkxj4W1UP4dH2eVol9iSZ5c1ICUJjuEkhznmAEiO/yr7RGZoe6GTD/A==",
+        "drm_license_uri": "https://results.femon.net/?keyid=2a30f957cd3e8c5445729ab58f7c029b&key=dcea806bbdfe7a56877a0bb09cdc668a",
         "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxKh9VHPcAbfKCIH3E3lV/4RuTxUde2JTGmiJaDQJGByAQ=="
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
         }
       },
       {
