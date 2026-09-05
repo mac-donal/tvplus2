@@ -1392,7 +1392,7 @@
       },
       {
         "name": "Show Sports Cordoba",
-        "url": "http://chromecast.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc/Show_Sports.mpd",
+        "url": "hhttp://chromecast.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc/Show_Sports.mpd",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/QnqdqBV/ss.png",
         "drm_license_uri": "https://results.femon.net/?keyid=4981c59c331cacfff70390a99b10279d&key=76037d01b44ff1e2be5c1d08fbb1f04e",
