@@ -506,14 +506,14 @@
       },
       {
         "name": "Canal 7 Neuquen",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJaJU93sW0swfCGCnzOllhZY3wyEKjA9co1utdDTp0FfQjpBY5Cv9J3G6v9rwzMRAOLk+zQ/xBlkInGEdVVztcFYqgyptlA0CV5uTEzUAx3KCSCOjXMZoaLLE7qkFegKJA=",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd",
         "type": "CLEARKEY",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png",
-        "drm_license_uri": "TQSPBT5fFAmrHLJIeXbfeeJoVrduGEMmYIn59+VFg26LFtDi4T4+WNIDSpO2CBEm4hAnvFEroFBUDn2cCDSj1E2UqjNpD4ZfqxN4GGi3muLfGR4rQuTt1p4ZP7MWXNGgSvSMu5qwIikbeIB98OVgzmnjkAuQdxzD4Txa43toOek=",
+        "drm_license_uri": "https://results.femon.net/?keyid=8cc7b4699ffd14142b742a88e8ef5fe3&key=34e4a32d8fd8ba3430251fc03d031e1a",
         "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOBfmPsoyw8c9ZzIpugr+7HWTrCffw+3NV5cHM4SXkMrpB5rb66l9uHQucZJyAkwJw8="
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
         }
       },
       {
