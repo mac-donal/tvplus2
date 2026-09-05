@@ -775,18 +775,6 @@
         }
       },
       {
-        "name": "Show Sports Cordoba",
-        "url": "http://chromecast.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc/Show_Sports.mpd",
-        "type": "CLEARKEY",
-        "icono": "https://i.ibb.co/QnqdqBV/ss.png",
-        "drm_license_uri": "https://results.femon.net/?keyid=4981c59c331cacfff70390a99b10279d&key=76037d01b44ff1e2be5c1d08fbb1f04e",
-        "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxKh9VHPcAbfKCIH3E3lV/4RuTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
         "name": "Somos Bahia­a Blanca",
         "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKIldOXKbqr+iwNoKUstRkDDLjQEw/gd/AOTB/91cpwkCn0Rn8fNeOYwARjGWUCAjymnYW+4aCiQCr78jFCMNp+z4y0X4ipXxFF2+7lokieMg==",
         "type": "CLEARKEY",
@@ -1403,15 +1391,15 @@
         }
       },
       {
-        "name": "SHOW SPORTS (CORDOBA)",
-        "url": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147A3uGH8IAjmwxUPK1rzKgDptdBNXiVod0j0isq7bZerN1cJ5kbC9J4ZKq3NA3dyfxHNVsLGykDnp8ayGwYX764v",
+        "name": "Show Sports Cordoba",
+        "url": "http://chromecast.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc/Show_Sports.mpd",
         "type": "CLEARKEY",
-        "icono": "https://i.ibb.co/v6tjfKb5/images.png",
-        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCSZHRARvM9I1rclsCIZuWiy2Sx3D0jE+pGCjzr/ZReRaQXaK7SDII/ws4Su0z0mjUxgCn1XzvzrXQgzFFkVqM2nCNjFt6KUzTWNOixAMsiSPg==",
+        "icono": "https://i.ibb.co/QnqdqBV/ss.png",
+        "drm_license_uri": "https://results.femon.net/?keyid=4981c59c331cacfff70390a99b10279d&key=76037d01b44ff1e2be5c1d08fbb1f04e",
         "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
         }
       },
       {
