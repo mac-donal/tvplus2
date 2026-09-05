@@ -734,7 +734,7 @@
       },
       {
         "name": "Canal 11 Formosa",
-        "url": "https://chromecast.cvattv.com.ar/live/c4eds/Somos_Formosa/SA_Live_dash_enc_C/Somos_Formosa.mpd",
+        "url": "https://chromecast.cvattv.com.ar/live/c4eds/Somos_Formosa/SA_Live_dash_enc/Somos_Formosa.mpd",
         "type": "CLEARKEY",
         "icono": "https://static.wikia.nocookie.net/logopedia/images/7/7c/Canal_11_Formosa_%28ID_1980%29.jpg",
         "drm_license_uri": "https://results.femon.net/?keyid=ceeb1cfa7ecbc8b22ff9f186287aa4a1&key=8367cc3655b9fb82d6473f27b3ef9907",
