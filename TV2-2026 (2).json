@@ -1294,10 +1294,10 @@
       },
       {
         "name": "ESPN 3",
-        "url": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147C2IUNn+KfRUDkpp75x+/2S5rJlCoAe9VAyd9g8emUkCseOiQf9d+1YNZCMEBG1BDc=",
+        "url": "http://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd",
         "type": "CLEARKEY",
         "icono": "https://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png",
-        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCTpEiMfc3FTY3oMVln8nc5426clgHMjAyC2wC1r/k2NTFtnEzN6VAeBROKxfesKSzzmgOjx6M85T3MzlWTT9XWq7cMFY6V6tGFJKd0icH9P4g==",
+        "drm_license_uri": "https://results.femon.net/?keyid=deeed0f4456b45e064f4d5064486e821&key=bf89ceeb93564ddc603ba6afd8c9266a",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
