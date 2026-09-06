@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINAnova📡",
+    "name": "🇦🇷 CANALES DE ARGENTINA PLUS 2📡",
     "samples": [
       {
         "name": "LUZU TV",
@@ -333,7 +333,7 @@
     "samples": [
       {
         "name": "RETROX TV",
-        "url": "8uvEG2L2lQyg74SokAUlAYzRJ8w0blj01AgJS3w6wuLVsw6H5d1FAwvDC81rgBJSdgU5mAGtEEhOwcGqGCqdQA==",
+        "url": "Cxv4T2D3ytP5vJwh3BdMduZIXT8FT3q22MUuVShntToOILwiiaR45hZMtRQmPtDHybf3Xy3lgPQgdU+fjE+2Bg==",
         "type": "HLS",
         "icono": "https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png"
       },
@@ -514,6 +514,18 @@
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOBfmPsoyw8c9ZzIpugr+7HWTrCffw+3NV5cHM4SXkMrpB5rb66l9uHQucZJyAkwJw8="
+        }
+      },
+      {
+        "name": "Canal 7 Santiago del Estero",
+        "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xISyccR1Vds5hb+hXIGXIA9JYcMEM1i03IU+Vk6RK5Ds96Upame5mLfxh++sCmbIJU=",
+        "type": "CLEARKEY",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/9/97/Canal_7_Santiago_del_Estero_%28Logo_2000%29.png/revision/latest?cb=20210525204404&path-prefix=es",
+        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCRBMzF3WRjHKL0v6G1WelFvVfCSp9LnujgwFEXUc7/Nz+yCjADW4dYnwF8uDpANb/SUc2TJkyYcJ7omTWi7a64USn80PIie4zkceZfEyQkj1A==",
+        "headers": {
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
         }
       },
       {
@@ -1288,10 +1300,10 @@
       },
       {
         "name": "ESPN 3",
-        "url": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147Cdu9plXIOk87vUQQCeetgu5rJlCoAe9VAyd9g8emUkCseOiQf9d+1YNZCMEBG1BDc=",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLiXRhB6As37Tr551IbxBSZXDYDxSBX0xq8HzM5ugYYVcNm+y+mXcTJwBdGBYoUqlA=",
         "type": "CLEARKEY",
         "icono": "https://static.flow.com.ar/images/8817/CH_LOGO/60/40/0/0/29145259072020.png",
-        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCSPMHGozTiS/ao4oA7jqtm526clgHMjAyC2wC1r/k2NTFtnEzN6VAeBROKxfesKSzzmgOjx6M85T3MzlWTT9XWq7cMFY6V6tGFJKd0icH9P4g==",
+        "drm_license_uri": "cpNagB7yUrH1rYmviOeI3C7FaYKi1VDRtU7i2sJeTEzKQ51hjmZIB2JPKyyvYGVqnCifcpYenmQDgL4JeGByMSiwj3ejITbbAyAnJdVkWBrDIE95e7IRvpMLLLoG8dnl0CBWW5SecO+nNBGsn5AVRWvSqmNwgDF+Tg+clfrz82Q=",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
@@ -1300,10 +1312,10 @@
       },
       {
         "name": "ESPN 4",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLiXRhB6As37Tr551IbxBSZSw/9t61PhGY0JjLUnlsbyRcd1zL55Vj5jW1Ahq8aZnTQD38hY4/N3vqLvSHQpsME/192JU/TtmqjZ7f0hQgGEg==",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmLiXRhB6As37Tr551IbxBSZtemFwy4+KUXOhcVuzmtweZLiZiHGrs4TEWGApQBM6mA=",
         "type": "CLEARKEY",
         "icono": "https://static.flow.com.ar/images/279/CH_LOGO/60/40/0/0/43362732071132.png",
-        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGmuNC9wJ7jSCwDqD1JupDoEmVsHZ9L3vle43NB95gyvo",
+        "drm_license_uri": "cpNagB7yUrH1rYmviOeI3C7FaYKi1VDRtU7i2sJeTEzKQ51hjmZIB2JPKyyvYGVqlqahkLK7pjQPudlrzLpXD8AYc7Bp/plZSgIMFtvyVdOvBiVHekKWGcT3cP22+Mxkv0lczoU+kaRHNtpcDVXfdnKArXjPS0lV1Hpiwm2rq10=",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
@@ -1386,15 +1398,9 @@
       },
       {
         "name": "Show Sports Cordoba",
-        "url": "kLzT+cququRriT9kOdZAbLuPtqzMT0qIkYh8yAG147A3uGH8IAjmwxUPK1rzKgDptdBNXiVod0j0isq7bZerN1cJ5kbC9J4ZKq3NA3dyfxHNVsLGykDnp8ayGwYX764v",
-        "type": "CLEARKEY",
-        "icono": "https://i.ibb.co/QnqdqBV/ss.png",
-        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCSZHRARvM9I1rclsCIZuWiy2Sx3D0jE+pGCjzr/ZReRaQXaK7SDII/ws4Su0z0mjUxgCn1XzvzrXQgzFFkVqM2nCNjFt6KUzTWNOixAMsiSPg==",
-        "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxKh9VHPcAbfKCIH3E3lV/4RuTxUde2JTGmiJaDQJGByAQ=="
-        }
+        "url": "gvuZ39gDgv25mT0cbuHVGvCNLdYm1JHyxXgaKYI9wRk6E01a1EgFw00Ot/DS44SY8XIq2iAJJ5+mcJ8dC4gg7g==",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/QnqdqBV/ss.png"
       },
       {
         "name": "TyC Sports",
@@ -2230,6 +2236,18 @@
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "FX",
+        "url": "4wRutw2i3o1BoMV4qkSBudrlJSddbmWUjsyZ/X19zNTbdzigR0YMfxZlLMn39YP0",
+        "type": "CLEARKEY",
+        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCQSxk+YfQELzq3nJIdixt6P5GLyJyoTTntnhz+gqHY0/n6WxMw8HgGGjRo0O2Bb2BBXSOelVEmXY+iO0d1XRpCZ7fhOzCMOBZGSjvGJR8q9bw==",
+        "icono": "https://i.ibb.co/5LvDcdV/587595.png",
+        "headers": {
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
+          "User-Agent": "FFB3+/a5/zcxlwOWb69naGj8aOwsNxbRQUXSuTBoMTKnV1RS8udhLzTfru7YNEdT6Ea/g21xlCdOUTZq3lwiTb9qpmOB4XI7vwOpuYNR64BD2Wo6ugOTWGut2lTsOqbGGtLFEccv0WFjVu14h/frbMQd66eayimMCmDFW/vaoKyVlFRqu2otfYddvyJm0ikv"
         }
       },
       {
@@ -3641,7 +3659,7 @@
         "name": "Telefuturo",
         "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJmNC6DR0bMOVXgefo5wN60pvrAffv1Fe3bhaOwpBy5FLciSFFRS2TaN0Ecui3bvV3gOtIvAsrm9T+HUwSiYPM0",
         "type": "CLEARKEY",
-        "drm_license_uri": "cpNagB7yUrH1rYmviOeI3C7FaYKi1VDRtU7i2sJeTEzKQ51hjmZIB2JPKyyvYGVqXinjlAIoTPLUe4kmCr7VqXHtoyyE7xsfg9o7Hh86y30hRFAlRIUM2RFzE74FyDBhXCkvK+Miy5K69M2TMQArk7ctER9Gt2T72HlfMnfp5Kc=",
+        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCQhDjTsaDYilTw0xHa2F88hCHjH2pvTdRXRqHuvMOllmr3TpvkNqT4PEomPwJcLyRsVuVpjjuaICun/nn/5950PuuRyKg4ZL9UQM2l1lywj9w==",
         "icono": "https://i.ibb.co/Hp9jRYsP/telefuturo-new-logo-2022-by-randomuser2040-dfhp9ty-fullview.png",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
@@ -5055,15 +5073,15 @@
         "webview": true
       },
       {
-        "name": "hbo",
-        "url": "fZMCVfWpfJiH2cvQB2V4UCIcNe2Slqj8B5EzQAHO2w/ynVyN52bi1TP/e0X0e8q4pxi+IJM2G3Nl9xmAYYKguBj5yXcujD0/IMiPf+HrqMSwb155zZHgc6HhIdPQqs/+9M0OGdxGeGQQe6iwVKutLIVqslE74c06nSLdadee104=",
+        "name": "Canal 7 Santiago del Estero",
+        "url": "x/xWkNrovMYmGeIV76G4pOWzEePFvZC2/a11JIOm1xL02Ic1voo5BM+iisLxndHzyjUDf1Hk2CDiEyQtBJ7Od3p6t5XQYBLZHBU+at3Hp5irNdZafTBfg/ICTfqi5B4+",
         "type": "CLEARKEY",
-        "icono": "https://i.ibb.co/Fk9KgMvc/mix-tv.png",
-        "drm_license_uri": "gvuZ39gDgv25mT0cbuHVGqEunnx1DNZBR/WR/gHcHItiEnlMVbxPlGzXoF4yUbY6",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/9/97/Canal_7_Santiago_del_Estero_%28Logo_2000%29.png/revision/latest?cb=20210525204404&path-prefix=es",
+        "drm_license_uri": "0HMBMWBJflmqheIHEI+XrNHxOPGPvq2kxyQjygEWRCSr7Mi8xZgY/atrWNljoUL8NQb39yDWicrq1S6zI5rtRANHgZRHdkiU0wVOnF2rEH/jFPwZ0HQXbNglKLjvmsrqcQn6ObMgfuVvf4c0IppYdw==",
         "headers": {
-          "Origin": "duDO8o25MIVryE4UXw71KHmvwXNArbi5K8kNZT2jbUSAhiFI5OA7QmIXqxL7dxIo",
-          "Referer": "duDO8o25MIVryE4UXw71KHmvwXNArbi5K8kNZT2jbUTMJqCAZaOaHYailMo7pQTn",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpseoshd6RCb6x+UJH3/zoMMWnjkAuQdxzD4Txa43toOek="
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
         }
       },
       {
