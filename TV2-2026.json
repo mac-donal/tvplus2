@@ -111,7 +111,7 @@
         }
       },
       {
-        "name": "La 123Nacion+",
+        "name": "La Nacion+",
         "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/xSv4MBKr/NXKF436-PYFDRLJJB77-LJU7-JVQA.png",
@@ -4073,6 +4073,19 @@
           "Origin": "848j14a/S7C4T+FHai8Y0pjBUtm3Bbp3bmcK8xxaEBI=",
           "Referer": "848j14a/S7C4T+FHai8Y0jdJTf6gWQ9apkixdwY5/ig=",
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLlUVMiYODR2b7a/p6vnhbhuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "dtv": 1,
+        "name": "GH-CAAM 1",
+        "url": "https://1283-aws-da-mt.vrioott.com/1283_GRAN_HERMANO_CAMARA_1_DASH/manifest.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://i.postimg.cc/fbQsB82C/gh.png",
+        "drm_license_uri": "kid:AD5-oNvEO3WGpOkq6qGlvw,k:HfmSLRLMgDabd7X0Hwrdwg",
+        "headers": {
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+          "Origin": "https://www.directvgo.com",
+          "Referer": "https://www.directvgo.com/"
         }
       },
       {
