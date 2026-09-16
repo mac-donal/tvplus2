@@ -936,7 +936,7 @@
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/0xSPs29/DSports.png",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "kid:n87_Lz1w4vVp1VZUB9f3Qw,k:FDxxKSpt1YQE760oOyIFOQ",
+        "drm_license_uri": "kid:l2jWNO_TE5OGuQdAXgpwzA,k:8Cxh5ZUqMHn2KeL3BbAsxg",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
@@ -949,7 +949,7 @@
         "url": "https://1062-aws-da-mt.vrioott.com/1062_DIRECTV_SPORTS_URU_DASH/manifest.mpd",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/0xSPs29/DSports.png",
-        "drm_license_uri": "kid:XXXVj6w7qR4goCSyaKyWTw,k:0H3S2EVuO1ms+a4AN5uL+g",
+        "drm_license_uri": "kid:0H3S2EVuO1ms-a4AN5uL-g,k:XXXVj6w7qR4goCSyaKyWTw",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
           "Origin": "https://www.directvgo.com",
