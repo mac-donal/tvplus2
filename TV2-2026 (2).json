@@ -1830,7 +1830,7 @@
         "name": "HBO 1",
         "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKlHigqUtgdc57lA0QuB/VVt5p8LV1uOuzDb7jD0M0sbmPqPEfkUZJ0avKsiCDnA3E=",
         "type": "CLEARKEY",
-        "drm_license_uri": "https://results.femon.net/?keyid=b059cdbfc787a32f57fbcb6e52dbc0a0&key=50648d7806624eb8d53fb2aecc8b1af1",
+        "drm_license_uri": "http://86.48.28.31/clearkey.php?keyi=b059cdbfc787a32f57fbcb6e52dbc0a0:50648d7806624eb8d53fb2aecc8b1af1",
         "icono": "https://i.ibb.co/zfmjcgb/HBO.png",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
