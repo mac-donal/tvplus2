@@ -974,7 +974,7 @@
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/0xSPs29/DSports.png",
-        "drm_license_uri": "kid:LIHwQ8_dq66MqNg7FK55A,k:r61J0g6zlnDpPjccHWaZIQ",
+        "drm_license_uri": "kid:+LIHwQ8/dq66MqNg7FK55A,k:r61J0g6zlnDpPjccHWaZIQ",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
