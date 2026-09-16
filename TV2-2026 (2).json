@@ -2905,9 +2905,9 @@
         "type": "CLEARKEY",
         "drm_license_uri": "http://86.48.28.31/clearkey.php?keyi=c62c95f2180545198eb91df4cc32e3fc:6a21b6ef5adb8689dda7c3cc1eec0c35",
         "headers": {
-          "Origin": "https://portal.app.flow.com.ar",
-          "Referer": "https://portal.app.flow.com.ar/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
         }
       },
       {
