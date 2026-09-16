@@ -1291,7 +1291,7 @@
       },
       {
         "name": "ESPN",
-        "url": "https://362a33c2a385d7d1e52d89d16d6db901a224f189.cdn.broadpeak.io/bcdn_token=rCj5YkBYiu4F6rN1RijY6H3AN7Z8yCwNAGBqYUMMn3o&token_ignore_params=true&token_path=%2Fhtv%2F&expires=1789539136/htv/manifest.mpd",
+        "url": "https://362a33c2a385d7d1e52d89d16d6db901a224f189.cdn.broadpeak.io/bcdn_token=azzNyd7mGfWAqf17-qKIX9G-jHsSQk5q8EQmB4CQYPE&token_ignore_params=true&token_path=%2Fespn1%2F&expires=1789539406/espn1/manifest.mpd",
         "type": "CLEARKEY",
         "icono": "https://static.flow.com.ar/images/8458/CH_LOGO/60/40/0/0/71306601073528.png",
         "drm_license_uri": "capXKkl64z0OS7ZS/HpxKA1mMEoj/+urfaKKbVy8ghINTG91exFNWhcyfCZ3wTJsUk5CcyovHGZTLYA8Kko2DEAMGV7ig1IZr7C8YrXgBCRcpjuzvCsMu4xZpCbgnYNrsbf8IoJPZjXS1pefI+KEdA==",
