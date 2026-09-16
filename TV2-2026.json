@@ -4077,11 +4077,17 @@
       },
       {
         "dtv": 1,
-        "name": "GH-CAAM 1",
-        "url": "https://1283-aws-da-mt.vrioott.com/1283_GRAN_HERMANO_CAMARA_1_DASH/manifest.mpd",
+        "name": "EVENTOS 1",
+        "url": "https://1066-aws.vrioott.com/1066_DIRECTV_SPORTS_OCC_3_DASH/manifest.mpd",
         "type": "CLEARKEY",
-        "icono": "https://i.postimg.cc/fbQsB82C/gh.png",
-        "drm_license_uri": "kid:AD5-oNvEO3WGpOkq6qGlvw,k:HfmSLRLMgDabd7X0Hwrdwg",
+        "icono": "https://i.ibb.co/0xSPs29/DSports.png",
+        "drm_license_uri": "kid:FAwt2GpLM6uqwl0rMf1E1Q,k:v4TlQi8iL5l0BdTQuc6NXA
+kid:gZw1PBZ0NUCdK0HHb3Wy1w,k:E/3Q8Mo/yzCYZ6VVfhJf4Q
+kid:E09KGMSEQIyfdEl/OUL/iQ,k:DeLBwj0sFK/XHDsB0MdVTQ
+kid:LxCnsE2YUCuOqJYOMKHZ+A,k:7c1KbobexvFaiSYpbl/YGA
+kid:K9q0hURQXpWAqzckgGN0lw,k:CB3oVFszm6CVkYvTqiUehg
+kid:kCjYEa4jUQOIJTI5DNCoaQ,k:Ga2WxKVku5vBK2sEA9O/Xg
+kid:esjdfUhUW8iBCR7hu+yvQg,k:mIzHEljRd1zLpCZDgNYQxw",
         "headers": {
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
           "Origin": "https://www.directvgo.com",
