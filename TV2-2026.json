@@ -31,7 +31,7 @@
         "url": "https://cdn-flow-balancer.app.flow.com.ar/live/c3eds/Canal_Universidad/SA_Live_dash_enc/Canal_Universidad.mpd",
         "type": "CLEARKEY",
         "icono": "https://canal.mdp.edu.ar/resources/views/frontend/img/canal_iso_new.png",
-        "drm_license_uri": "http://86.48.28.31/clearkey.php?keyi=dacf2cc920f830e14ac6e829375901b0:e24ffc362967c1725d1b91844357184d",
+        "drm_license_uri": "kid:2s8sySD4MOFKxugpN1kBsA,k:4k_8NilnwXJdG5GEQ1cYTQ",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
