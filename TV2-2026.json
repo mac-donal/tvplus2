@@ -2957,10 +2957,10 @@
       },
       {
         "name": "CANAL LUZ",
-        "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoIOY9XZ62dOEg/xsuqAAjRCQxjqhAJ2GBDBTwjHOInzKR++tM0LDnsc3LisM0o5lTefvJ9OuM2Lcsw2xXpxRvb1",
+        "url": "https://chromecast.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_Live_dash_cenc/CANAL_LUZ.mpd",
         "icono": "https://www.coicom.com/wp-content/uploads/2022/08/Canal-Luz-2022.jpg",
         "type": "CLEARKEY",
-        "drm_license_uri": "MdniYQyzTbx519Vm6btRWbx3jLZL5CXt9zXuEP87idP2lkU3H4QdB+i6hfW46DRySoG37QVPUUHj+vlwXnNSiw==",
+        "drm_license_uri": "kid:bqNYaRp4OIiM-nppiEHHjA,k:WpxPXEyy0ck8_-tFLGGAmQ",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
