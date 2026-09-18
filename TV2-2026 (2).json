@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA PLUS123📡",
+    "name": "🇦🇷 CANALES DE ARGENTINA PLUS📡",
     "samples": [
       {
         "name": "LUZU TV",
@@ -1680,7 +1680,7 @@
         "name": "FOX Sports Premium",
         "url": "L4gYz9jB7ejl/Goosa1RyQatfvVp23ugUkKYPAUui6v6QOgxi6+ch+9kdifqjaDGXzyMAOO/5z5vU7ibkWcuC37JFUj6Z1WsUh4L7hK5bwWrSqLLO91aIclgLoCA9q23j2mCanypC5XtCGirDZdwEyr6lcaO4fL/ls++79ljfMI=",
         "type": "CLEARKEY",
-        "drm_license_uri": "capXKkl64z0OS7ZS/HpxKA1mMEoj/+urfaKKbVy8ghKHgC+QsztmCxGR9hXpZWTMn/GZ/AkUWIylvAxKi32V0TQw5YF/pubkqhdQ+rhkdDMGQeGT9fBuky/Vnc2urIZZkLe/+dz7YZGhzMi1AMptUg==",
+        "drm_license_uri": "kid:nzJ9JMZvvYThWrXJ6tfHpA,k:g4NxhVKcDEBI-BOGwtNkJg"
         "icono": "https://i.ibb.co/9V35PtY/Dise-o-sin-t-tulo-10.png"
       },
       {
@@ -4548,13 +4548,6 @@
           "Referer": "https://portal.app.flow.com.py/",
           "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
         }
-      },
-      {
-        "name": "FOX Sports Premium",
-        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
-        "type": "CLEARKEY",
-        "drm_license_uri": "kid:nzJ9JMZvvYThWrXJ6tfHpA,k:g4NxhVKcDEBI-BOGwtNkJg",
-        "icono": "https://i.ibb.co/9V35PtY/Dise-o-sin-t-tulo-10.png"
       },
       {
         "name": "PREMIERE 5",
