@@ -4550,6 +4550,13 @@
         }
       },
       {
+        "name": "FOX Sports Premium",
+        "url": "https://a12aivottepl-a.akamaihd.net/gru-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "kid:nzJ9JMZvvYThWrXJ6tfHpA,k:g4NxhVKcDEBI-BOGwtNkJg",
+        "icono": "https://i.ibb.co/9V35PtY/Dise-o-sin-t-tulo-10.png"
+      },
+      {
         "name": "PREMIERE 5",
         "url": "FHjRZj6mzYvnf/V7kdAIgIGMMcVTjeYe4vFgKKkaK6jZBmzt+RgtatDPPgClHmKjTVFrp46LM6yw0jcE5CFDacupEZ2KkCZ1VQRhLPzv7Sc=",
         "type": "CLEARKEY",
