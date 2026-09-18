@@ -4538,15 +4538,15 @@
         "webview": true
       },
       {
-        "name": "EVENTOS FÓRMULA 1",
-        "url": "F5YCV3OUkLwTRS/Gf3mlonXoDQeDsiQbjt5AzIiszXT/3rQhRMrCcgzNC3kP4nNAwuBNwCe70QTEppfcfCvj4VDsCH0Klu8uTW4r+pGHUuqXDpihIxj7SJJqBzxiNff84kUFZlHq6e6UYFU8fqLkKib+Vdbh6ByCmyFrkYH7Bzk=",
+        "name": "EL DESTAPE",
+        "url": "https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd",
         "type": "CLEARKEY",
-        "icono": "https://i.ibb.co/Rpmhjtj3/F1-Announcement.png",
-        "drm_license_uri": "capXKkl64z0OS7ZS/HpxKA1mMEoj/+urfaKKbVy8ghLnuWO8Sv4c/KBERFq7O22OtpUH0CdHpdXvdlyJ37NHjjDZl7szIA3FLDTuyk3tIDIf2oBRRCMD/0rCJfFScN/ryIxITaOtwqNKY5OoEeLHfQ==",
+        "icono": "https://i.ibb.co/yFbrg0L/eldestape.png",
+        "drm_license_uri": "kid:rwVmxQ5zPDEb36ZzapXOUA,k:4k5N_RKZMJezw1rUdWLWG0zg",
         "headers": {
-          "Origin": "848j14a/S7C4T+FHai8Y0pjBUtm3Bbp3bmcK8xxaEBI=",
-          "Referer": "848j14a/S7C4T+FHai8Y0jdJTf6gWQ9apkixdwY5/ig=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxLlUVMiYODR2b7a/p6vnhbhuTxUde2JTGmiJaDQJGByAQ=="
+          "Origin": "https://player.sensa.com.ar",
+          "Referer": "https://player.sensa.com.ar/",
+          "User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36"
         }
       },
       {
