@@ -4538,15 +4538,15 @@
         "webview": true
       },
       {
-        "name": "EL DESTAPE",
-        "url": "https://cdn.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd",
+        "name": "ETB1 On",
+        "url": "https://cdn1.etbon.eus/etb1on/index.mpd",
         "type": "CLEARKEY",
-        "icono": "https://i.ibb.co/yFbrg0L/eldestape.png",
-        "drm_license_uri": "kid:rwVmxQ5zPDEb36ZzapXOUA,k:4k5N_RKZMJezw1rUdWLWG0zg",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/c/c7/ETB2On.svg/revision/latest/scale-to-width-down/800?cb=20260318155633&path-prefix=es",
+        "drm_license_uri": "kid:kjiZdXEByzW-E4KFb3brPA,k:LRAj0z05h2BnMoQrFkIs8g",
         "headers": {
-          "Origin": "https://player.sensa.com.ar",
-          "Referer": "https://player.sensa.com.ar/",
-          "User-Agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Mobile Safari/537.36"
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
         }
       },
       {
