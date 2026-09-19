@@ -2245,6 +2245,18 @@
         }
       },
       {
+        "name": "Golden Plus",
+        "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o09knwldwh/out/v1/15f9f74c888e4fdd9815ea94635ae4db/cenc.mpd",
+        "type": "CLEARKEY",
+        "icono": "https://i.ibb.co/wNCYbtYp/GOLDEN-EDGE.png",
+        "drm_license_uri": "https://magisvideo.com/vercel/clearkey.php?keyi=ed5849d33e07606d6118d7fb26b90cd0:63670e57e70353ca526fb07a8d7ddb7b",
+        "headers": {
+          "Origin": "https://www.primevideo.com",
+          "Referer": "https://www.primevideo.com/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "Sony Channel",
         "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK0zakHPd0+IEefC4a98b9WtemFwy4+KUXOhcVuzmtweYby8+JwJUFE454CtQnWhF4=",
         "type": "CLEARKEY",
