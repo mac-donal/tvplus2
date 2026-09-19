@@ -2915,7 +2915,7 @@
         "name": "TNT NOVELAS",
         "url": "https://edge-live14-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwMDE3NDQ0Iiwic2lwIjoiMTkwLjE3NS4zOS4xMzUiLCJwYXRoIjoiL291dC92MS9UTlRfTk9WRUxBUy9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNDBjNmJiNGEyMjAyZjc3YyIsInNlc3Npb25faWQiOiI1NWQwNGI5NWFlYTNiNGZiZTZmMjEwYjExMTdhZWI3Ni0xNzg5ODQ0NjQzLTM1MCIsImNsaWVudF9pZCI6ImZsb3c6NDQ4NDc2NC0tZmxvdzo0NDg0NzY0OlAiLCJkZXZpY2VfaWQiOiI1NWQwNGI5NWFlYTNiNGZiZTZmMjEwYjExMTdhZWI3NiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjcxIiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.3aikEI5PW5m_QCn-CpxXPNQu29Z70_0Hi7YP7TQAPQ5qRtVSQcY1i00abG5Arnz5xHZqeZjRjOg_lb7KT2R3IQ==/out/v1/TNT_NOVELAS/SA_Live_dash_enc/TBS.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "http://86.48.28.31/clearkey.php?keyi=c62c95f2180545198eb91df4cc32e3fc:6a21b6ef5adb8689dda7c3cc1eec0c35",
+        "drm_license_uri": "kid:xiyV8hgFRRmOuR30zDLj/A,k:aiG271rbhondp8PMHuwMNQ",
         "headers": {
           "Origin": "https://portal.app.flow.com.py",
           "Referer": "https://portal.app.flow.com.py/",
