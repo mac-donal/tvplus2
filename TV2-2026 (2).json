@@ -2186,7 +2186,7 @@
       },
       {
         "name": "FX",
-        "url": "https://chromecast.cvattv.com.ar/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
+        "url": "https://cdn.cvattv.com.ar/out/v1/FXHD/SA_Live_dash_enc/FXHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "capXKkl64z0OS7ZS/HpxKA1mMEoj/+urfaKKbVy8ghIml1xGzMGCgQDRblzyjDXaMQdiyV3nUXeo9OVn7rCvDEdGpm5jcq5mcQYNwEafvKRXSOelVEmXY+iO0d1XRpCZ7fhOzCMOBZGSjvGJR8q9bw==",
         "icono": "https://i.ibb.co/5LvDcdV/587595.png",
@@ -2925,7 +2925,7 @@
       },
       {
         "name": "TNT NOVELAS",
-        "url": "https://chromecast.cvattv.com.ar/c6eds/TBS/SA_Live_dash_enc/TBS.mpd",
+        "url": "https://cdn.cvattv.com.ar/out/v1/TNT_NOVELAS/SA_Live_dash_enc/TBS.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "http://86.48.28.31/clearkey.php?keyi=c62c95f2180545198eb91df4cc32e3fc:6a21b6ef5adb8689dda7c3cc1eec0c35",
         "headers": {
