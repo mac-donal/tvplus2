@@ -2248,7 +2248,7 @@
         "name": "Golden Plus",
         "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o09knwldwh/out/v1/15f9f74c888e4fdd9815ea94635ae4db/cenc.mpd",
         "type": "CLEARKEY",
-        "icono": "https://i.ibb.co/j98ZY5gg/GOLDEN-PLUS.png",
+        "icono": "https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png",
         "drm_license_uri": "http://86.48.28.31/clearkey.php?keyi=ed5849d33e07606d6118d7fb26b90cd0:63670e57e70353ca526fb07a8d7ddb7b",
         "headers": {
           "Origin": "https://www.primevideo.com",
@@ -2260,7 +2260,7 @@
         "name": "Golden Edge",
         "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/xv3tnoayi8/out/v1/46aaaeb778de4cd39893d88a7f93b05a/cenc.mpd",
         "type": "CLEARKEY",
-        "icono": "https://i.ibb.co/wNCYbtYp/GOLDEN-EDGE.png",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",
         "drm_license_uri": "http://86.48.28.31/clearkey.php?keyi=ae4cbc34d4b1645f6c7b26410dde7b58:647478cd3bd0dfb3e820249296c23096",
         "headers": {
           "Origin": "https://www.primevideo.com",
