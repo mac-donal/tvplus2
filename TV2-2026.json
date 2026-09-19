@@ -2302,6 +2302,18 @@
         }
       },
       {
+        "name": "Europa Europa",
+        "url": "https://cdn.cvattv.com.ar/out/v1/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd",   0	
+        "type": "CLEARKEY",
+        "drm_license_uri": "kid:ArpOS3aeTBSCUOw_LyBuRg,k:ZZUw4hfRTCSCaJm976xI6Q",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png",
+        "headers": {
+          "Origin": "https://portal.app.flow.com.py",
+          "Referer": "https://portal.app.flow.com.py/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "TCM",
         "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoIOY9XZ62dOEg/xsuqAAjRCVaXASB8VVcyVWxKw1dVoCJlzVQK2tQieOR7XiwQyx+DkUuA4t2bIkxFrwVytIQd2",
         "type": "CLEARKEY",
