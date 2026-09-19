@@ -2892,7 +2892,7 @@
       },
       {
         "name": "TNT NOVELAS",
-        "url": "https://cdn.cvattv.com.ar/out/v1/TNT_NOVELAS/SA_Live_dash_enc/TBS.mpd",
+        "url": "https://cdn-flow-balancer.app.flow.com.ar/out/v1/TNT_NOVELAS/SA_Live_dash_enc/TBS.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "kid:xiyV8hgFRRmOuR30zDLj/A,k:aiG271rbhondp8PMHuwMNQ",
         "headers": {
