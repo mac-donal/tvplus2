@@ -2303,7 +2303,7 @@
       },
       {
         "name": "Europa Europa",
-        "url": "https://cdn.cvattv.com.ar/out/v1/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd",   0	
+        "url": "https://cdn.cvattv.com.ar/out/v1/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd",	
         "type": "CLEARKEY",
         "drm_license_uri": "kid:ArpOS3aeTBSCUOw_LyBuRg,k:ZZUw4hfRTCSCaJm976xI6Q",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png",
