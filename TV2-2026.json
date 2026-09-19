@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA SOS 28📡",
+    "name": "🇦🇷 CANALES DE ARGENTINA SOS📡",
     "samples": [
       {
         "name": "LUZU TV",
@@ -2225,26 +2225,26 @@
       },
       {
         "name": "Golden Plus",
-        "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o09knwldwh/out/v1/15f9f74c888e4fdd9815ea94635ae4db/cenc.mpd",
+        "url": "zoN8/cvUcuugNfVPpUA0ASfOev4+cYxCKoYNYMxcZ2WVRcIYQMzUlEyhyj5GAmFcKRgkexavcjx1lgeu6UUfADZpdgZcOpzMT+eu5QBKm4ORSj2UWUYIbz0Tq2uVj62uECCrERQqHexZQ7sitBaTu/hSB64DgMwVW3csZn1RrqE2iHGyvlbzyRZbK+kgqjmW",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/j98ZY5gg/GOLDEN-PLUS.png",
-        "drm_license_uri": "http://86.48.28.31/clearkey.php?keyi=ed5849d33e07606d6118d7fb26b90cd0:63670e57e70353ca526fb07a8d7ddb7b",
+        "drm_license_uri": "capXKkl64z0OS7ZS/HpxKA1mMEoj/+urfaKKbVy8ghKIEOKPz3rpq87jbmKO14smprIKxo+feKQI4TP5kOESDqMXC1KGnGgTtTOcjE+lR1Gs7WvJXHlwDOdmyzPK29IAQHYt5EJ7jNoAd3iZSZGIIw==",
         "headers": {
-          "Origin": "https://www.primevideo.com",
-          "Referer": "https://www.primevideo.com/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          "Origin": "848j14a/S7C4T+FHai8Y0pjBUtm3Bbp3bmcK8xxaEBI=",
+          "Referer": "848j14a/S7C4T+FHai8Y0jdJTf6gWQ9apkixdwY5/ig=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
         }
       },
       {
         "name": "Golden Edge",
-        "url": "https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/xv3tnoayi8/out/v1/46aaaeb778de4cd39893d88a7f93b05a/cenc.mpd",
+        "url": "zoN8/cvUcuugNfVPpUA0ASfOev4+cYxCKoYNYMxcZ2WVRcIYQMzUlEyhyj5GAmFcKRgkexavcjx1lgeu6UUfAI/7+rrYVpeEYbxNLNTPD3CD2z+tkzA9NcuQp/cqjsC1xfo0Dl8xN5AC2Y9N/8DMztqQj6eqJOpLT6PIvwAkNd82iHGyvlbzyRZbK+kgqjmW",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/wNCYbtYp/GOLDEN-EDGE.png",
-        "drm_license_uri": "http://86.48.28.31/clearkey.php?keyi=ae4cbc34d4b1645f6c7b26410dde7b58:647478cd3bd0dfb3e820249296c23096",
+        "drm_license_uri": "capXKkl64z0OS7ZS/HpxKA1mMEoj/+urfaKKbVy8ghJuy4kF9JDpzswi6bqjgPcvv25whG6cCYBrA9IjMpyGLIMxMZDr12BnyjfQA9At14rxgLY9oKuABM1PB+/fgAXL87sKBqjfwvwvA/3CZG8n2w==",
         "headers": {
-          "Origin": "https://www.primevideo.com",
-          "Referer": "https://www.primevideo.com/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          "Origin": "848j14a/S7C4T+FHai8Y0pjBUtm3Bbp3bmcK8xxaEBI=",
+          "Referer": "848j14a/S7C4T+FHai8Y0jdJTf6gWQ9apkixdwY5/ig=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
         }
       },
       {
@@ -2327,14 +2327,14 @@
       },
       {
         "name": "Europa Europa",
-        "url": "https://cdn-flow-balancer.app.flow.com.ar/out/v1/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd",	
+        "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoKt1L0iAz2kJUKTlFJIktfQX7e1L68dP9I8IM0R7cTwDCn0Rn8fNeOYwARjGWUCAjwWMrAoxfh9BR6pPdTcZbma5FLgOLdmyJMRa8FcrSEHdg==",
         "type": "CLEARKEY",
-        "drm_license_uri": "kid:ArpOS3aeTBSCUOw_LyBuRg,k:ZZUw4hfRTCSCaJm976xI6Q",
+        "drm_license_uri": "oH0QdE4HdMUhNB+gfIuVok1K2M5ArRe17glL2oaQfeHEaQu63JgXTX0A6wcwmv+WYEkDmszsPZNqJjjj9EbLjA==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png",
         "headers": {
-          "Origin": "https://portal.app.flow.com.py",
-          "Referer": "https://portal.app.flow.com.py/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
         }
       },
       {
@@ -2714,7 +2714,7 @@
         "name": "Discovery Science",
         "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoIOY9XZ62dOEg/xsuqAAjRCVjU0FAfF+vg3YxCIgZBXyyWjaXhwo0m4EN37y60tQQBmcurOlFn/rfr076mGUGLvN+BWq2S44N+vHAm1Fqf+Vw==",
         "type": "CLEARKEY",
-        "drm_license_uri": "kid:yfzZcJs4BYyiyQuD6BvAOQ,k:-3NuZcKnJImH5Yoqfm1Jpg",
+        "drm_license_uri": "DBWr8/rQMNF9YB9lZa5LDN8MkyiVgG2laOjylTZRpGPqpFx85QGUX3R91arHDEmrfai8IgWBBAVplqo2PZN2hA==",
         "icono": "https://i.ibb.co/Xy2WV2N/discovery-science-logo.png",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
@@ -2787,7 +2787,7 @@
         "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoIOY9XZ62dOEg/xsuqAAjRCKtqiQgLdLuPoDv/wU/Z4SfeMtWf+xUbSBXakvf5CGVQLqLtC/oz+BONpCekrgUHgPqzqQygeq4lhWFdI9hhRnA==",
         "type": "CLEARKEY",
         "icono": "https://static.flow.com.ar/images/8417/CH_LOGO/60/40/0/0/60015425071531.png",
-        "drm_license_uri": "kid:-wuFDITO3lIGHPb4T85sww,k:895cidBs6Zp2vfIHA9o8wg",
+        "drm_license_uri": "lQNGkvj8NCVsMzzhdn7WIdmGO+964SBuMvsB1r5k9ePRsKtjT9R7NfpnBQckFfXrZJgkNXYE6KO5Bz6oBEYMJg==",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
@@ -2916,9 +2916,9 @@
       },
       {
         "name": "TNT NOVELAS",
-        "url": "https://cdn-flow-balancer.app.flow.com.ar/out/v1/TNT_NOVELAS/SA_Live_dash_enc/TBS.mpd",
+        "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoKt1L0iAz2kJUKTlFJIktfQROSM1c4FoP2z/cTV+TmIei/7c01MqrJQSnynWdkjJak/q337JzNXKvrTI8NysG40",
         "type": "CLEARKEY",
-        "drm_license_uri": "kid:xiyV8hgFRRmOuR30zDLj/A,k:aiG271rbhondp8PMHuwMNQ",
+        "drm_license_uri": "SzfS2Kausp6RToLmuy/gRa455ZdrxAMVfzyCjcHirz666T0I3QrafGo/VgIFJeOcVL/BTAPV3b6RCbkE9jHhIA==",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
@@ -2993,10 +2993,10 @@
       },
       {
         "name": "CANAL LUZ",
-        "url": "https://chromecast.cvattv.com.ar/live/c7eds/CANAL_LUZ/SA_Live_dash_cenc/CANAL_LUZ.mpd",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJSZFd6qNku84FVz2C6wj05QXDzZIv58FzcQTpPTIZtOhpbzWxbJvXQlinAb7LCmvnQX9FQQrKhfusUPIZDpWa2",
         "icono": "https://www.coicom.com/wp-content/uploads/2022/08/Canal-Luz-2022.jpg",
         "type": "CLEARKEY",
-        "drm_license_uri": "kid:bqNYaRp4OIiM-nppiEHHjA,k:WpxPXEyy0ck8_-tFLGGAmQ",
+        "drm_license_uri": "bT54+Z7DZ5Q54YW/mQrSBVNG5Oe4dzFCRkgn4KHgFvGBQ6adaXMtS9frQYXgtMLAv37DktZkDbwCJk/JTuSbvg==",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
@@ -4548,7 +4548,7 @@
       },
       {
         "name": "Eventos TV Plus 2",
-        "url": "https://magisvideo.com/hola/player.html",
+        "url": "gvuZ39gDgv25mT0cbuHVGg4H7B0CsflskYsTmvtyI2heuXgRCogFG4cGVyP2GA5A",
         "icono": "https://tulogo.com/eventos.png",
         "webview": true
       },
