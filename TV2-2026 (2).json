@@ -1538,6 +1538,17 @@
         }
       },
       {
+        "name": "🟢 San Lorenzo vs Olimpia",
+        "url": "https://16u8ppie701bm.s3.us-east-2.amazonaws.com/hls/0/stream.m3u8",
+        "type": "HLS",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUNBPgMkRU1rygt9TEh-Psz2vk9GL0SN7ufopmcJOJuPWuHJ3mEgxQFOOum6X6ohanQCA-5m8ysYM1TYuq14Q2zfB4zQHsstcoIikq56tUWOA0SSa_XYOcVe8_pKg5crcoQh-Y3Q3OfWI6QJDigYYZ8J4KYYmBTxFx06xKo3ryAQlIyHYIKWt4Jikwt2Oz/s1600/Sportivo%20San%20Lorenzo%20X%20Olimpia.png",
+        "headers": {
+          "Origin": "https://nzdgk1.nnd5rd.top",
+          "Referer": "https://nzdgk1.nnd5rd.top/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+        }
+      },
+      {
         "name": "🟢 EVENTO 1",
         "url": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
         "type": "CLEARKEY",
