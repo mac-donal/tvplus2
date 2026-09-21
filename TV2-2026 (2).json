@@ -2185,7 +2185,7 @@
       },
       {
         "name": "FX",
-        "url": "https://chromecast.cvattv.com.ar/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
+        "url": "https://chromecast.cvattv.com.ar/out/v1/FXHD/SA_Live_dash_enc/FXHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "https://magisvideo.com/vercel/clearkey.php?keyi=9701932cab0e4aa3b8078176d5d54dd0:76819026588b16fd7083436b2b94485e",
         "icono": "https://i.ibb.co/5LvDcdV/587595.png",
