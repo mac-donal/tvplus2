@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA PLUS22📡",
+    "name": "🇦🇷 CANALES DE ARGENTINA PLUS222📡",
     "samples": [
       {
         "name": "LUZU TV",
@@ -2185,7 +2185,7 @@
       },
       {
         "name": "FX",
-        "url": "https://chromecast.cvattv.com.ar/out/v1/FXHD/SA_Live_dash_enc/FXHD.mpd",
+        "url": "https://chromecast.cvattv.com.ar/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd",
         "type": "CLEARKEY",
         "drm_license_uri": "kid:eKFyWL5cpy7DvDYq65doFg,k:McGINh9kMc9N-1wXaHC06Q",
         "icono": "https://i.ibb.co/5LvDcdV/587595.png",
