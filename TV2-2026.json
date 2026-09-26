@@ -1563,7 +1563,17 @@
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
       },
       {
-        "name": "🟢 CASTIGO 2",
+        "name": "🟢 Trinidense vs Cerro Porteño",
+        "url": "https://7tbfmxiqq1c4.s3.us-east-2.amazonaws.com/hls/0/stream.m3u8",
+        "type": "HLS",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6RxtsIGndlWEvfdw9LEXaAqifQOBPtLEB1-dLdjSn5wQH1BTEUYQ_vg61rqdLv2qzG3SR-In4_p34DzUs0qPeJIWkqAP3UOyUS9fKT-KhErcmXGo3FHcb5tEu5ABulQhQyqv5QswhJvYqiwN26Lm-dRNCusmArmFnc5kmbCS-yYq8Es4aaT_mOSW4Uzko/s1600/Sportivo%20Trinidense%20X%20Cerro%20Porte%C3%B1o.png",
+        "headers": {
+          "Origin": "https://nzdgk1.nnd5rd.top",
+          "Referer": "https://nzdgk1.nnd5rd.top/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+        }
+      },
+      {    "name": "🟢 CASTIGO 2",
         "url": "Cxv4T2D3ytP5vJwh3BdMduZIXT8FT3q22MUuVShntTqe73wPdG/jdRWRLSRN+n/VRyyNVPe45iZGARKWsPn97w==",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
