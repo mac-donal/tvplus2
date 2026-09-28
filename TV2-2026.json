@@ -2967,6 +2967,18 @@
         "type": "HLS"
       },
       {
+        "name": "Daystar Español",
+        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJBXAyMtzbNvPP3Z1Wh3sCs/HQ+hfXX4wwOIoJ+JNDjscJDWWL4voBfRYI5F1Ev/pNp45ALkHccw+E8WuN7aDnp",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Daystar_%282008%E2%80%93present%29_unmodified_logo.svg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "HnasUW9cMp8akzR/goBr86ZH1Z0wREFNjHezVov6WkoWjJzyeszgf3432MK3KXkKZacfTzIGxKEry2k8eEWt0g==",
+        "headers": {
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOBfmPsoyw8c9ZzIpugr+7HWTrCffw+3NV5cHM4SXkMrpB5rb66l9uHQucZJyAkwJw8="
+        }
+      },
+      {
         "name": "CANAL LUZ",
         "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmJSZFd6qNku84FVz2C6wj05QXDzZIv58FzcQTpPTIZtOhpbzWxbJvXQlinAb7LCmvnQX9FQQrKhfusUPIZDpWa2",
         "icono": "https://www.coicom.com/wp-content/uploads/2022/08/Canal-Luz-2022.jpg",
