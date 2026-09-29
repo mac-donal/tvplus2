@@ -357,7 +357,7 @@
     "samples": [
       {
         "name": "RETROX TV",
-        "url": https://lbgo.bozztv.com/ssh101/ssh101/sternblink/chunks.m3u8?lb_backend_hint=6",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/sternblink/chunks.m3u8?lb_backend_hint=6",
         "type": "HLS",
         "icono": "https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png",
         "headers": {
