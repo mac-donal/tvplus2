@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA SOS📡",
+    "name": "🇦🇷 CANALES DE ARGENTINA SOS1📡",
     "samples": [
       {
         "name": "LUZU TV",
@@ -15,8 +15,8 @@
         "icono": "https://i.ibb.co/yFbrg0L/eldestape.png",
         "drm_license_uri": "capXKkl64z0OS7ZS/HpxKA1mMEoj/+urfaKKbVy8ghLT/wU5CYfRTzpJtKQMl5kDgqtFUzZkAqcL+SWu714YG5A96QS4xIF2OH7n5w/6MFhMeE/8pUeZJjMEXfe1f+kAv1x/UlmTSQjBoYx+SKtwHQ==",
         "headers": {
-          "Origin": "https://webclient.axsbolivia.com",
-          "Referer": "https://webclient.axsbolivia.com/",
+          "Origin": "xXbfzaV86SziUpzMaGuP41XCwsc3AguKXRdIwiQM7U5p45ALkHccw+E8WuN7aDnp",
+          "Referer": "xXbfzaV86SziUpzMaGuP41XCwsc3AguKXRdIwiQM7U4DvJtiTpcNN58QFvknHsht",
           "User-Agent": "FFB3+/a5/zcxlwOWb69naLisvHkvKFR7uqiUMm5Lyu1DzkUyvAG8iM+jFEEWLvURhwgsajFs8pPkt6uYwrPjljaBQxVF+egNEvT2Bt+yS2JIhVx7s/3DaHzuji0hBE+6eGjcA4uSjtXrU2yA/5glP6nOFB17kJzsd7LviiDTLE0="
         }
       },
@@ -371,6 +371,17 @@
         "url": "xBgimtAG4hGg+6LWO7ELw7i5GWHvB62Nte6jV28CNGz1SgIM3ZBwkMRIAUu8GWLCqhh/NEFXSx9UTSo7UgydBDDwL1dnYvAwVTCM/o9be+T94ABNIzqgszGCgIPBVp5l",
         "type": "HLS",
         "icono": "https://www.canaldiez.com.ar/wp-content/uploads/2022/09/canal-diez_55.png",
+        "headers": {
+          "Origin": "KYBM/rwbCv8Tc17Ne7iPW67KjkkDXeGq7N6ezYB+duY=",
+          "Referer": "KYBM/rwbCv8Tc17Ne7iPWy/D47r+701/MZvSut0iyQk=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "Canal Doce Misiones",
+        "url": "ahDYN8mif/lrat7Fe9b38Vj4WVbrwQt9rimVMryOvq/7nTlEcoqwd6TQpqz48MMrJv/bqO9njWaVq2eCRdnlGJZfYfo0Ui7hH5rKp9wGSE/HBDBdXuCZS+2wUsSslq7y",
+        "type": "HLS",
+        "icono": "https://www.canal12misiones.com/wp-content/uploads/2023/06/Recurso-1horizontal.svg",
         "headers": {
           "Origin": "KYBM/rwbCv8Tc17Ne7iPW67KjkkDXeGq7N6ezYB+duY=",
           "Referer": "KYBM/rwbCv8Tc17Ne7iPWy/D47r+701/MZvSut0iyQk=",
@@ -1414,11 +1425,11 @@
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
-       }
+        }
       },
       {
         "name": "🟢 LPF 2",
-        "url": "https://emitiendoenvivo.com/lpf/2.m3u8",
+        "url": "8pw1uiBCFTp89+D1BzMYTp2/eXwyfEoRuoXGXzq8GfCQtqhU10a4ADxaxzL3mNO4",
         "type": "HLS",
         "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
       },
@@ -1453,7 +1464,7 @@
     "samples": [
       {
         "name": "🟢 Eventos  LPF",
-        "url": "https://magisvideo.com/LPF/matrix.php",
+        "url": "gvuZ39gDgv25mT0cbuHVGnZ9TLECY38O7k7ewls1GXH5VgKyZVuetkAF5rXmT9Uo",
         "icono": "https://github.com/mac-donal/pelis1/releases/download/2026/LPF2.png",
         "webview": true
       },
@@ -1471,7 +1482,7 @@
       },
       {
         "name": "🟢 LPF 1",
-        "url": "https://emitiendoenvivo.com/lpf/1.m3u8",
+        "url": "8pw1uiBCFTp89+D1BzMYTp2/eXwyfEoRuoXGXzq8GfC5CRKe03H5DO7JNF89LpRA",
         "type": "HLS",
         "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
       },
@@ -1523,22 +1534,23 @@
       },
       {
         "name": "🟢 CASTIGO 1 ",
-        "url": "https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/bl7rOfChY__0Jl4IlNIZnKK9w6HDmsh1IY0QYA6jXWn4w8nikMsTJMaMHGSsiXStM2LS3TGacG289vZHSh7gZQ/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_delta.m3u8?type=live",
+        "url": "2ZqcMgifZHO9FnZkx29T1jfoZjjmWJ3kC3QqhVv83ewmGV05HP+D5DJI1XKK9t0R9z2X9NCifcs9lUGck8ouwKujUM1JSYLyMe87USh+PWo9TCVD2zQqIo1Y3y6vWnndySm9DQoxJpR3YNW/2V1M4IRm9JIONLO8XDJdpv7o/mJHzpuDQhdOQuJiaMb94ke0eP6e7N8Zrh6iYlJM7yDcI88c44SB1Fmva1xomNTXvk5EOjmW0ad+1urM90TKHebT5u//xSDdmPj6BXge4OZfRQ8BAVKL51uGlEJH8nUmFyh8cNutm6Gqyn+1t0dmWuR2g8bjciEJ3qI2A6FvR7IZxKWu6U650XRKmTGL4SsAKXTq6kKPaRlpNqnWfRuyDUpuSuxoZS4aduQpoHGfA/bw3cxTtuoxH+w/HdO5zGQmIjvYaAZkFfkxGNTuSjRzzWQS50Ry3V6bDu8KajMIE2N6iEVp8tPosy5Bxv9emRRAYDuM7bLxLR3GlotABq5Avez1UHFI30egBvlUJ3xAJGYXvAKKWeKZ85o4scDwU+5IlFJBJwOQKHDTuPDOYUxpJu1/LZW7xEdUfRQZtBBPWM1uXJQbnXEuctRP3VXvsLPjiczRu1tNrOz6WCc000fzJ4XDWk7INMEjxnSFaCNY53j95w==",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
       },
       {
         "name": "🟢 Trinidense vs Cerro Porteño",
-        "url": "https://7tbfmxiqq1c4.s3.us-east-2.amazonaws.com/hls/0/stream.m3u8",
+        "url": "xyMxmbyHObIp2iw+oFm9LwsUmnYcbz3/VSSxCFXi8uOADt9FL7vwphp33+sNO3VJKVSGh7cfyRRkU9CrByLwJ4NARVoQWmbbLUeFMmgHLa8=",
         "type": "HLS",
         "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6RxtsIGndlWEvfdw9LEXaAqifQOBPtLEB1-dLdjSn5wQH1BTEUYQ_vg61rqdLv2qzG3SR-In4_p34DzUs0qPeJIWkqAP3UOyUS9fKT-KhErcmXGo3FHcb5tEu5ABulQhQyqv5QswhJvYqiwN26Lm-dRNCusmArmFnc5kmbCS-yYq8Es4aaT_mOSW4Uzko/s1600/Sportivo%20Trinidense%20X%20Cerro%20Porte%C3%B1o.png",
         "headers": {
-          "Origin": "https://nzdgk1.nnd5rd.top",
-          "Referer": "https://nzdgk1.nnd5rd.top/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+          "Origin": "SQvsU6U257a9dEGYQDd3bwl2o32yy0v8xR0HAQqulgQ=",
+          "Referer": "SQvsU6U257a9dEGYQDd3b2mWxz8cA1pYRURkViGh5KM=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ=="
         }
       },
-      {    "name": "🟢 CASTIGO 2",
+      {
+        "name": "🟢 CASTIGO 2",
         "url": "Cxv4T2D3ytP5vJwh3BdMduZIXT8FT3q22MUuVShntTqe73wPdG/jdRWRLSRN+n/VRyyNVPe45iZGARKWsPn97w==",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
@@ -4355,7 +4367,7 @@
       },
       {
         "name": "RADIO UNICA (🇦🇷)",
-        "url": "uulmyInAAZZ6Ap9lcl9LzOGsf8F4qE0CFPjqzyr4U9IHPyfybOvsAp4XwA2GoobK",
+        "url": "/WQe/mkNrxNghVuWp0/yTdvWEq+3MniB3xQIIh0BnhstXZ+LSKFpc71OF5kns6pb",
         "type": "HLS",
         "icono": "https://i.ibb.co/bMbD4BDN/Whats-App-Image-2026-01-28-at-11-37-55-AM.jpg"
       },
@@ -4535,7 +4547,7 @@
       },
       {
         "name": "Eventos TV Plus 2",
-        "url": "https://magisvideo.com/LPF2/eventos.php",
+        "url": "gvuZ39gDgv25mT0cbuHVGmwC7QFewbztjVh11BbpdY9C9XS5QJ91fxvo1Jt2iCC2",
         "icono": "https://tulogo.com/eventos.png",
         "webview": true
       },
