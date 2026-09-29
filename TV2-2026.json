@@ -820,77 +820,6 @@
     ]
   },
   {
-    "name": "🇦🇷 GH-24/7📡",
-    "hidden": true,
-    "samples": [
-      {
-        "dtv": 1,
-        "name": "GH-24/7",
-        "url": "iElHGfJ3J07zFkPynVajf5gnfXhHsXrTv54Y8p+SOb6/jFdhfJ992FDCiG7uykahY9s2BTOxQUQkdY9cgKEMPXBW3GAK7h3so9o0L1JoY0w=",
-        "type": "CLEARKEY",
-        "icono": "https://i.postimg.cc/fbQsB82C/gh.png",
-        "drm_license_uri": "Smu3XXweWuLROTjZQtduyC/fWZLPLQg0Dm0AxxaZ9DyJzA6Kbs76Al0BziRPF/1e0t1YQ3dPR+8hP4je+P2gBg==",
-        "headers": {
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ==",
-          "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
-          "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw="
-        }
-      },
-      {
-        "dtv": 1,
-        "name": "GH-CAAM 1",
-        "url": "pyrgfQyTRgfdwEDbqJpWn5gnfXhHsXrTv54Y8p+SOb4LnypYD3mC+JR/dNeIgoMhMpHKfZ55yvyymdOSiiZ2sLxYzSZEaSRUKw1FJJS9SHo=",
-        "type": "CLEARKEY",
-        "icono": "https://i.postimg.cc/fbQsB82C/gh.png",
-        "drm_license_uri": "XYJDlPf2YEvBKIL0vDD2r2t8I2b+nmNHlV/OLoNNszJb1BdVFxjK8TptyZkiOMFnE1Dwz2hqHY8mDXcmY5mndQ==",
-        "headers": {
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ==",
-          "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
-          "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw="
-        }
-      },
-      {
-        "dtv": 1,
-        "name": "GH-CAM 2",
-        "url": "rVEpJ8atF7JO/sbGklrBw5gnfXhHsXrTv54Y8p+SOb6Qt+bBAGYh5D7lhozRxrCRvJq9DdKklp3p4WDTdE+ESLxYzSZEaSRUKw1FJJS9SHo=",
-        "type": "CLEARKEY",
-        "icono": "https://i.postimg.cc/fbQsB82C/gh.png",
-        "drm_license_uri": "7Y5mBFc8Pbm9AfYamLcz4hK5pNarJHyRjxGJAOhr0uuVZsXDvs/mqfcEXgByclRQIrp7BCgnBCBsu9HkIkxupQ==",
-        "headers": {
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ==",
-          "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
-          "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw="
-        }
-      },
-      {
-        "dtv": 1,
-        "name": "GH-CAM 3",
-        "url": "wG3jK++zu4xHPtokVwqFFJgnfXhHsXrTv54Y8p+SOb4ElVuMeM91DEm9pcG+amuI8XvAxmQzSzdbvO+W2vMRDbxYzSZEaSRUKw1FJJS9SHo=",
-        "type": "CLEARKEY",
-        "icono": "https://i.postimg.cc/fbQsB82C/gh.png",
-        "drm_license_uri": "4RyJbJDIgfb+sVm53EKFN6DUDM9iHXP4LnfHcAORdBgVwa50HNBOxO5qfdmDRRSUhBcNh259GtsFXXI0A5mPng==",
-        "headers": {
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ==",
-          "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
-          "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw="
-        }
-      },
-      {
-        "dtv": 1,
-        "name": "GH-MULTI CAM4RAS",
-        "url": "bPzAlq1TbfREWP5yfeflF0fTrXxczd/sXOZE28HLfsNewOWkjK68agVImnKk2VFoPLvu4FGLMosokrRZOvuVVNgzsYE5aQa5gV+b0v9dEZ8=",
-        "type": "CLEARKEY",
-        "icono": "https://i.postimg.cc/fbQsB82C/gh.png",
-        "drm_license_uri": "2asz3xMmX6vLgew+NKDkJolPhWu8m7fFR42/dsXokbh6nERI3SUMflzMVJHHZfjh/ZLDhpaNugZi+7AYRRKQ8w==",
-        "headers": {
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ==",
-          "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
-          "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw="
-        }
-      }
-    ]
-  },
-  {
     "name": "🏆PACKS DSPORT⚽",
     "samples": [
       {
@@ -3360,6 +3289,19 @@
   {
     "name": "🇺🇾 CANALES DE URUGUAY 🎬✨",
     "samples": [
+      {
+        "dtv": 1,
+        "name": "GH-24/7 URUGUAY",
+        "url": "iElHGfJ3J07zFkPynVajf5gnfXhHsXrTv54Y8p+SOb6/jFdhfJ992FDCiG7uykahY9s2BTOxQUQkdY9cgKEMPXBW3GAK7h3so9o0L1JoY0w=",
+        "type": "CLEARKEY",
+        "icono": "https://i.ibb.co/GfgFCnWN/images-q-tbn-ANd9-Gc-Si-Xj31-Jufwlriv-Ndd-Dmo-FEA7t-Vly-Hx-Q9w6-E0y-DX3-Fy-Uitg-WYK6h-YH6934-s-10.jpg",
+        "drm_license_uri": "Smu3XXweWuLROTjZQtduyC/fWZLPLQg0Dm0AxxaZ9DyJzA6Kbs76Al0BziRPF/1e0t1YQ3dPR+8hP4je+P2gBg==",
+        "headers": {
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ==",
+          "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
+          "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw="
+        }
+      },
       {
         "name": "EVENTOS URUGUAY",
         "type": "HLS",
