@@ -2902,9 +2902,10 @@
         }
       },
       {
-        "name": "TNT NOVELAS",
+        "name": "TNT Novelas",
         "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoKt1L0iAz2kJUKTlFJIktfQROSM1c4FoP2z/cTV+TmIei/7c01MqrJQSnynWdkjJak/q337JzNXKvrTI8NysG40",
         "type": "CLEARKEY",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_TNT_Novelas.png/250px-Logo_TNT_Novelas.png",
         "drm_license_uri": "SzfS2Kausp6RToLmuy/gRa455ZdrxAMVfzyCjcHirz666T0I3QrafGo/VgIFJeOcVL/BTAPV3b6RCbkE9jHhIA==",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
