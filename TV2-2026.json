@@ -1468,10 +1468,10 @@
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
       },
       {
-        "name": "🟢 Trinidense vs Cerro Porteño",
-        "url": "xyMxmbyHObIp2iw+oFm9LwsUmnYcbz3/VSSxCFXi8uOADt9FL7vwphp33+sNO3VJKVSGh7cfyRRkU9CrByLwJ4NARVoQWmbbLUeFMmgHLa8=",
+        "name": "🟢 CASTIGO 2",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/events1py/playlist.m3u8",
         "type": "HLS",
-        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6RxtsIGndlWEvfdw9LEXaAqifQOBPtLEB1-dLdjSn5wQH1BTEUYQ_vg61rqdLv2qzG3SR-In4_p34DzUs0qPeJIWkqAP3UOyUS9fKT-KhErcmXGo3FHcb5tEu5ABulQhQyqv5QswhJvYqiwN26Lm-dRNCusmArmFnc5kmbCS-yYq8Es4aaT_mOSW4Uzko/s1600/Sportivo%20Trinidense%20X%20Cerro%20Porte%C3%B1o.png",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
         "headers": {
           "Origin": "SQvsU6U257a9dEGYQDd3bwl2o32yy0v8xR0HAQqulgQ=",
           "Referer": "SQvsU6U257a9dEGYQDd3b2mWxz8cA1pYRURkViGh5KM=",
@@ -1479,13 +1479,19 @@
         }
       },
       {
-        "name": "🟢 CASTIGO 2",
+        "name": "🟢 CASTIGO 3",	
         "url": "Cxv4T2D3ytP5vJwh3BdMduZIXT8FT3q22MUuVShntTqe73wPdG/jdRWRLSRN+n/VRyyNVPe45iZGARKWsPn97w==",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
       },
       {
-        "name": "🟢 CASTIGO 3",
+        "name": "🟢 CASTIGO 4",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/events3py/playlist.m3u8",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
+      },
+      {
+        "name": "🟢 CASTIGO 5",
         "url": "i/kyuWdCXK5YPOCvA+ovOqkWf/l6uPgAyDhrx6v4/N2fqE7waXTdLcBYpWK1IuGUjW8UznCBMMU2G+bPUv8Of2ipk3oCbYbcjO89fcaSIFI=",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
