@@ -4368,6 +4368,12 @@
   "icono": "https://tulogo.com/eventos.png"
       },
       {
+  "name": "Eventos TV Plus 2",
+  "url": "https://magisvideo.com/eventos/index.php",
+  "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzXKNg5d7lbuEkfX1HstIfnjLzz--2o5LEg&s",
+  "type": "DIRECT"
+      },
+      {
         "name": "PREMIERE 5",
         "url": "FHjRZj6mzYvnf/V7kdAIgIGMMcVTjeYe4vFgKKkaK6jZBmzt+RgtatDPPgClHmKjTVFrp46LM6yw0jcE5CFDacupEZ2KkCZ1VQRhLPzv7Sc=",
         "type": "CLEARKEY",
