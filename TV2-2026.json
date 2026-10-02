@@ -4363,6 +4363,12 @@
   "icono": "https://tulogo.com/eventos.png"
       },
       {
+  "name": "stream=espn2",
+  "url": "https://streamtp-golden1.click/global1.php?stream=espn2",
+  "type": "DIRECT",
+  "icono": "https://tulogo.com/eventos.png"
+      },
+      {
   "name": "Eventos TV Plus 2",
   "url": "https://magisvideo.com/eventos/index.php",
   "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzXKNg5d7lbuEkfX1HstIfnjLzz--2o5LEg&s",
