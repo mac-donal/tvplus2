@@ -4371,7 +4371,8 @@
   "name": "Eventos TV Plus 2",
   "url": "https://magisvideo.com/eventos/index.php",
   "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzXKNg5d7lbuEkfX1HstIfnjLzz--2o5LEg&s",
-  "type": "DIRECT"
+  "type": "WEBVIEW",
+  "webview": true
       },
       {
         "name": "PREMIERE 5",
