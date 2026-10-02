@@ -1135,6 +1135,18 @@
         "icono": "https://futbollibrevivo.com/wp-content/uploads/2025/07/DSports.webp"
       },
       {
+        "name": "NBA",
+        "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoIOY9XZ62dOEg/xsuqAAjRCENzcaeph40cJDzcclpBrQtTKiiC7QbvSj94G5RExiFfqdYYb49qDBY/g5g/CkGv1",
+        "type": "CLEARKEY",
+        "icono": "https://i.ibb.co/MDtRPXSZ/nba.png",
+        "drm_license_uri": "p+PGCFsQ1CGYNKaQS6g3jniAZkCbCZMX/1mnAN5+jSb8OJpB8bjCKXm0yJ3AQRJSpjhzNYM0oTnYGt8ECH6J6Q==",
+        "headers": {
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eABnihlhTPtQNHw/SpPwVks=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eCSAxXjSX2EFIJDtJqMgUME=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
         "name": "TNT Sports",
         "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoIOY9XZ62dOEg/xsuqAAjRCdaUIxJ/7GjWMjTwFLUAV87XphcMuPilFzoXFbs5rcHm6vqryy0mEyyNKdQYYQYPM/192JU/TtmqjZ7f0hQgGEg==",
         "type": "CLEARKEY",
@@ -1355,12 +1367,6 @@
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
         }
-      },
-      {
-        "name": "🟢 LPF 2",
-        "url": "8pw1uiBCFTp89+D1BzMYTp2/eXwyfEoRuoXGXzq8GfCQtqhU10a4ADxaxzL3mNO4",
-        "type": "HLS",
-        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
       },
       {
         "name": "TyC Sports",
