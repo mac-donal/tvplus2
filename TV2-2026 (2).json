@@ -1399,12 +1399,6 @@
     "name": "🇦🇷 (TYC PLAY) (LPF) ⚽",
     "samples": [
       {
-        "name": "🟢 Eventos  LPF",
-        "url": "ziSmAAIRV2ysCk55S5K08sXx6XligUV5hYccJi074y9J7pmbZGICwI4Lhtmqizg2",
-        "icono": "https://github.com/mac-donal/pelis1/releases/download/2026/LPF2.png",
-        "webview": true
-      },
-      {
         "name": "TyC Sports",
         "url": "KBuMaHErT3LNOyQTXUk7NqlPdIWEoVJObh0i8uEjv568IsHpp9PNy89yYAutdT9x1Q/Sku+VUW7IEp/iAtY4N8JWdwUGIBcL5TSG3gXB8tOY7elwLSw37sTpwVTwi1Hm",
         "type": "CLEARKEY",
@@ -1417,12 +1411,6 @@
         }
       },
       {
-        "name": "🟢 LPF 1",
-        "url": "ZL9x3S5+ahljPn7tZuxg65WSHsCCI3cUSjEHQiZ2Ex41vgzSP6RTO5neTHBjpiVY",
-        "type": "HLS",
-        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
-      },
-      {
         "name": "TYC SPORT (WEB)",
         "url": "m4JJxY9R/AQn2AHmYkOoz2PKhTb/Z7iBTxKS9Np4lFTLbBIBzbAVP7P1e5fkKRHMxiWqhpNYA0MLTMC3DQTwJg==",
         "type": "HLS",
@@ -1432,6 +1420,60 @@
           "Referer": "9ySXlXB1+yMfax4iF7IuiEDo79jXWDXoTeOCt+a073I=",
           "User-Agent": "E+XtHB1YfIwega6JcFfx8p/RWJWuJQqBxbY/TAeqn5r55NUQsYPkwU1+Otn2djAKW3gqNKq6ax4TZl6bUMe5B0V7elToZrKRQCxikSS50FAY+5jj2Gh8Ib0sP9OBwgwiHb1OiwWdGJDfxcdkgPFOHQ=="
         }
+      },
+      {
+        "name": "🟢 LPF 1",
+        "url": "+eZurgoZ18VVuYk2DsLYrnYdDyIY9sxX21LUuGT4XvEvzoGNJ3T5RBSaDtKrCDZIm0iUEzZjRK7IsqnNRj75sfJ2PwO39WeGWXI9z/vAUaI=",
+        "type": "HLS",
+        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+      },
+      {
+        "name": "🟢 LPF 2",
+        "url": "+eZurgoZ18VVuYk2DsLYrnYdDyIY9sxX21LUuGT4XvGYH5+wVjQf0L8OcWA4Zx1WWPfXmCA9lttOgB6VRtL1SPJ2PwO39WeGWXI9z/vAUaI=",
+        "type": "HLS",
+        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+      },
+      {
+        "name": "🟢 LPF 3",
+        "url": "+eZurgoZ18VVuYk2DsLYrnYdDyIY9sxX21LUuGT4XvF8MFmX8D6pgEviFpfNkLcygVCC8basWWz9M5H3EUHoTvJ2PwO39WeGWXI9z/vAUaI=",
+        "type": "HLS",
+        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+      },
+      {
+        "name": "🟢 LPF 4",
+        "url": "+eZurgoZ18VVuYk2DsLYrnYdDyIY9sxX21LUuGT4XvH5MOhiRv2SnAxtEzzuBswf9renq1qFQYoCTQmb/iNWJ/J2PwO39WeGWXI9z/vAUaI=",
+        "type": "HLS",
+        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+      },
+      {
+        "name": "🟢 LPF 5",
+        "url": "+eZurgoZ18VVuYk2DsLYrnYdDyIY9sxX21LUuGT4XvGwsvOTc9HKw6CRMJEPM3Os74s9DaCA7rvh5luhVAhaevJ2PwO39WeGWXI9z/vAUaI=",
+        "type": "HLS",
+        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+      },
+      {
+        "name": "🟢 LPF 6",
+        "url": "+eZurgoZ18VVuYk2DsLYrnYdDyIY9sxX21LUuGT4XvGENX6wEx7Wj1yofD5kiYI5OQxZV2H1LohLhQXnxOK2ffJ2PwO39WeGWXI9z/vAUaI=",
+        "type": "HLS",
+        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+      },
+      {
+        "name": "🟢 LPF 7",
+        "url": "+eZurgoZ18VVuYk2DsLYrnYdDyIY9sxX21LUuGT4XvFHAdwRG5pklk/c9atYb5Qn7/VWHICXDnqoJaEpBEc5Y/J2PwO39WeGWXI9z/vAUaI=",
+        "type": "HLS",
+        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+      },
+      {
+        "name": "🟢 LPF 8",
+        "url": "+eZurgoZ18VVuYk2DsLYrnYdDyIY9sxX21LUuGT4XvEplIiN/WPYgGA/ARApMA84ri5Qlr90I+q0HB4Uf1fZFvJ2PwO39WeGWXI9z/vAUaI=",
+        "type": "HLS",
+        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+      },
+      {
+        "name": "🟢 LPF 9",
+        "url": "+eZurgoZ18VVuYk2DsLYrnYdDyIY9sxX21LUuGT4XvEYo1iLCgsJYGeKEJwT7TDywMLBWQAtm9B7XYkdMLrWEfJ2PwO39WeGWXI9z/vAUaI=",
+        "type": "HLS",
+        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
       }
     ]
   },
