@@ -1038,11 +1038,11 @@
     "name": "🇦🇷 DEPORTES ARGENTINO ⚽",
     "samples": [
       {
-   "name": "Eventos TV Plus 2",
-  "url": "https://magisvideo.com/eventos/index.php",
-  "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzXKNg5d7lbuEkfX1HstIfnjLzz--2o5LEg&s",
-  "type": "WEBVIEW",
-  "webview": true
+        "name": "Eventos TV Plus 2",
+        "url": "gvuZ39gDgv25mT0cbuHVGiTxLjn+GfnMwvaQi4pFHwT27LQk814rOCaRtXhmbGRD",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzXKNg5d7lbuEkfX1HstIfnjLzz--2o5LEg&s",
+        "type": "WEBVIEW",
+        "webview": true
       },
       {
         "name": "EVENTOS AR",
@@ -1399,12 +1399,6 @@
     "name": "🇦🇷 (TYC PLAY) (LPF) ⚽",
     "samples": [
       {
-        "name": "🟢 Eventos  LPF",
-        "url": "gvuZ39gDgv25mT0cbuHVGnZ9TLECY38O7k7ewls1GXH5VgKyZVuetkAF5rXmT9Uo",
-        "icono": "https://github.com/mac-donal/pelis1/releases/download/2026/LPF2.png",
-        "webview": true
-      },
-      {
         "name": "TyC Sports",
         "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoIOY9XZ62dOEg/xsuqAAjRCV3lYvzfSp8eCR4uzev6zAncYlWgENV059oYzUoz88o+E5Nj6WnW6tUnnhf22twoL",
         "type": "CLEARKEY",
@@ -1417,12 +1411,6 @@
         }
       },
       {
-        "name": "🟢 LPF 1",
-        "url": "8pw1uiBCFTp89+D1BzMYTp2/eXwyfEoRuoXGXzq8GfC5CRKe03H5DO7JNF89LpRA",
-        "type": "HLS",
-        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
-      },
-      {
         "name": "TYC SPORT (WEB)",
         "url": "A2+DcqLMwjW/b6O51kBOZKLOSeba4jDzRftw47Lyy+Mao2jQhRsLx7zOP+UgEapr4mGtgTh2uSlgXrwyFFH+CA==",
         "type": "HLS",
@@ -1432,6 +1420,60 @@
           "Referer": "gt2xKDxHwc+4dRcXmppx3fJyv27ei6B/9IVMfCglLt8=",
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxI1RrmnVU/RoMYwx+W0jaMPuTxUde2JTGmiJaDQJGByAQ=="
         }
+      },
+      {
+        "name": "🟢 LPF 1",
+        "url": "6Xk0wwkYzQduTaoYT5V0U7DuzDNsbllFT6WJYXr1YmEcMtS+uH2HHUdQKo4z/Nz/loCulyWOmqHwY4fZcyPVtWnjkAuQdxzD4Txa43toOek=",
+        "type": "HLS",
+        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+      },
+      {
+        "name": "🟢 LPF 2",
+        "url": "6Xk0wwkYzQduTaoYT5V0U7DuzDNsbllFT6WJYXr1YmF36d/ycofW5bi2K+YgupNzCpbT4mYDBBIQPWZktIRyaWnjkAuQdxzD4Txa43toOek=",
+        "type": "HLS",
+        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+      },
+      {
+        "name": "🟢 LPF 3",
+        "url": "6Xk0wwkYzQduTaoYT5V0U7DuzDNsbllFT6WJYXr1YmHOSb4nfN0NafchZnAhxBxGnPy7fl5GPWLNV5psULsMvGnjkAuQdxzD4Txa43toOek=",
+        "type": "HLS",
+        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+      },
+      {
+        "name": "🟢 LPF 4",
+        "url": "6Xk0wwkYzQduTaoYT5V0U7DuzDNsbllFT6WJYXr1YmF/8l3e2toIBHTkgkinUn6/cKE227QU32xOSmuHh1FK8GnjkAuQdxzD4Txa43toOek=",
+        "type": "HLS",
+        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+      },
+      {
+        "name": "🟢 LPF 5",
+        "url": "6Xk0wwkYzQduTaoYT5V0U7DuzDNsbllFT6WJYXr1YmEX6srNBif5PrzrF5KgZln4qA2nY1YjPevEj19WsDFI42njkAuQdxzD4Txa43toOek=",
+        "type": "HLS",
+        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+      },
+      {
+        "name": "🟢 LPF 6",
+        "url": "6Xk0wwkYzQduTaoYT5V0U7DuzDNsbllFT6WJYXr1YmFNQms+47xaymekzTvG1zoI8b5341U3NC4c8WDx+T54xWnjkAuQdxzD4Txa43toOek=",
+        "type": "HLS",
+        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+      },
+      {
+        "name": "🟢 LPF 7",
+        "url": "6Xk0wwkYzQduTaoYT5V0U7DuzDNsbllFT6WJYXr1YmFEi2fuiQ+dr3KJ2aLJRkhfVWnOYlg78NuDF40cFsEtYGnjkAuQdxzD4Txa43toOek=",
+        "type": "HLS",
+        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+      },
+      {
+        "name": "🟢 LPF 8",
+        "url": "6Xk0wwkYzQduTaoYT5V0U7DuzDNsbllFT6WJYXr1YmFSZcvwS3y3EYntJFVZHKpzCSddO745l+6ESkusoBYKpGnjkAuQdxzD4Txa43toOek=",
+        "type": "HLS",
+        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
+      },
+      {
+        "name": "🟢 LPF 9",
+        "url": "6Xk0wwkYzQduTaoYT5V0U7DuzDNsbllFT6WJYXr1YmFMprMF4IfxbCyO3Vbey/oiGvyA4X4I/mblVhLmKE1RR2njkAuQdxzD4Txa43toOek=",
+        "type": "HLS",
+        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
       }
     ]
   },
@@ -4357,23 +4399,23 @@
         "webview": true
       },
       {
-  "name": "TEST disney 10",
-  "url": "https://streamtp-golden1.click/global1.php?stream=disney1",
-  "type": "DIRECT",
-  "icono": "https://tulogo.com/eventos.png"
+        "name": "TEST disney 10",
+        "url": "9Fd/YQGx3D34bq2akL0G372ba3tXUWZvEvPAl9l7uiTFtTDjAcVjYKKe3gTtuxEgVF8gBEBykO+aOhdvQJzrAA==",
+        "type": "DIRECT",
+        "icono": "https://tulogo.com/eventos.png"
       },
       {
-  "name": "stream=espn2",
-  "url": "https://streamtp-golden1.click/global1.php?stream=espn2",
-  "type": "DIRECT",
-  "icono": "https://tulogo.com/eventos.png"
+        "name": "stream=espn2",
+        "url": "9Fd/YQGx3D34bq2akL0G372ba3tXUWZvEvPAl9l7uiTFtTDjAcVjYKKe3gTtuxEgTGnZ6dA6j2ZTkA5J5YHOtA==",
+        "type": "DIRECT",
+        "icono": "https://tulogo.com/eventos.png"
       },
       {
-  "name": "Eventos TV Plus 2",
-  "url": "https://magisvideo.com/eventos/index.php",
-  "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzXKNg5d7lbuEkfX1HstIfnjLzz--2o5LEg&s",
-  "type": "WEBVIEW",
-  "webview": true
+        "name": "Eventos TV Plus 2",
+        "url": "gvuZ39gDgv25mT0cbuHVGiTxLjn+GfnMwvaQi4pFHwT27LQk814rOCaRtXhmbGRD",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzXKNg5d7lbuEkfX1HstIfnjLzz--2o5LEg&s",
+        "type": "WEBVIEW",
+        "webview": true
       },
       {
         "name": "PREMIERE 5",
