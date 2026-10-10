@@ -4369,8 +4369,8 @@
   "icono": "https://tulogo.com/eventos.png"
       },
       {
-  "name": "Eventos TV Plus 2",
-  "url": "https://magisvideo.com/eventos/index.php",
+  "name": "Eventos PPVENVIVO",
+  "url": "https://magisvideo.com/eventos/PPVENVIVO/index.php",
   "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzXKNg5d7lbuEkfX1HstIfnjLzz--2o5LEg&s",
   "type": "WEBVIEW",
   "webview": true
