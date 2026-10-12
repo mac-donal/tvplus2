@@ -1487,17 +1487,6 @@
     "name": "​🇵🇾 TIGO SPORTS ⚽ (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
-        "name": "🟢 UFC Fight Night: Brendan Allen vs Christian Leroy Duncan",
-        "url": "https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/WEc9F_YC7CZu9oPmYvrw4T-66JIZ1kG5W3GnGU9HAjgIgnGYbc2utWovV7dk6BS_E3sUmTek18b4UGSrdIM1fQ/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_delta.m3u8?type=live",
-        "type": "HLS",
-        "icono": "https://m.media-amazon.com/images/S/pv-target-images/b884b95ad95cdd7ea21c3b5c704e26fef62d2959f0f484b95e757c6575049777.jpg",
-        "headers": {
-          "Origin": "QiIYE0dJoQQ1VqVl1Z58jUk2kgSqElWWh9qQVPydZJo=",
-          "Referer": "QiIYE0dJoQQ1VqVl1Z58jSLK0XA6trlPY6dkmvWQkQA=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
         "name": "🟢 EVENTO 1",
         "url": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
         "type": "CLEARKEY",
@@ -1517,13 +1506,7 @@
         }
       },
       {
-        "name": "🟢 CASTIGO 1 ",
-        "url": "Cxv4T2D3ytP5vJwh3BdMduZIXT8FT3q22MUuVShntTrCgBfFBIJFmNl6UCgDPmHXO5ng5OI3DZx3T3I9dt9BFg==",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
-      },
-      {
-        "name": "🟢 CASTIGO 2",
+        "name": "🟢 CASTIGO 1",
         "url": "Cxv4T2D3ytP5vJwh3BdMduZIXT8FT3q22MUuVShntTrCgBfFBIJFmNl6UCgDPmHXO5ng5OI3DZx3T3I9dt9BFg==",
         "type": "HLS",
         "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
@@ -1534,19 +1517,19 @@
         }
       },
       {
-        "name": "🟢 CASTIGO 3",
+        "name": "🟢 CASTIGO 2",
         "url": "Cxv4T2D3ytP5vJwh3BdMduZIXT8FT3q22MUuVShntTqe73wPdG/jdRWRLSRN+n/VRyyNVPe45iZGARKWsPn97w==",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
       },
       {
-        "name": "🟢 CASTIGO 4",
+        "name": "🟢 CASTIGO 3",
         "url": "Cxv4T2D3ytP5vJwh3BdMduZIXT8FT3q22MUuVShntTrSijSQDsianyaGUBhmlEWJO5ng5OI3DZx3T3I9dt9BFg==",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
       },
       {
-        "name": "🟢 CASTIGO 5",
+        "name": "🟢 CASTIGO 4",
         "url": "i/kyuWdCXK5YPOCvA+ovOqkWf/l6uPgAyDhrx6v4/N2fqE7waXTdLcBYpWK1IuGUjW8UznCBMMU2G+bPUv8Of2ipk3oCbYbcjO89fcaSIFI=",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
