@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA PLUS1📡",
+    "name": "🇦🇷 CANALES DE ARGENTINA PLUS3📡",
     "samples": [
       {
         "name": "LUZU TV",
@@ -1509,27 +1509,16 @@
         "name": "🟢 CASTIGO 1",
         "url": "https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/8x3caJU7Ig5Fr-p34vjgXxmheKag1uWSTDhVAbt0jlkjldKimwfX8g9ljiiuaD_6IyaJi2E4nn0inYym3xjG0g/transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_delta.m3u8?type=live",
         "type": "HLS",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "headers": {
-          "Origin": "SQvsU6U257a9dEGYQDd3bwl2o32yy0v8xR0HAQqulgQ=",
-          "Referer": "SQvsU6U257a9dEGYQDd3b2mWxz8cA1pYRURkViGh5KM=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
-        "name": "🟢 CASTIGO 2",
-        "url": "Cxv4T2D3ytP5vJwh3BdMduZIXT8FT3q22MUuVShntTqe73wPdG/jdRWRLSRN+n/VRyyNVPe45iZGARKWsPn97w==",
-        "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
       },
       {
-        "name": "🟢 CASTIGO 3",
+        "name": "🟢 CASTIGO 2",
         "url": "Cxv4T2D3ytP5vJwh3BdMduZIXT8FT3q22MUuVShntTrSijSQDsianyaGUBhmlEWJO5ng5OI3DZx3T3I9dt9BFg==",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
       },
       {
-        "name": "🟢 CASTIGO 4",
+        "name": "🟢 CASTIGO 3",
         "url": "i/kyuWdCXK5YPOCvA+ovOqkWf/l6uPgAyDhrx6v4/N2fqE7waXTdLcBYpWK1IuGUjW8UznCBMMU2G+bPUv8Of2ipk3oCbYbcjO89fcaSIFI=",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
