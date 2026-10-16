@@ -1519,6 +1519,12 @@
       },
       {
         "name": "🟢 CASTIGO 3",
+        "url": "https://lumixtv.es/canales/PHPS/stream/vitaci9067.m3u8?user=canalla",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png" 
+      },
+      {
+        "name": "🟢 CASTIGO 4",
         "url": "https://video-cdn.angelthump.com/hls/MjAyNi0xMC0xNlQyMDo0MzoxNS4yNTJadml0YWNpOTA2Nw==_vitaci9067/index.m3u8",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
