@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA PLUS📡",
+    "name": "🇦🇷 CANALES DE ARGENTINA PLUS 5📡",
     "samples": [
       {
         "name": "LUZU TV",
@@ -1558,6 +1558,12 @@
         "url": "Cxv4T2D3ytP5vJwh3BdMduZIXT8FT3q22MUuVShntTr67oEJFwB9eaSgcBz32ODajX8pAW88QN82+arl5c1WXQ==",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
+      },
+      {
+        "name": "🟢 CASTIGO 2",
+        "url": "RuCWTwarE9Lym1IIy9lnMZ9auWKtQD55g+s682wFVt8EUf3gh3ulsY6IZxbdMxt1zYPkYxW/luMJpeh99qR+s2njkAuQdxzD4Txa43toOek=",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
       }
     ]
   },
@@ -1683,6 +1689,21 @@
   {
     "name": "🏁 DEPORTE DAZN ⚽",
     "samples": [
+      {
+
+        "name": "DAZN LIGA 1 🇪🇸",
+        "url": "https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r4/__c/DAZN_LALIGA1/__op/dash-wv/__f/manifest.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "kid:Vdb7mHIe21uoEDqc8hBx1A,k:SiFY2TLjFf/hP3LkSq1Ffg",
+        "icono": "https://i.ibb.co/SX5B3hHf/DAZN-LALIGA-2024-logo-svg-1.webp" 
+      },
+      {
+        "name": "DAZN LIGA 1 2 🇪🇸 ",
+        "url": "https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r4/__c/DAZN_LALIGA2/__op/dash-wv/__f/manifest.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "kid:z3Q92bEw+21UJQ1fkLV5ZQ,k:OeDB+ZOKcRSiY7t15xUEKw",
+        "icono": "https://i.ibb.co/6JvQMZHd/images.png"
+      },
       {
         "name": "F1",
         "url": "s5xhuLsIXSRs1y6+yeZc6Tello0VpSuSIxfztJFZbOobhkQjv98kb5e5yA1V+bLRAqdw987qRfxD5rmWDR04lfcWJRh24f5T7jxyBKnaSaGt2ItRRitQZODrbOidLhZCwbP1eFBeYJtcXBDhLU72Nc4H7pvZPhcDb7FalcXwkD31csqYTuvodJnPsq7i9sdC",
@@ -4396,8 +4417,8 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
       },
       {
-        "name": "EL DES",
-        "url": "2wDWvfJ2OvodBdblUL1k97Jl8xXOdAqZkz1ch3FbaY1UfkujIXQMfgfwJOOrftiY",
+        "name": "EeL DES",
+        "url": "https://magisvideo.com/ENENTOSLPF/lpf_proxy.php?u=https%3A%2F%2Fliveassets-b.encoders.immergo.tv%2F...%2FstreamPlaylist-live.m3u8",
         "type": "HLS",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
       },
@@ -4408,10 +4429,10 @@
         "webview": true
       },
       {
-        "name": "TEST disney 10",
-        "url": "9Fd/YQGx3D34bq2akL0G372ba3tXUWZvEvPAl9l7uiTFtTDjAcVjYKKe3gTtuxEgVF8gBEBykO+aOhdvQJzrAA==",
-        "type": "DIRECT",
-        "icono": "https://tulogo.com/eventos.png"
+  "name": "EL DES",
+  "url": "https://magisvideo.com/ENENTOSLPF/lpf_proxy.php?u=https%3A%2F%2Fliveassets-b.encoders.immergo.tv%2Flpf%2Fuvod-live-encoder-assets-1%2F71af1454-c0fa-4de9-b9cc-26bb0c4e3f58%2F8e6fcadf-347a-4c0a-9e6b-e0191477c8ad%2F2%2FstreamPlaylist-live.m3u8",
+  "type": "HLS",
+  "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
       },
       {
         "name": "stream=espn2",
@@ -4427,11 +4448,18 @@
         "webview": true
       },
       {
-        "name": "PREMIERE 5",
-        "url": "FHjRZj6mzYvnf/V7kdAIgIGMMcVTjeYe4vFgKKkaK6jZBmzt+RgtatDPPgClHmKjTVFrp46LM6yw0jcE5CFDacupEZ2KkCZ1VQRhLPzv7Sc=",
+        "name": "DAZN LaLiga 2 🇪🇸 ",
+        "url": "https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r4/__c/DAZN_LALIGA2/__op/dash-wv/__f/manifest.mpd",
         "type": "CLEARKEY",
-        "drm_license_uri": "capXKkl64z0OS7ZS/HpxKA1mMEoj/+urfaKKbVy8ghJ7ubiKklMnLJKHRUMToiw2F0PRSRgpxb0JEM4s48E8C6x5w7rWOwIHephbffTFdVXNgnILOiDhP57hs039tKPjYCvX1OroYOBjJGaWMlSp0Q==",
-        "icono": "https://i.ibb.co/Sf3Fz0L/premiere.png"
+        "drm_license_uri": "kid:z3Q92bEw+21UJQ1fkLV5ZQ,k:OeDB+ZOKcRSiY7t15xUEKw",
+        "icono": "https://i.ibb.co/6JvQMZHd/images.png"
+      },
+      {
+        "name": "DAZN LaLiga 1 🇪🇸",
+        "url": "https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r4/__c/DAZN_LALIGA1/__op/dash-wv/__f/manifest.mpd",
+        "type": "CLEARKEY",
+        "drm_license_uri": "kid:Vdb7mHIe21uoEDqc8hBx1A,k:SiFY2TLjFf/hP3LkSq1Ffg",
+        "icono": "https://i.ibb.co/SX5B3hHf/DAZN-LALIGA-2024-logo-svg-1.webp"
       }
     ]
   }
