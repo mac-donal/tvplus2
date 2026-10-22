@@ -1439,6 +1439,12 @@
         "url": "RuCWTwarE9Lym1IIy9lnMZ9auWKtQD55g+s682wFVt8EUf3gh3ulsY6IZxbdMxt1zYPkYxW/luMJpeh99qR+s2njkAuQdxzD4Txa43toOek=",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
+      },
+      {
+        "name": "🟢 CASTIGO 3",
+        "url": "https://183.bozztv.com/giatv/giatv-recluta/recluta/playlist.m3u8",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
       }
     ]
   },
