@@ -10,8 +10,8 @@
       },
       {
         "name": "EL DESTAPE",
-        "url": "http://cdn.tvar.io/get-yt.m3u8?ch=@ElDestapeTV",
-        "type": "HLS",
+        "url": "http://smt-usr-edge01.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd",
+        "type": "CLEARKEY",
         "icono": "https://i.ibb.co/yFbrg0L/eldestape.png",
         "drm_license_uri": "F8hFqnj06Pk6jE2M4yW/mL8BXxMUObzAgUtmLkwREUEBmGToHzt2qo/8ehueJ1E/HoIJ/xjgTu4FWJ73k5lIHg==",
         "headers": {
