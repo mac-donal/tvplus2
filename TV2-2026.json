@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA PLUS1📡",
+    "name": "🇦🇷 CANALES DE ARGENTINA PLUS2📡",
     "samples": [
       {
         "name": "LUZU TV",
@@ -10,14 +10,14 @@
       },
       {
         "name": "EL DESTAPE",
-        "url": "http://smt-usr-edge01.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd",
+        "url": "E9dvhEuLgplFXDJ+arhR7ZtRbQhFvLGDQcqZsVz8mC+ssjeqUad0D/E5RZI/j7t4t2mWIcHNYyio7WNOAACJSwbVKOLs46qMIUoxHyYCk4g=",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/yFbrg0L/eldestape.png",
         "drm_license_uri": "F8hFqnj06Pk6jE2M4yW/mL8BXxMUObzAgUtmLkwREUEBmGToHzt2qo/8ehueJ1E/HoIJ/xjgTu4FWJ73k5lIHg==",
         "headers": {
-          "Origin": "https://player.sensa.com.ar",
-          "Referer": "https://player.sensa.com.ar/",
-          "User-Agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)"
+          "Origin": "1+HZcuuQ8b633MbAvJbH1WupJ1sE3jYLQvpDQhbP8kI=",
+          "Referer": "1+HZcuuQ8b633MbAvJbH1f9mj/z5E6jAin1bVVbinrU=",
+          "User-Agent": "yJeiRVi/RJiZIJKbxVcWgIO8hk8mhnbv9rZ0gzBMXpwD0IEg1+ex8r5YEh/SEjKI4T+3IWh6RwdhRw0Pe7AGwDmXhnEckSZYmpWlLp/IPLN9ZMMDrzRG7iymOY2qyVXvrsh4pGRKKkPljZpVLRuLvpF0VqZ3Xi9J083vSK7anE4Iaz5c1MjDbj72dSToiR3a"
         }
       },
       {
@@ -455,7 +455,7 @@
       },
       {
         "name": "Aire de Santa Fe",
-        "url": "https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8",
+        "url": "nOh4klvleJMXADcyMbz9uepO+dglGKCSkZ0YQ42ll8RtqawWHpWdTEPCs9CAGhEAFVV+TCBqYiwTXPgbg9dY/qJsWOc9pshI2OEbiRj+nIw/+P5gsf8GEcNyt2JDoLiiaeOQC5B3HMPhPFrje2g56Q==",
         "type": "HLS",
         "icono": "https://cdn.m3u.cl/logo/252_Aire_de_Santa_Fe.png"
       },
@@ -699,6 +699,12 @@
         }
       },
       {
+        "name": "Somos La Pampa",
+        "url": "ilOZEuHGYrlxc4gD7mvcvZ+ZjEjXH64Sz4g6b3kdFCAibtxC9+40JkzMLSgnWwIB8d4WMlGcqeMnO6r8F9mTLVeMiYgxxt0x6RCX4eobKqGhGusevOgtwYePvMexD4QS",
+        "type": "HLS",
+        "icono": "https://cdn.m3u.cl/logo/1072_Somos_La_Pampa.png"
+      },
+      {
         "name": "Somos El Valle",
         "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoIOY9XZ62dOEg/xsuqAAjRCu8WUsVOzwsUqYUmfVdLVBKhvq4kFjEsl+nkzSQYuoQXamf+B4U5VB1FAT408PpVpDW9MSFUZYDHaYOvh/hydRg==",
         "type": "CLEARKEY",
@@ -805,6 +811,12 @@
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOBfmPsoyw8c9ZzIpugr+7HWTrCffw+3NV5cHM4SXkMrpB5rb66l9uHQucZJyAkwJw8="
         }
+      },
+      {
+        "name": "Canal Ocho San Juan",
+        "url": "sxXEGQzshLzQJ3R1CX75CNWeU1oR5BjG3rtoMJt/TZhsClNDxH25tv5R/FTyPHxDK/b0xH8XowyTPzV7+5iPWoQVsdo9ZexKVGJlHK8p7kI=",
+        "type": "HLS",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/58/Canal_Ocho_San_Juan_(Logo_2015).png"
       },
       {
         "name": "El Siete TV",
@@ -1207,6 +1219,18 @@
         }
       },
       {
+        "name": "DSPORTS OPC 2",
+        "url": "AMlLUA6SBnLhYzrWg2i4Ycu04GI06t6yaz2WnHyzovbnk+pRkHnPH61IiQiTelOB90qXal2uQWgDlzAXhwXAL7UkwKdeblRCPoG97jI+xgMTXe//0CprnUJaqtubI6TGu6rtMxj13MjViaX0XqDdWf6IQrJ4hcYJdl4xn3mCelfkUuA4t2bIkxFrwVytIQd2",
+        "type": "CLEARKEY",
+        "icono": "https://i.ibb.co/0xSPs29/DSports.png",
+        "drm_license_uri": "UmmJCNYYeWoZ55MUaGOQbhNSmqwgXWnKfDLdoHGNxANo5HelyOLmTxQJEBzPzW5Z0R6tpCHKmI9ksT2Nvjj83w==",
+        "headers": {
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
         "name": "DSPORTS 2",
         "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoIOY9XZ62dOEg/xsuqAAjRC4q5od66Wteu2E0HUMLiEOyn0Rn8fNeOYwARjGWUCAjxIer4wfVNP1KMXjsgvkHdY",
         "type": "CLEARKEY",
@@ -1228,19 +1252,6 @@
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
-        "dtv": 1,
-        "name": "DSPORTS 3 plus",
-        "url": "v9reX2c3isY8PLy+hGX9xbUf18U74b4tuDV0ohXVpzcOZLSNA6Kgkjzkke4D8BvugvrLeQqgis+R26ESFNtwmNB2Dhki4/OYSVV3HXbrlpvUfvc3CU+zEPhkOPUqEXfXiqNSx/p4KO4AieZt2xQfn5DvsxbdY/0grZR43YVrUhnhwgf9cP/cusMghtagMraKeha67ioWT/57JgCwXabB7IHPYL3Os8HZNo940m5HztZp45ALkHccw+E8WuN7aDnp",
-        "type": "CLEARKEY",
-        "icono": "https://i.ibb.co/0xSPs29/DSports.png",
-        "drm_license_uri": "5mVmZnTEVlaf8vCKTpdf9FVBUcVANRNASolnvLHQo2y0u+/CiLFFV8sB7XgW3zQT1sfJafc+irRzBKSJxcZb3g==",
-        "headers": {
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ==",
-          "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
-          "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw="
         }
       },
       {
@@ -1295,6 +1306,13 @@
         }
       },
       {
+        "name": "DSPORTS OPC 1",
+        "url": "GGdWt+LZT1BER1Ph+qdMJAXrWIrDy9C9tY4bSP9AM+DohaAqflGfOWWwi9WUcJyqipH/LhfCkOdBpNmKYIjd9kIrRtqb92+874VRndeCGgx1mtMgMMqW6cK74lWfzIFXZWlRSWV485KhDTpphq7jUr54c95aN8fowUWC8MMyQTZp45ALkHccw+E8WuN7aDnp",
+        "type": "CLEARKEY",
+        "drm_license_uri": "UmmJCNYYeWoZ55MUaGOQbhNSmqwgXWnKfDLdoHGNxANo5HelyOLmTxQJEBzPzW5Z0R6tpCHKmI9ksT2Nvjj83w==",
+        "icono": "https://i.ibb.co/0xSPs29/DSports.png"
+      },
+      {
         "name": "DSPORTS OPC 2",
         "url": "GGdWt+LZT1BER1Ph+qdMJAXrWIrDy9C9tY4bSP9AM+ARBrw6vbkJG2i3PVRPdGNhipH/LhfCkOdBpNmKYIjd9nAplCIDxVeJ9bpBRylrDM/1VqkLQlvYs9eNwjqnZMW4LfvG2Gi3+EBAdFCIdzJOh0gGd7Gf11Cp3+7rYUuxXz5NA/iBvQ85uriGB1Xrn1Fa",
         "type": "CLEARKEY",
@@ -1338,18 +1356,6 @@
           "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ==",
           "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
           "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw="
-        }
-      },
-      {
-        "name": "DSPORTS 3 plus",
-        "url": "JjPBl2KjNbSWb+0I8uVIcrdLUPq5viszUnFsF4KKfR3BnLYeC6eO+wTDHToE/W0gGSiQQOsrccXT1NGTv1FHzVX4Hc6U7ijpMZ4LjhJ4DyAoQPifq0VY8wGUla8/RW3xf+qAwIaSgbra9fETrVrltSr6lcaO4fL/ls++79ljfMI=",
-        "type": "CLEARKEY",
-        "icono": "https://i.ibb.co/0xSPs29/DSports.png",
-        "drm_license_uri": "fezUgUlDIJ9Z1zLbvTmwN272cDJfd98FFYSYPf+GnZqp8cznnEMTDZHuaQTr8xquAO15FSB810ckFalr4DSoVQ==",
-        "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
         }
       },
       {
@@ -1442,7 +1448,7 @@
       },
       {
         "name": "🟢 CASTIGO 3",
-        "url": "https://183.bozztv.com/giatv/giatv-recluta/recluta/playlist.m3u8",
+        "url": "BlqcNj4i055KttifrX67nslheaZ19hh6iriAnwg5TyWm7B4GCFjLPelq++lqRSW6TIpBazL1krdxdpt7TRQFTmnjkAuQdxzD4Txa43toOek=",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
       }
@@ -1553,12 +1559,6 @@
         "type": "HLS"
       },
       {
-        "name": "PADEL",
-        "url": "ZJhJgBubWYyfWp957FaK1/zvAriHreTkrOiTfWzQAG96Tl1SbJYJQ1fSJddRAKxgUm02zgpMKWr22XA/+GzSPEbROsuph2ycYBsXPy40Ck30P7+ZJe7g84BxhXHa0Fa0HOYdCQf7jabjhcSTWl2OqomAnarDJKSyG+LlIRRL9/N2AZMQT5coNo77U8IvzE8QiYCdqsMkpLIb4uUhFEv3825r1Km4R8msQ0Gn4G7RCwt2BTmYAa0QSE7BwaoYKp1A",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj417b4MjuABXlfYvnQT7VQ0mCbO-7VrIA1A&s",
-        "type": "HLS"
-      },
-      {
         "name": "Bein Sports Extra Ñ",
         "url": "+9TpcUU3jJLN9QFf4xYLhpHY2/3xWlSePNXfC++pm3clNsfOXGgBrmJWLMCgSYMvIhPfKF2XYnN+Uq1rgzaEFw==",
         "type": "CLEARKEY",
@@ -1571,18 +1571,23 @@
     "name": "🏁 DEPORTE DAZN ⚽",
     "samples": [
       {
-
+        "name": "DAZ Tv",
+        "url": "LKY06lOhOyBwZjSJvWMZ1CEsaGgNCmXnsT1eAlAIgRUuxlS9VOUMbAgNYYpMHjMgg0BFWhBaZtstR4UyaActrw==",
+        "icono": "https://i.imgur.com/goW6bm2.jpeg",
+        "type": "HLS"
+      },
+      {
         "name": "DAZN LIGA 1 🇪🇸",
-        "url": "https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r4/__c/DAZN_LALIGA1/__op/dash-wv/__f/manifest.mpd",
+        "url": "52RYA+OcMVol26xKYVWUrxZcMmCS2Hotbwf8wJAAFDeaPNEYjhjdLnLnUIIEhG94QPyHweqUnKo7FBUAXtVVGZb7GN8Y9q5Pl9AXCmbbQmEp01MW7wI9Y4LpXef5y4CDy6kRnYqQJnVVBGEs/O/tJw==",
         "type": "CLEARKEY",
-        "drm_license_uri": "kid:Vdb7mHIe21uoEDqc8hBx1A,k:SiFY2TLjFf/hP3LkSq1Ffg",
-        "icono": "https://i.ibb.co/SX5B3hHf/DAZN-LALIGA-2024-logo-svg-1.webp" 
+        "drm_license_uri": "D1uqoRtBDcB/lFuYhKUOvrfGVMBTa/OGf+r7SMsCVOgBMbLvtjtblimPh4glcpuYiUdiSPJHfSg05vAVwylKkA==",
+        "icono": "https://i.ibb.co/SX5B3hHf/DAZN-LALIGA-2024-logo-svg-1.webp"
       },
       {
         "name": "DAZN LIGA 1 2 🇪🇸 ",
-        "url": "https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r4/__c/DAZN_LALIGA2/__op/dash-wv/__f/manifest.mpd",
+        "url": "52RYA+OcMVol26xKYVWUrxZcMmCS2Hotbwf8wJAAFDeaPNEYjhjdLnLnUIIEhG94QPyHweqUnKo7FBUAXtVVGdDB8lI3Bu0pRE+bUSGrKVwp01MW7wI9Y4LpXef5y4CDy6kRnYqQJnVVBGEs/O/tJw==",
         "type": "CLEARKEY",
-        "drm_license_uri": "kid:z3Q92bEw+21UJQ1fkLV5ZQ,k:OeDB+ZOKcRSiY7t15xUEKw",
+        "drm_license_uri": "iKtjjlgpCglW+jCHoNHfRQL5UymkosF0qinOotW4XvmfStSvdmVKfLCrD8LoxQ/rRzZSwcV+qKkJ/TrlEg8+UA==",
         "icono": "https://i.ibb.co/6JvQMZHd/images.png"
       },
       {
@@ -2428,15 +2433,33 @@
         "type": "HLS"
       },
       {
-        "name": "ANIME VISION",
-        "url": "FXXTHk/hX/fAJF0tH/hmDMHFZLMtbLWkpTiV36lduGx6Tl1SbJYJQ1fSJddRAKxgUm02zgpMKWr22XA/+GzSPEbROsuph2ycYBsXPy40Ck2SWWU2qpTSpT9TinebI3ap8Io8y1q0LGAS5gmlKhp39p22l3y6jtTXCKieJe6VtDSl/4AUuBncXXtYKz/BQOIn0XpCJ5dvWkJE9TjWnl1x+rGWdhRpmxKCXRwCOXmbevvINGdfClpqF3wi2iyn1Ojt",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1SnozY4uEqNtTHpeAFVYmh_pErQ0GGC7jDA&s",
+        "name": "Logos Tv Kids",
+        "url": "0vusnf1dTwbY9nhbLiZcqC3tkfkgCv4nvLMarD9+iIou9g4Fi21j04QDxQzxpiIxjN9gqLwJ+2C1xVbFbTmY3M3rC2xlNQEHm5gYcAa/oEk=",
+        "icono": "https://i.ibb.co/q50cC4c/LOGOS-TV-KIDS-HD.jpg&s",
         "type": "HLS"
       },
       {
-        "name": "ANIME VISION CLASICS",
-        "url": "KPpdTWH3WzECMJ39ojO3HshIGbr7rzmRetDq5/VRy8l6vjfc0kaw5zS79WBUGUCD6Ub9lDqoOy31YX/7jitJj0To32UH3yNBtwHEOUX6t1AMXYRq3Wyo4r79AI6quXNYbZUqI+3faBuTkQ0NA1tlYBcDjzxbfiEki0X17OUsxLSZVxcN7rA/YQikf5DeP0TUkVhMXADRCp++zPMdmL5qY7sel8Kczq31+zMyxqlhg7BnR75OEQZ8QdxowI0ILvbVKNghJThSn9JH3rkBbiWHvg==",
-        "icono": "https://teleonline.org/wp-content/uploads/2025/09/aYptdKX.png",
+        "name": "Latina Clasicos",
+        "url": "/Q/rtwP6Y2j6pp8uES+vGRZpfKcQhKbjzVnT1RSZ9p4VpxUMkOWHiVAK+7nAf223mHOhlTacKiT0VTIY28co9q09lJYBSq6jHTFhJAnwtpoiE98oXZdic35SrWuDNoQX",
+        "icono": "https://i.ibb.co/q50cC4c/LOGOS-TV-KIDS-HD.jpg",
+        "type": "HLS"
+      },
+      {
+        "name": "Zyoon",
+        "url": "sxXEGQzshLzQJ3R1CX75CNOYWusYDG9+zLhpLD3RBCKDq/Hw97mDpp3Ke5g8i8/UHIi37sSNfu7mVB4lneqM4Vo/R4uaG3aJkBiBy+zAmo1nOYcLXgNNAUu82cib/tk/",
+        "icono": "https://cdn.m3u.cl/logo/1691_ZyoonTV.png",
+        "type": "HLS"
+      },
+      {
+        "name": "El Chavo Del 8 24/7",
+        "url": "sxXEGQzshLzQJ3R1CX75CF2XbceY5RQRAxqUIQkizj3PPSl7GVOb4TaZjAFCePllbqZfRXGO5C9BLknfg+o5NyIT3yhdl2JzflKta4M2hBc=",
+        "icono": "https://i.imgur.com/0cWxrQ1.png",
+        "type": "HLS"
+      },
+      {
+        "name": "LOS SIMPSON",
+        "url": "DOyhe84I/gWel9CbHe7lecxBhEr2HrllIs3/wCbCpUBqaN18CR6aBawYd/393x63JTwDaQQsw0HG/VQL0vvbp9SVQqqjQv1NY4J5x0zFxUC2jTjmvPfDU1HYb5HsuE4s",
+        "icono": "https://m.media-amazon.com/images/M/MV5BNTU2OWE0YWYtMjRlMS00NTUwLWJmZWUtODFhNzJiMGJlMzI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "type": "HLS"
       },
       {
@@ -4299,7 +4322,7 @@
       },
       {
         "name": "EeL DES",
-        "url": "https://magisvideo.com/ENENTOSLPF/lpf_proxy.php?u=https%3A%2F%2Fliveassets-b.encoders.immergo.tv%2F...%2FstreamPlaylist-live.m3u8",
+        "url": "gvuZ39gDgv25mT0cbuHVGtSiRFWMBm2hiTlcxYOKbBvK2uPp6bul6W1opqx5YuN/A6qqgdGluN3Zw8XmyZyjFWb7XFZuRH/9IDe+mfhlPqQ7UVe2Ugq/P/yLiJUD642SJ2Yv+Ao4WzEOy29UzZ0gxN1qm2RGbFcLfwzdKyjeXx6DQEVaEFpm2y1HhTJoBy2v",
         "type": "HLS",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
       },
@@ -4310,10 +4333,10 @@
         "webview": true
       },
       {
-  "name": "EL DES",
-  "url": "https://magisvideo.com/ENENTOSLPF/lpf_proxy.php?u=https%3A%2F%2Fliveassets-b.encoders.immergo.tv%2Flpf%2Fuvod-live-encoder-assets-1%2F71af1454-c0fa-4de9-b9cc-26bb0c4e3f58%2F8e6fcadf-347a-4c0a-9e6b-e0191477c8ad%2F2%2FstreamPlaylist-live.m3u8",
-  "type": "HLS",
-  "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
+        "name": "EL DES",
+        "url": "gvuZ39gDgv25mT0cbuHVGtSiRFWMBm2hiTlcxYOKbBvK2uPp6bul6W1opqx5YuN/A6qqgdGluN3Zw8XmyZyjFWb7XFZuRH/9IDe+mfhlPqQ7UVe2Ugq/P/yLiJUD642Si1rjoeBBnbbl/X5N5moEBhYuqjp1sVnfcv2GrhDGf3ErvesYFrw2IdN3zSvHp4FsG8vOkhV+Mi02ZNPTBtxrqq4azemTpJWQmINeMJsCFytxa5wDAAqUEzK+HE0T327saWO/jQVFvOEy/dalP2GlO1vbAnCvW7Nhu5YkbBVkW84ChIHsO5nk0NgjiSO6RB8raeOQC5B3HMPhPFrje2g56Q==",
+        "type": "HLS",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_radio_play.png/564px-Logo_radio_play.png"
       },
       {
         "name": "stream=espn2",
@@ -4330,16 +4353,16 @@
       },
       {
         "name": "DAZN LaLiga 2 🇪🇸 ",
-        "url": "https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r4/__c/DAZN_LALIGA2/__op/dash-wv/__f/manifest.mpd",
+        "url": "52RYA+OcMVol26xKYVWUrxZcMmCS2Hotbwf8wJAAFDeaPNEYjhjdLnLnUIIEhG94QPyHweqUnKo7FBUAXtVVGdDB8lI3Bu0pRE+bUSGrKVwp01MW7wI9Y4LpXef5y4CDy6kRnYqQJnVVBGEs/O/tJw==",
         "type": "CLEARKEY",
-        "drm_license_uri": "kid:z3Q92bEw+21UJQ1fkLV5ZQ,k:OeDB+ZOKcRSiY7t15xUEKw",
+        "drm_license_uri": "iKtjjlgpCglW+jCHoNHfRQL5UymkosF0qinOotW4XvmfStSvdmVKfLCrD8LoxQ/rRzZSwcV+qKkJ/TrlEg8+UA==",
         "icono": "https://i.ibb.co/6JvQMZHd/images.png"
       },
       {
         "name": "DAZN LaLiga 1 🇪🇸",
-        "url": "https://requestrouter3.cdn.agiletv.net/__cl/cg:lv-r4/__c/DAZN_LALIGA1/__op/dash-wv/__f/manifest.mpd",
+        "url": "52RYA+OcMVol26xKYVWUrxZcMmCS2Hotbwf8wJAAFDeaPNEYjhjdLnLnUIIEhG94QPyHweqUnKo7FBUAXtVVGZb7GN8Y9q5Pl9AXCmbbQmEp01MW7wI9Y4LpXef5y4CDy6kRnYqQJnVVBGEs/O/tJw==",
         "type": "CLEARKEY",
-        "drm_license_uri": "kid:Vdb7mHIe21uoEDqc8hBx1A,k:SiFY2TLjFf/hP3LkSq1Ffg",
+        "drm_license_uri": "D1uqoRtBDcB/lFuYhKUOvrfGVMBTa/OGf+r7SMsCVOgBMbLvtjtblimPh4glcpuYiUdiSPJHfSg05vAVwylKkA==",
         "icono": "https://i.ibb.co/SX5B3hHf/DAZN-LALIGA-2024-logo-svg-1.webp"
       }
     ]
