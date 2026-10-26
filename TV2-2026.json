@@ -835,13 +835,6 @@
     "name": "🇦🇷 DEPORTES ARGENTINO ⚽",
     "samples": [
       {
-        "name": "Eventos TV Plus 2",
-        "url": "gvuZ39gDgv25mT0cbuHVGiTxLjn+GfnMwvaQi4pFHwT27LQk814rOCaRtXhmbGRD",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzXKNg5d7lbuEkfX1HstIfnjLzz--2o5LEg&s",
-        "type": "WEBVIEW",
-        "webview": true
-      },
-      {
         "name": "EVENTOS AR",
         "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoIOY9XZ62dOEg/xsuqAAjRCfgoPWv9LSxozY55EdfaKtCWHDBDNYtNyFPlZOkSuQ7P9dpCl/botAn+AUFm/1fOy",
         "type": "CLEARKEY",
@@ -1204,88 +1197,6 @@
     ]
   },
   {
-    "name": "🇦🇷 (TYC PLAY) (LPF) ⚽",
-    "samples": [
-      {
-        "name": "🟢 LPF 1",
-        "url": "8pw1uiBCFTp89+D1BzMYTp2/eXwyfEoRuoXGXzq8GfC5CRKe03H5DO7JNF89LpRA",
-        "type": "HLS",
-        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
-      },
-      {
-        "name": "🟢 LPF 2",
-        "url": "8pw1uiBCFTp89+D1BzMYTp2/eXwyfEoRuoXGXzq8GfCQtqhU10a4ADxaxzL3mNO4",
-        "type": "HLS",
-        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
-      },
-      {
-        "name": "🟢 LPF 3",
-        "url": "8pw1uiBCFTp89+D1BzMYTp2/eXwyfEoRuoXGXzq8GfDQUDtBQUoj9VVJU2nsPh8w",
-        "type": "HLS",
-        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
-      },
-      {
-        "name": "🟢 LPF 4",
-        "url": "8pw1uiBCFTp89+D1BzMYTp2/eXwyfEoRuoXGXzq8GfAszzfWpcbGr5zlv4udycn0",
-        "type": "HLS",
-        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
-      },
-      {
-        "name": "🟢 LPF 5",
-        "url": "8pw1uiBCFTp89+D1BzMYTp2/eXwyfEoRuoXGXzq8GfCepmLbPOTv5uH9HayRkSSy",
-        "type": "HLS",
-        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
-      },
-      {
-        "name": "🟢 LPF 6",
-        "url": "8pw1uiBCFTp89+D1BzMYTp2/eXwyfEoRuoXGXzq8GfDGMD7MlpKZDdtqonc7Xwms",
-        "type": "HLS",
-        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
-      },
-      {
-        "name": "🟢 LPF 7",
-        "url": "8pw1uiBCFTp89+D1BzMYTp2/eXwyfEoRuoXGXzq8GfCt/YRaAAqL78R58MeGokXS",
-        "type": "HLS",
-        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
-      },
-      {
-        "name": "🟢 LPF 8",
-        "url": "8pw1uiBCFTp89+D1BzMYTp2/eXwyfEoRuoXGXzq8GfCrIACViIgPBEogg0zGFjS1",
-        "type": "HLS",
-        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
-      },
-      {
-        "name": "🟢 LPF 9",
-        "url": "8pw1uiBCFTp89+D1BzMYTp2/eXwyfEoRuoXGXzq8GfAowLXHL3g0Ao34a5QY0VB6",
-        "type": "HLS",
-        "icono": "https://substackcdn.com/image/fetch/$s_!eL_V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadc76a2d-b0c6-47de-884b-f23006a418a8_1000x750.jpeg"
-      },
-      {
-        "name": "TyC Sports",
-        "url": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmL37QmgdiLUgU/TY/5faG5CeXv+bDJvrWp4ZCsPu9aCV1ubII0OzD5+l11GVmkzWzTBzWmualXeQ1rQpP+n411V",
-        "type": "CLEARKEY",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png",
-        "drm_license_uri": "capXKkl64z0OS7ZS/HpxKA1mMEoj/+urfaKKbVy8ghLx/WWKbMxZA00BLNjautNXwN5GwZLvhVMhs1VLGIqmQssVDNOMhPR+1FSg+qpXyt58p3pxBll4SkhuviUpgAsKp2i6DX9Bs/lWXfeVO5TNnw==",
-        "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
-        "name": "TYC SPORT (WEB)",
-        "url": "A2+DcqLMwjW/b6O51kBOZKLOSeba4jDzRftw47Lyy+Mao2jQhRsLx7zOP+UgEapr4mGtgTh2uSlgXrwyFFH+CA==",
-        "type": "HLS",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png",
-        "headers": {
-          "Origin": "gt2xKDxHwc+4dRcXmppx3cjsTiUT+eRhQcRs+g8I9aQ=",
-          "Referer": "gt2xKDxHwc+4dRcXmppx3fJyv27ei6B/9IVMfCglLt8=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxI1RrmnVU/RoMYwx+W0jaMPuTxUde2JTGmiJaDQJGByAQ=="
-        }
-      }
-    ]
-  },
-  {
     "name": "🏆PACKS DSPORT⚽",
     "samples": [
       {
@@ -1302,7 +1213,7 @@
       },
       {
         "name": "DSPORTS OPC 2",
-        "url": "AMlLUA6SBnLhYzrWg2i4Ycu04GI06t6yaz2WnHyzovbnk+pRkHnPH61IiQiTelOB90qXal2uQWgDlzAXhwXAL7UkwKdeblRCPoG97jI+xgMTXe//0CprnUJaqtubI6TGu6rtMxj13MjViaX0XqDdWf6IQrJ4hcYJdl4xn3mCelfkUuA4t2bIkxFrwVytIQd2",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/0xSPs29/DSports.png",
         "drm_license_uri": "UmmJCNYYeWoZ55MUaGOQbhNSmqwgXWnKfDLdoHGNxANo5HelyOLmTxQJEBzPzW5Z0R6tpCHKmI9ksT2Nvjj83w==",
