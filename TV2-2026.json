@@ -1,6 +1,6 @@
 [
   {
-    "name": "🇦🇷 CANALES DE ARGENTINA PLUS2📡",
+    "name": "🇦🇷 CANALES DE ARGENTINA PLUS📡",
     "samples": [
       {
         "name": "LUZU TV",
@@ -1429,9 +1429,14 @@
       },
       {
         "name": "🟢 CASTIGO 1",
-        "url": "Cxv4T2D3ytP5vJwh3BdMduZIXT8FT3q22MUuVShntTr67oEJFwB9eaSgcBz32ODajX8pAW88QN82+arl5c1WXQ==",
+        "url": "hhttp://193.47.62.44/hls/8888AAAAQQQQ.m3u8",
         "type": "HLS",
-        "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/13/Elsiete.webp",
+        "headers": {
+          "Origin": "http://www.fawanews.sc",
+          "Referer": "http://www.fawanews.sc/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+        }
       },
       {
         "name": "🟢 CASTIGO 2",
