@@ -1429,9 +1429,9 @@
       },
       {
         "name": "🟢 CASTIGO 1",
-        "url": "hhttp://193.47.62.44/hls/8888AAAAQQQQ.m3u8",
+        "url": "http://193.47.62.44/hls/8888AAAAQQQQ.m3u8",
         "type": "HLS",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/13/Elsiete.webp",
+        "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png",
         "headers": {
           "Origin": "http://www.fawanews.sc",
           "Referer": "http://www.fawanews.sc/",
