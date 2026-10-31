@@ -1616,8 +1616,8 @@
     "samples": [
       {
         "name": "CAZÉ TV",
-        "url": "7VwtlPLbhkJRrYD0cLTQk/KzNEC9v3d3O4IkHoO3Uz4RBrw6vbkJG2i3PVRPdGNhR8Ak/dW8yKjZYa6Whu5XujOGH54mkq0z6vY3LLmw9ZwPP/+yyhIpa7Wa/i74/qM+Ig574Um2sG2SQ4Vzizd+yvVyyphO6+h0mc+yruL2x0I=",
-        "type": "CLEARKEY",
+        "url": "http://138.204.86.4:8080/CAZE_TV/playlist.m3u8",
+        "type": "HLS",
         "drm_license_uri": "NBojpixDHxitgEJu1PFfFe3U7soDoBWL7f/w29fhcFVXmNQE7Tz0AtLd1L0a7nBydBDdH/WcuLTiyzV4cKlnIQ==",
         "icono": "https://th.bing.com/th/id/R.5c7dd2578e8c6c0fea2800581ac834a9?rik=7hKZA46V1ufGSg&pid=ImgRaw&r=0"
       },
