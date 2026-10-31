@@ -7,7 +7,7 @@
         "url": "7Km0DiR3RofENkp/OU8zjG9S5C7fHqpETHiSEPlfoV1vUDgi9otTmM4XL1dQOfU0dgU5mAGtEEhOwcGqGCqdQA==",
         "type": "HLS",
         "icono": "https://luzutv.com.ar/wp-content/uploads/2024/08/logo-luzu-2025.png"
-      },
+      }, 
       {
         "name": "EL DESTAPE",
         "url": "E9dvhEuLgplFXDJ+arhR7ZtRbQhFvLGDQcqZsVz8mC+ssjeqUad0D/E5RZI/j7t4t2mWIcHNYyio7WNOAACJSwbVKOLs46qMIUoxHyYCk4g=",
@@ -1587,6 +1587,13 @@
         "type": "CLEARKEY",
         "drm_license_uri": "iKtjjlgpCglW+jCHoNHfRQL5UymkosF0qinOotW4XvmfStSvdmVKfLCrD8LoxQ/rRzZSwcV+qKkJ/TrlEg8+UA==",
         "icono": "https://i.ibb.co/6JvQMZHd/images.png"
+      },
+      {
+        "name": "F1",
+        "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8",
+        "type": "HLS",
+        "drm_license_uri": "Lre6TYfypLlDpwp9wIcSk8ALMTPBoCDeLK+/g2AzTN4r1IyX0pLg3n9Ur9ylzK9m56Vd5lc0kASBrhp1FY4RKw==",
+        "icono": "https://logodownload.org/wp-content/uploads/2024/05/f1-tv-logo-0.png"
       },
       {
         "name": "F1",
