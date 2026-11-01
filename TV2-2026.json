@@ -1429,7 +1429,7 @@
       },
       {
         "name": "🟢 CASTIGO 1",
-        "url": "http://193.47.62.59/hls/A666AA.m3u8",
+        "url": "https://rumble.com/live-hls-dvr/PutlqqMeNOk/playlist.m3u8?level=1 ",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png",
         "headers": {
@@ -1440,7 +1440,7 @@
       },
       {
         "name": "🟢 CASTIGO 2",
-        "url": "http://cloudtvserviceplatinum.site:8080/live/ConsueloMolina11/W9C7EQYxsM/153286.m3u8",
+        "url": "hhttp://193.47.62.41/hls/DNNN.m3u8",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png",
         "headers": {
@@ -1451,12 +1451,23 @@
       },
       {
         "name": "🟢 CASTIGO 3",
+        "url": "http://cloudtvserviceplatinum.site:8080/live/ConsueloMolina11/W9C7EQYxsM/153286.m3u8",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png",
+        "headers": {
+          "Origin": "http://www.fawanews.sc",
+          "Referer": "http://www.fawanews.sc/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "🟢 CASTIGO 4",
         "url": "RuCWTwarE9Lym1IIy9lnMZ9auWKtQD55g+s682wFVt8EUf3gh3ulsY6IZxbdMxt1zYPkYxW/luMJpeh99qR+s2njkAuQdxzD4Txa43toOek=",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
       },
       {
-        "name": "🟢 CASTIGO 4",
+        "name": "🟢 CASTIGO 5",
         "url": "https://rumble.com/live-hls/-reQKTCSs6Q/playlist.m3u8?level=1",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
