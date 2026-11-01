@@ -1410,8 +1410,8 @@
     "samples": [
       {
         "name": "🟢 EVENTO 1",
-        "url": "IkhXerJEfmDkaV5hhmH0fAo0VeYbI2wrz9dWvuhIVttCf1GUjfb4MMlMACA0DxAGIyO+OpyHEAbEqIm02Lvq2+S9M/W5yGsD+koj5PJl8cEZmrDhqHT1s2GbgSmRX+Xs",
-        "type": "CLEARKEY",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/elnegro/chunks.m3u8",
+        "type": "HLS",
         "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
         "drm_license_uri": "t32GEkPDr6MKZkFOCvQ26ofNIEzAq/UQwm0l/DwwUQKeIT+oXqLXZGvnT+NWC6EtJcsRiJdrh+8DteG8GkhgFA=="
       },
