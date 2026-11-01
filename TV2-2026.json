@@ -1417,8 +1417,8 @@
       },
       {
         "name": "🟢 EVENTO 2",
-        "url": "H/6DU7jZ0tLE5RwXeJ/HDptZPrVdiZSjvLwHfN1myzMCQplgr4NgaMFOakc/of9X6qDXJyg2PE6xKMcBXUNUF+sJr+w3wQHCMaQU58Y+eywZmrDhqHT1s2GbgSmRX+Xs",
-        "type": "CLEARKEY",
+        "url": "https://183.bozztv.com/giatv/giatv-recluta/recluta/playlist.m3u8",
+        "type": "HLS",
         "drm_license_uri": "a7JCHt7kv4HjTmI9kNnKm+U4ieQl68cVRn5o7Z/gFjvczBCmUiTLBQWr5eUye2pReF4DOsplN3L6Jr6Zm5CQHQ==",
         "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
         "headers": {
