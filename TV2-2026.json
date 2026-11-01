@@ -1410,13 +1410,20 @@
     "samples": [
       {
         "name": "🟢 EVENTO 1",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/elnegro/chunks.m3u8",
+        "url": "https://prod-fastly-p.video.pscp.tv/b/Transcoding/v1/hls/cqSChNqvFNPg-eHSPMjPOqVXzfu06ckSRGqJQZhz1hBZZzSLV83TMb1iCkfRr75IvnaULFj3ZNgE-DsZe5Yq1g/transcode/pdxa/periscope-replays-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_delta.m3u8?type=live",
         "type": "HLS",
         "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
         "drm_license_uri": "t32GEkPDr6MKZkFOCvQ26ofNIEzAq/UQwm0l/DwwUQKeIT+oXqLXZGvnT+NWC6EtJcsRiJdrh+8DteG8GkhgFA=="
       },
       {
         "name": "🟢 EVENTO 2",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/elnegro/chunks.m3u8",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
+        "drm_license_uri": "t32GEkPDr6MKZkFOCvQ26ofNIEzAq/UQwm0l/DwwUQKeIT+oXqLXZGvnT+NWC6EtJcsRiJdrh+8DteG8GkhgFA=="
+      },
+      {
+        "name": "🟢 EVENTO 3",
         "url": "https://183.bozztv.com/giatv/giatv-recluta/recluta/playlist.m3u8",
         "type": "HLS",
         "drm_license_uri": "a7JCHt7kv4HjTmI9kNnKm+U4ieQl68cVRn5o7Z/gFjvczBCmUiTLBQWr5eUye2pReF4DOsplN3L6Jr6Zm5CQHQ==",
@@ -1462,7 +1469,7 @@
       },
       {
         "name": "🟢 CASTIGO 4",
-        "url": "RuCWTwarE9Lym1IIy9lnMZ9auWKtQD55g+s682wFVt8EUf3gh3ulsY6IZxbdMxt1zYPkYxW/luMJpeh99qR+s2njkAuQdxzD4Txa43toOek=",
+        "url": "Rhttp://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
       },
