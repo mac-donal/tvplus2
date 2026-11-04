@@ -1409,15 +1409,10 @@
     "name": "​🇵🇾 TIGO SPORTS ⚽ (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
-        "name": "🟢 CASTIGO 1",
+        "name": "🟢 CASTIGOO 1",
         "url": "https://prod-fastly-p.video.pscp.tv/b/Transcoding/v1/hls/RGqKBzQ6t0x1hmBzhXqBnCvMvo7ErNko_Gj90VP9GYmouuRrWRnQRtVZlaolPpFxlmqNAY9DqZNxDyGTWSnPdQ/transcode/pdxa/periscope-replays-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_delta.m3u8?type=live",
         "type": "HLS",
-        "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png",
-        "headers": {
-          "Origin": "http://www.fawanews.sc",
-          "Referer": "http://www.fawanews.sc/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
-        }
+        "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
       },
       {
         "name": "🟢 CASTIGO 2",
