@@ -1409,34 +1409,8 @@
     "name": "​🇵🇾 TIGO SPORTS ⚽ (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
-        "name": "🟢 New England Revolution vs Inter Miami",
-        "url": "https://prod-fastly-p.video.pscp.tv/b/Transcoding/v1/hls/RGqKBzQ6t0x1hmBzhXqBnCvMvo7ErNko_Gj90VP9GYmouuRrWRnQRtVZlaolPpFxlmqNAY9DqZNxDyGTWSnPdQ/transcode/pdxa/periscope-replays-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_delta.m3u8?type=live",
-        "type": "HLS",
-        "icono": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/u-q8pTmYQdKmEQ-BIssoKw_64x64.png",
-        "drm_license_uri": "t32GEkPDr6MKZkFOCvQ26ofNIEzAq/UQwm0l/DwwUQKeIT+oXqLXZGvnT+NWC6EtJcsRiJdrh+8DteG8GkhgFA=="
-      },
-      {
-        "name": "🟢 EVENTO 2",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/elnegro/chunks.m3u8",
-        "type": "HLS",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "drm_license_uri": "t32GEkPDr6MKZkFOCvQ26ofNIEzAq/UQwm0l/DwwUQKeIT+oXqLXZGvnT+NWC6EtJcsRiJdrh+8DteG8GkhgFA=="
-      },
-      {
-        "name": "🟢 EVENTO 3",
-        "url": "https://183.bozztv.com/giatv/giatv-recluta/recluta/playlist.m3u8",
-        "type": "HLS",
-        "drm_license_uri": "a7JCHt7kv4HjTmI9kNnKm+U4ieQl68cVRn5o7Z/gFjvczBCmUiTLBQWr5eUye2pReF4DOsplN3L6Jr6Zm5CQHQ==",
-        "icono": "https://i.ibb.co/4whwqcYb/TIGOSPORTS.jpg",
-        "headers": {
-          "Origin": "h0MlQ5xM7sWNsMyIyHf4mfMv5HhvkP/l1Sp2R6PKEPI=",
-          "Referer": "h0MlQ5xM7sWNsMyIyHf4mYyZk4QaeuqBaXTTcUhuvAQ=",
-          "User-Agent": "e9TeAtC2tNvKhq6npm0hjQ=="
-        }
-      },
-      {
         "name": "🟢 CASTIGO 1",
-        "url": "https://rumble.com/live-hls-dvr/PutlqqMeNOk/playlist.m3u8?level=1",
+        "url": "https://prod-fastly-p.video.pscp.tv/b/Transcoding/v1/hls/RGqKBzQ6t0x1hmBzhXqBnCvMvo7ErNko_Gj90VP9GYmouuRrWRnQRtVZlaolPpFxlmqNAY9DqZNxDyGTWSnPdQ/transcode/pdxa/periscope-replays-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_delta.m3u8?type=live",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png",
         "headers": {
