@@ -1409,17 +1409,6 @@
     "name": "​🇵🇾 TIGO SPORTS ⚽ (Solo cuando hay transmisiones Exclusivas)",
     "samples": [
       {
-        "name": "🟢Inter Miami vs Charlotte",
-        "url": "http://193.47.62.55/hls/KIKIKIAAAAQQ.m3u8",
-        "type": "HLS",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/0/0d/8he56hm-_400x400.jpg",
-        "headers": {
-          "Origin": "http://www.fawanews.sc",
-          "Referer": "http://www.fawanews.sc/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "name": "🟢 CASTIGOO 1",
         "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
         "type": "HLS",
