@@ -10,14 +10,14 @@
       }, 
       {
         "name": "EL DESTAPE",
-        "url": "E9dvhEuLgplFXDJ+arhR7ZtRbQhFvLGDQcqZsVz8mC+ssjeqUad0D/E5RZI/j7t4t2mWIcHNYyio7WNOAACJSwbVKOLs46qMIUoxHyYCk4g=",
+        "url": "http://smt-usr-edge01.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd",
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/yFbrg0L/eldestape.png",
-        "drm_license_uri": "F8hFqnj06Pk6jE2M4yW/mL8BXxMUObzAgUtmLkwREUEBmGToHzt2qo/8ehueJ1E/HoIJ/xjgTu4FWJ73k5lIHg==",
+        "drm_license_uri": "kid:rwVmxQ5zPDEb36ZzapXOUA,k:5N_RKZMJezw1rUdWLWG0zg",
         "headers": {
-          "Origin": "1+HZcuuQ8b633MbAvJbH1WupJ1sE3jYLQvpDQhbP8kI=",
-          "Referer": "1+HZcuuQ8b633MbAvJbH1f9mj/z5E6jAin1bVVbinrU=",
-          "User-Agent": "yJeiRVi/RJiZIJKbxVcWgIO8hk8mhnbv9rZ0gzBMXpwD0IEg1+ex8r5YEh/SEjKI4T+3IWh6RwdhRw0Pe7AGwDmXhnEckSZYmpWlLp/IPLN9ZMMDrzRG7iymOY2qyVXvrsh4pGRKKkPljZpVLRuLvpF0VqZ3Xi9J083vSK7anE4Iaz5c1MjDbj72dSToiR3a"
+          "Origin": "https://player.sensa.com.ar",
+          "Referer": "https://player.sensa.com.ar/",
+          "User-Agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)"
         }
       },
       {
