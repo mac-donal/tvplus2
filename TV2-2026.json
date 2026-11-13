@@ -357,7 +357,7 @@
     "samples": [
       {
         "name": "RETROX TV",
-        "url": "Cxv4T2D3ytP5vJwh3BdMduZIXT8FT3q22MUuVShntToOILwiiaR45hZMtRQmPtDH6MjRiXaAXbf0XSF9zJWepsWVGQndfqrPUW257Lo9WXI=",
+        "url": "https://stream-retroxtv.site/w/YsgWSG6WtjajVhCmgkC9kkda.m3u8",
         "type": "HLS",
         "icono": "https://image.roku.com/developer_channels/prod/5b825016d98fbf3adca1d997e5ee15a003421d1100416a179469dd91f8caa308.png",
         "headers": {
@@ -3432,90 +3432,6 @@
           "Origin": "ogrS98AYT+FF4GRdYrJOTtgR/JmKA2P8WyIpe+lYTQw=",
           "User-Agent": "kXHMRvYfuV6L/9LQ6kfeVqfX67MOmOyAMSGfqquGfLI1rUp9ro/XHIwhYc2Xtwaf9Q7iZGUOIwGoDi28bJOW/dINMkhxK6oRXTpKG5dc6bA2gUMVRfnoDRL09gbfskti7hp74iLqF0YOCvcmM/fzc9Wwt+XOpJWGHBALGfEMEzNdt/0wAhXlTmQRcW4YBQNr"
         }
-      }
-    ]
-  },
-  {
-    "name": "🇵🇪 TV PERU ✨",
-    "samples": [
-      {
-        "name": "América TV",
-        "type": "HLS",
-        "url": "uvTy6UUYrqSQnKQUu8U5zBdPxm5ACdXlhfq1cVq9plVQ+n0gvwaotmOdVCeUsH9AFon0BJ4jiuHftydC/+WduGMnk2ghMCCnfR1S30USP8OyemC+kyi/oFFr2+wF9WbM",
-        "icono": "https://i.ibb.co/KpjfT12j/AMERICA.png"
-      },
-      {
-        "dtv": 1,
-        "name": "LATINA TV PERU",
-        "url": "/Q/rtwP6Y2j6pp8uES+vGRZpfKcQhKbjzVnT1RSZ9p7JyntJZ+76swmqlqlJIyQDJ7KU6+NexZCuFyBlEkn5l5YJLIjBLuRjds4tY5eXtUjla6LQekgz8DUzpoOl4YB1IHiol9ozwYFFMa1sVHlRlYNARVoQWmbbLUeFMmgHLa8=",
-        "type": "HLS",
-        "icono": "https://brandemia.org/sites/default/files/sites/default/files/logo-latina-despues.jpg",
-        "drm_license_uri": "6TDszGD3Ie4OMe8NeHChoZ2O3z5QMohkFLH1jRB4p3sayga+GhJOfNN5YK5LHIiwAGSvFNCU5RKtZGaDiVetLw==",
-        "headers": {
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxJmo8565b4sx5iGX0OtEOR3uTxUde2JTGmiJaDQJGByAQ==",
-          "Origin": "MuJxd5klPcZog4I76Iy4Q0yfjdhkm2m4zivoXkSnPDg=",
-          "Referer": "MuJxd5klPcZog4I76Iy4Q5MqnQ7c/nWYgd0/TjVFwpw="
-        }
-      },
-      {
-        "name": "ATV",
-        "type": "HLS",
-        "url": "HeCaJBrcaLZKG6/UHOyLQQst1okCM1l3Ag2ELf6tDErhIix+sRPtHxrM3hYgjOh5IhPfKF2XYnN+Uq1rgzaEFw==",
-        "icono": "https://i.ibb.co/7dZvdnMf/ATV.png"
-      },
-      {
-        "name": "ATV+ PERU",
-        "type": "HLS",
-        "url": "uvTy6UUYrqSQnKQUu8U5zBdPxm5ACdXlhfq1cVq9plVHY2opKFXGKxAcpPKyNMAtJVlrEL9JdBNA0ffO5EgjEfv3zQSGGXjtwGkuOLFpgqU=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png/1280px-ATV%2B_%28Peru%29_-_2018_logo.png"
-      },
-      {
-        "name": "Panamericana",
-        "type": "HLS",
-        "url": "uvTy6UUYrqSQnKQUu8U5zBdPxm5ACdXlhfq1cVq9plVMdPYVJRJFybV7PLcmWMHeXcSLTGkPpOo7zlXGgPe8aUQVquWonxi9PlKDlBGfAcI=",
-        "icono": "https://i.ibb.co/d46jNSvg/PANAMERICANA.png"
-      },
-      {
-        "name": "EXITOSA TV PERU",
-        "type": "HLS",
-        "url": "uvTy6UUYrqSQnKQUu8U5zBdPxm5ACdXlhfq1cVq9plWzAWPhKpagsSGBV491TnB472mLMI58YxmQ3olybZlZYfv3zQSGGXjtwGkuOLFpgqU=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png"
-      },
-      {
-        "name": "RPP TV PERU",
-        "type": "HLS",
-        "url": "uvTy6UUYrqSQnKQUu8U5zBdPxm5ACdXlhfq1cVq9plWOzHXiaxijH9UEldizvRajRBWq5aifGL0+UoOUEZ8Bwg==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png"
-      },
-      {
-        "name": "GLOBAL TV PERU",
-        "type": "HLS",
-        "url": "uvTy6UUYrqSQnKQUu8U5zBdPxm5ACdXlhfq1cVq9plXPmWDtQOIsLiYMe4R3e654zIT2lfBRLQzptXNykv+hmJsKuLEANXv1jj66GCW5iJ4=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png"
-      },
-      {
-        "name": "Willax",
-        "type": "HLS",
-        "url": "uvTy6UUYrqSQnKQUu8U5zBdPxm5ACdXlhfq1cVq9plWm/STK5Lvz1W7PLjTAkOgcFaEsm0iROX4gIYAjx3eKWZsKuLEANXv1jj66GCW5iJ4=",
-        "icono": "https://i.ibb.co/MD2JBPnZ/WILLAX.png"
-      },
-      {
-        "name": "Ovación",
-        "type": "HLS",
-        "url": "a4sRv+qRAZwZfXOjSwA3yV1mHuMZ5ZL/fo3hxgDpiVvBX1IZ/nwj9QZpWUsJkRypCYfscvlLt6Es3GoHYJOhSf3gAE0jOqCzMYKAg8FWnmU=",
-        "icono": "https://i.ibb.co/FqdbN1TS/OVACION.png"
-      },
-      {
-        "name": "LIGA 1",
-        "type": "HLS",
-        "url": "rN+0gxIYUpa1hlU18JuCtpQF7Ys2MUN2GcqfBbOOZo4+QG/jdxWQc1KVrs6+QL8h",
-        "icono": "https://i.ibb.co/7d027zDJ/L1.png"
-      },
-      {
-        "name": "LIGA 1 MAX HD",
-        "type": "HLS",
-        "url": "rN+0gxIYUpa1hlU18JuCtpQF7Ys2MUN2GcqfBbOOZo618EciWOt7h12Xsl4i408b",
-        "icono": "https://i.ibb.co/4RxB4Zhq/L1MAX.png"
       }
     ]
   },
