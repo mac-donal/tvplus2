@@ -9,18 +9,6 @@
         "icono": "https://luzutv.com.ar/wp-content/uploads/2024/08/logo-luzu-2025.png"
       }, 
       {
-        "name": "EL DESTAPE",
-        "url": "http://smt-usr-edge01.sensa.com.ar/bpk-tv/ElDestape/default/index.mpd",
-        "type": "CLEARKEY",
-        "icono": "https://i.ibb.co/yFbrg0L/eldestape.png",
-        "drm_license_uri": "kid:rwVmxQ5zPDEb36ZzapXOUA,k:5N_RKZMJezw1rUdWLWG0zg",
-        "headers": {
-          "Origin": "https://player.sensa.com.ar",
-          "Referer": "https://player.sensa.com.ar/",
-          "User-Agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)"
-        }
-      },
-      {
         "name": "PERFIL TV",
         "url": "8ZJw0UUv0Xe/ExtodpANulyaILLTimdJ6W8JBI2S22CS7v2cqmY2XdndF9DuaR/0OZbziikZC3Fj0FXq4399qkhnAJlC+5clagOx48lpU17Jt/dfLeWA9CB1T5+MT7YG",
         "type": "HLS",
