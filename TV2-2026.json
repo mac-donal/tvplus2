@@ -1420,15 +1420,10 @@
         }
       },
       {
-        "name": "🟢 CASTIGO 3",
+        "name": "🟢 CASTIGOO 3",
         "url": "https://prod-fastly-a.video.pscp.tv/Transcoding/v1/hls/2EmPLgKoyZjaNo/non_transcode/atla/x-media-live-stream-atla/master_dynamic_delta.m3u8?type=live",
         "type": "HLS",
-        "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png",
-        "headers": {
-          "Origin": "http://www.fawanews.sc",
-          "Referer": "http://www.fawanews.sc/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
-        }
+        "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
       },
       {
         "name": "🟢 CASTIGO 4",
