@@ -823,6 +823,12 @@
     "name": "🇦🇷 DEPORTES ARGENTINO ⚽",
     "samples": [
       {
+        "name": "Final: Godoy Cruz vs. Tristán Suárez",
+        "url": "l1mJtEXecCc6S/aXDju6XBIsE1Dho8O2hxb19fN3CRH9ZrxSPoSgiJ2aOzUi5awq6x0kf+iridwFCMUMm+C9kHYFOZgBrRBITsHBqhgqnUA=",
+        "type": "HLS",
+        "icono": "https://lpf-aws.vod.immergo.tv/uploaded/e7222212-5407-4bab-8df7-7c1fc985ec2c.jpeg"
+      },
+      {
         "name": "EVENTOS AR",
         "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoIOY9XZ62dOEg/xsuqAAjRCfgoPWv9LSxozY55EdfaKtCWHDBDNYtNyFPlZOkSuQ7P9dpCl/botAn+AUFm/1fOy",
         "type": "CLEARKEY",
