@@ -824,7 +824,7 @@
     "samples": [
       {
         "name": "Final: Godoy Cruz vs. Tristán Suárez",
-        "url": "l1mJtEXecCc6S/aXDju6XBIsE1Dho8O2hxb19fN3CRH9ZrxSPoSgiJ2aOzUi5awq6x0kf+iridwFCMUMm+C9kHYFOZgBrRBITsHBqhgqnUA=",
+        "url": "https://prod-fastly-p.video.pscp.tv/b/Transcoding/v1/hls/eli4MzIgXNX-zylTvWdxAFA-vFeOp600ohOIWZjchNgJqH8dakEqQyqCbpZ2O3_K19k5DDAYPiC6-7-lPd5Elw/transcode/pdxa/periscope-replays-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwNjBfMTAiLCJIZWlnaHQiOjcyMCwiSGlnaEZyYW1lUmF0ZSI6dHJ1ZSwiS2JwcyI6NDUwMCwiV2lkdGgiOjEyODB9.stuYmPPT9-xV9TCzbYuSxDgDPioKBbwtYnXdCaqBQNo/dynamic_delta.m3u8?type=live",
         "type": "HLS",
         "icono": "https://lpf-aws.vod.immergo.tv/uploaded/e7222212-5407-4bab-8df7-7c1fc985ec2c.jpeg"
       },
