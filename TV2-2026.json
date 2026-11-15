@@ -1410,6 +1410,17 @@
       },
       {
         "name": "🟢 CASTIGO 2",
+        "url": "https://5qyeig1tri1h.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
+        "type": "HLS",
+        "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png",
+        "headers": {
+          "Origin": "https://npz.nnd5rd.top",
+          "Referer": "https://npz.nnd5rd.top/",
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "name": "🟢 CASTIGO 3",
         "url": "http://193.47.62.41/hls/E666A.m3u8",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png",
