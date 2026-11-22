@@ -1450,7 +1450,7 @@
       },
       {
         "name": "🟢 CASTIGO 5",
-        "url": "https://rumble.com/live-hls/-reQKTCSs6Q/playlist.m3u8?level=1",
+        "url": "http://45.170.130.224:8000/play/a04k/index.m3u8",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
       }
