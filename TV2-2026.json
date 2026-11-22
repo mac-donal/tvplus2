@@ -1437,19 +1437,19 @@
         }
       },
       {
-        "name": "🟢 CASTIGOO 3",
+        "name": "🟢 CASTIGOO 5",
         "url": "https://prod-fastly-a.video.pscp.tv/Transcoding/v1/hls/2EmPLgKoyZjaNo/non_transcode/atla/x-media-live-stream-atla/master_dynamic_delta.m3u8?type=live",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
       },
       {
-        "name": "🟢 CASTIGO 4",
-        "url": "https://183.bozztv.com/giatv/giatv-recluta/recluta/playlist.m3u8",
+        "name": "🟢 CASTIGO 6",
+        "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
       },
       {
-        "name": "🟢 CASTIGO 5",
+        "name": "🟢 CASTIGO 7",
         "url": "http://45.170.130.224:8000/play/a04k/index.m3u8",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png"
