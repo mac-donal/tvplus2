@@ -1426,14 +1426,14 @@
         }
       },
       {
-        "name": "🟢 CASTIGO 4",
-        "url": "http://193.47.62.44/hls/ZIIIAA.m3u8",
+        "name": "🟢123CASTIGO 4",
+        "url": "https://liveassets-uvod-live-encoder-assets-1-static-2.encoders.immergo.tv/19fd4096-1244-4096-a61b-95b6687532d0/master-live.m3u8",
         "type": "HLS",
         "icono": "https://i.ibb.co/jZspmPwp/eventostvplus2.png",
         "headers": {
-          "Origin": "http://www.fawanews.sc",
-          "Referer": "http://www.fawanews.sc/",
-          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+          "Origin": "https://www.lpfplay.com",
+          "Referer": "https://www.lpfplay.com/",
+          "User-Agent": "Argentum-LPF/1 (Android)"
         }
       },
       {
