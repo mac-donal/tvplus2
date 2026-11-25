@@ -355,6 +355,42 @@
         }
       },
       {
+        "name": "CANAL 12 CORDOBA",
+        "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoIOY9XZ62dOEg/xsuqAAjRCa4v+sPXdK5QzkS3YIY1Y6R1P27werfXNPjmt57Yr9kEIAz46Yr1Hl2EhT1hQngHuy6kRnYqQJnVVBGEs/O/tJw==",
+        "icono": "https://i.ibb.co/60sFBfY/og-image.jpg",
+        "type": "CLEARKEY",
+        "drm_license_uri": "idLa3r5a66SF/HSkYv8vQjtrAW7OM+EAdz/K8T2J6NmSiuqm2ZNfpf1d7NX72vBoc1UNm509MCnRckQFt1bYIw==",
+        "headers": {
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "Canal 10 CBA",
+        "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoIOY9XZ62dOEg/xsuqAAjRCwEcBc/GEr35PThe9MFLYTLyRT4xj65Yq4WMepw/QmudxONQc7WhDMq8GL+Wt0ChkDbjzTjHlCnn5xvqZTqIxpg==",
+        "type": "CLEARKEY",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/0/03/Canal_10_C%C3%B3rdoba_actual_del_2025_.webp/revision/latest?cb=20251004230919&path-prefix=es",
+        "drm_license_uri": "4KMtW8PH5e18sU0wWP8pzq0ZnIk48XtCAUn/HKpPfBrbZU/ovhxov69/ugYBz8nAWkoSrxMDOD8iYDswjFLLLA==",
+        "headers": {
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
+        "name": "Telefe Cordoba",
+        "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoIOY9XZ62dOEg/xsuqAAjRC4uXyxGfrrBkiXndcn1uQeuayZQqAHvVQMnfYPHplJArxIOZQU0j463OkX7kusouZ5FLgOLdmyJMRa8FcrSEHdg==",
+        "type": "CLEARKEY",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png",
+        "drm_license_uri": "Ysn0NZcweTMJk1ySbvlZoB5vlShOztf+N9GV4t9CXjOLuDc7hue6H/R0opK4o3L5cIbJ/QDwzh5t7IM7GH+3eA==",
+        "headers": {
+          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
+          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
+          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
+        }
+      },
+      {
         "name": "Canal 10 - Junin Tv SA",
         "url": "xBgimtAG4hGg+6LWO7ELw7i5GWHvB62Nte6jV28CNGz1SgIM3ZBwkMRIAUu8GWLCqhh/NEFXSx9UTSo7UgydBDDwL1dnYvAwVTCM/o9be+T94ABNIzqgszGCgIPBVp5l",
         "type": "HLS",
@@ -514,18 +550,6 @@
         }
       },
       {
-        "name": "Canal 10 CBA",
-        "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoIOY9XZ62dOEg/xsuqAAjRCwEcBc/GEr35PThe9MFLYTLyRT4xj65Yq4WMepw/QmudxONQc7WhDMq8GL+Wt0ChkDbjzTjHlCnn5xvqZTqIxpg==",
-        "type": "CLEARKEY",
-        "icono": "https://static.wikia.nocookie.net/doblaje/images/0/03/Canal_10_C%C3%B3rdoba_actual_del_2025_.webp/revision/latest?cb=20251004230919&path-prefix=es",
-        "drm_license_uri": "4KMtW8PH5e18sU0wWP8pzq0ZnIk48XtCAUn/HKpPfBrbZU/ovhxov69/ugYBz8nAWkoSrxMDOD8iYDswjFLLLA==",
-        "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
         "name": "Canal 3 Rosario",
         "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoIOY9XZ62dOEg/xsuqAAjRCZ9DheUbv5QhRmMZQ660VatjzfHBsE9t39bfG/P7HCB1uGmpIhjJQ7CaMP/Pn7hzKMl3RgJAG8VvLEBXOr9gnig==",
         "type": "CLEARKEY",
@@ -597,18 +621,6 @@
         "type": "CLEARKEY",
         "icono": "https://i.ibb.co/vvknBFv/canal10-tucuman.png",
         "drm_license_uri": "s+i0wMRngGWkgQSx5kNPYpWxZ/9A5S/EO3HjRSIooxZlFzSdeDn4+wQAM1wxsHHEUGn5PnuC9M++xzXoNZK2Eg==",
-        "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
-        "name": "CANAL 12 CORDOBA",
-        "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoIOY9XZ62dOEg/xsuqAAjRCa4v+sPXdK5QzkS3YIY1Y6R1P27werfXNPjmt57Yr9kEIAz46Yr1Hl2EhT1hQngHuy6kRnYqQJnVVBGEs/O/tJw==",
-        "icono": "https://i.ibb.co/60sFBfY/og-image.jpg",
-        "type": "CLEARKEY",
-        "drm_license_uri": "idLa3r5a66SF/HSkYv8vQjtrAW7OM+EAdz/K8T2J6NmSiuqm2ZNfpf1d7NX72vBoc1UNm509MCnRckQFt1bYIw==",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
@@ -770,18 +782,6 @@
         "type": "CLEARKEY",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png",
         "drm_license_uri": "8o2zO/hmC+oMixIqFErfYUiEdvxR4OJpkwDMTvmCgZOH8v4zzvzU+TPlf/ibCKE8bgTG//tXtK+ziWky9FnJQg==",
-        "headers": {
-          "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
-          "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
-          "User-Agent": "fBtbDWlh7ztd5ZrKdo3vWpe7Kzq66pqVW6+xDgjvTOD0nJ1BLBrt33DCl8LOUzIVjhUvQDqnYhSK9I2aCEcpVBbUJzoc1I+1wBKxu1rLoxIwk6Bs1KAGvxcYO4E11dpsuTxUde2JTGmiJaDQJGByAQ=="
-        }
-      },
-      {
-        "name": "Telefe Cordoba",
-        "url": "HAlPgEKL1WyNks5ffsf7d8OObHa4wmGMv9wRkzclyoIOY9XZ62dOEg/xsuqAAjRC4uXyxGfrrBkiXndcn1uQeuayZQqAHvVQMnfYPHplJArxIOZQU0j463OkX7kusouZ5FLgOLdmyJMRa8FcrSEHdg==",
-        "type": "CLEARKEY",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png",
-        "drm_license_uri": "Ysn0NZcweTMJk1ySbvlZoB5vlShOztf+N9GV4t9CXjOLuDc7hue6H/R0opK4o3L5cIbJ/QDwzh5t7IM7GH+3eA==",
         "headers": {
           "Origin": "8B9BDeHPlOmiE9s1KUH4eN0KPea0k3SIOgD/yKRAkaM=",
           "Referer": "8B9BDeHPlOmiE9s1KUH4eIOJJCljZ4X36FgHxtEh358=",
